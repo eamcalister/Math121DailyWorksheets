@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <!-- When creating a new activity, make a copy of this file with appropriate name -->
+        <handout margin="1in" bottom="1.25cm" xml:id="Week1Monday">
+            <title>Monday Week 1 - Review of Functions with Algebra</title>
+<page>
+        <objectives xml:id="objectives">
+          <ul>
+            <li>Review functions, function notation, and inputs/outputs using algebra.</li>
+            <li>Review the domain and range of a function.</li>
+          </ul>
+        </objectives>
+            <introduction>
+                <p>
+                    Today we will review inputs and outputs of functions.
+                </p>
+            </introduction>
+
+<definition xml:id="def-function">
+    <statement>
+        <p workspace="2in">
+            A <term>function</term> is ...
+        </p>
+    </statement>
+</definition>
+<p>
+    The most fundamental tasks with functions are to <em>evaluate</em> them at an input (to obtain the output) and <em>solve</em> for the input given the output. 
+</p>
+
+<example>
+    <statement>
+        <p>
+            Let <m>y=f(x) = x^2-5</m>. Find <m>f(3)</m> and solve the equation <m>f(x) = 9</m>.
+        </p>
+    </statement>
+    <p workspace="2in">
+        
+    </p>
+</example>
+
+<paragraphs>
+    <title>Evaluate and Solve Exercises</title>
+<ol>
+    <li>
+        <p workspace="2in">
+            Let <m>f(t) = t^2 - 4</m>. Evaluate <m>f(0)</m> and solve the equation <m>f(t) = 0</m>.
+        </p>
+    </li>
+        <li>
+        <p workspace="2in">
+            Let <m>g(x) = \frac{1}{x+2} -1</m>. Evaluate <m>g(1)</m> and solve the equation <m>g(x) = 1</m>.
+        </p>
+    </li>
+
+</ol>
+
+
+</paragraphs>
+
+</page>
+
+<page>
+
+    <definition xml:id="def-domain-range">
+        <statement>
+            <p workspace="1in">
+                The <term>domain</term> of a function is..
+            </p>
+            <p workspace="1in">
+                The <term>range</term> of a function is..
+            </p>
+        </statement>
+    </definition>
+<p workspace="3in">
+    To find the domain and/or range of a function, ome useful strategies are...
+</p>
+
+<example>
+    <statement>
+        <p>
+            Find the domain and range of <m>g(x) = \frac{1}{x+2} -1</m>.
+        </p>
+        <p workspace="4in">
+            
+        </p>
+    </statement>
+
+
+</example>
+
+</page>
+<page>
+<paragraphs>
+    <title>Exercises Finding the Domain</title>
+<p>
+    Find the domain of each of the following functions.
+</p>
+<ol>
+    <li>
+        <p workspace="2in">
+            <m>f(t) = \frac{t-3}{3t+9}</m>
+        </p>
+    </li>
+    <li>
+        <p workspace="2in">
+            <m>n(q) = \frac{1}{q^4+2}</m>
+        </p>
+    </li>
+    <li>
+        <p workspace="2in">
+            <m>f(x) = \sqrt{x^2-4}</m>
+        </p>
+    </li>
+    <li>
+        <p workspace="2in">
+            <m>m(x) = x^2-9</m>
+        </p>
+    </li>
+
+</ol>
+
+</paragraphs>   
+
+
+
+</page>
+
+        
+
+</handout>
