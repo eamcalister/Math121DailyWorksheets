@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
     <!-- When creating a new activity, make a copy of this file with appropriate name -->
-        <handout margin="1in" bottom="1.25cm" xml:id="Week1Monday">
-            <title>Monday Week 1 - Review of Functions with Algebra</title>
+        <handout margin="1in" bottom="1.25cm" xml:id="Week1Wed">
+            <title>Wednesday Week 1 - Functions with Graphs and Tables</title>
 <page>
         <objectives>
           <ul>
@@ -16,7 +16,7 @@
                 </p>
             </introduction>
 
-<definition xml:id="def-function">
+<definition xml:id="function-graph">
     <statement>
         <p workspace="2in">
             A <term>function</term> is ...
@@ -61,16 +61,6 @@
 
 <page>
 
-    <definition xml:id="def-domain-range">
-        <statement>
-            <p workspace="1in">
-                The <term>domain</term> of a function is..
-            </p>
-            <p workspace="1in">
-                The <term>range</term> of a function is..
-            </p>
-        </statement>
-    </definition>
 <p workspace="3in">
     To find the domain and/or range of a function, some useful strategies are...
 </p>
