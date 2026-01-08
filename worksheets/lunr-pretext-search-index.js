@@ -116,6 +116,51 @@ var ptx_lunr_docs = [
   "number": "1.8",
   "title": "",
   "body": "  Consider the function , graphed with Desmos below (use QR code to get it on your own device).           Solve the equation using the graph.    Find the domain of from the graph.    Find the range of from the graph.     "
+},
+{
+  "id": "Week1Fri",
+  "level": "1",
+  "url": "Week1Fri.html",
+  "type": "Handout",
+  "number": "1.3",
+  "title": "Friday Week 1 - Shifts and Reflections of Functions",
+  "body": " Friday Week 1 - Shifts and Reflections of Functions     Introduce four basic graphical transformations of functions: vertical\/horizontal shifts\/reflections . Introduce even and odd functions.     We will see through the course of the semester that many families of functions are built as graphical transformations of simpler functions. Today we will introduce these transformations, and they will follow us through the rest of the class.     Consider the function whose entire graph is given below:    f(x)=x+1  g(x)=-0.5*x+1  a = 1                In the same axes, graph each of the following functions:                           To summarize:     has the same graph as , except  .     has the same graph as , except  .     has the same graph as , except  .     has the same graph as , except  .     has the same graph as , except  .     has the same graph as , except  .     Problem  Consider the function whose graph is given in the following Desmos interactive:   Link    For each of the following, sketch a graph (without Desmos) of the indicated function and describe the transformation verbally. Then check your answer with Desmos.                   A function is even if...  A function is odd if...     Problem  Using the function in the previous problem, is it even, odd, or neither?    "
+},
+{
+  "id": "Week1Fri-2-1",
+  "level": "2",
+  "url": "Week1Fri.html#Week1Fri-2-1",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "  Introduce four basic graphical transformations of functions: vertical\/horizontal shifts\/reflections . Introduce even and odd functions.   "
+},
+{
+  "id": "Week1Fri-2-3",
+  "level": "2",
+  "url": "Week1Fri.html#Week1Fri-2-3",
+  "type": "Example",
+  "number": "1.9",
+  "title": "",
+  "body": "  Consider the function whose entire graph is given below:    f(x)=x+1  g(x)=-0.5*x+1  a = 1                In the same axes, graph each of the following functions:                        "
+},
+{
+  "id": "sgraph",
+  "level": "2",
+  "url": "Week1Fri.html#sgraph",
+  "type": "Figure",
+  "number": "1.10",
+  "title": "",
+  "body": " Link   "
+},
+{
+  "id": "Week1Fri-4-1",
+  "level": "2",
+  "url": "Week1Fri.html#Week1Fri-4-1",
+  "type": "Definition",
+  "number": "1.11",
+  "title": "",
+  "body": "  A function is even if...  A function is odd if...   "
 }
 ]
 
