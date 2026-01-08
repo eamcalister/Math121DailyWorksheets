@@ -116,7 +116,8 @@ To summarize:
     </p>
     <figure xml:id="sgraph">
         <caption><url href="https://www.desmos.com/calculator/124c3db82b">Link</url></caption>
-         <image width="15%" source="desmos-s-graph.png"></image>
+         <image width="15%" source="desmos-s-graph.png">
+         </image>
     </figure>
     
     <p>
