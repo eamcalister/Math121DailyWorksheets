@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <!-- When creating a new activity, make a copy of this file with appropriate name -->
+        <handout margin="1in" bottom="1.25cm" xml:id="Week1Fri">
+            <title>Friday Week 1 - Shifts and Reflections of Functions</title>
+<page>
+        <objectives>
+          <ul>
+            <li>Introduce four basic graphical transformations of functions: vertical/horizontal shifts/reflections</li>.
+            <li>Introduce even and odd functions.</li>
+          </ul>
+        </objectives>
+            <introduction>
+                <p>
+                    We will see through the course of the semester that many families of functions are built as <em>graphical transformations</em> of simpler functions. Today we will introduce these transformations, and they will follow us through the rest of the class.
+                </p>
+            </introduction>
+
+
+
+<example>
+    <statement>
+    <p>
+    Consider the function whose entire graph is given below:
+    <image>
+<prefigure label = "sqrts" xmlns="https://prefigure.org">
+<diagram dimensions="(300,300)" margins="(50,5,50,5)">
+  <definition>f(x)=x+1</definition>
+  <definition>g(x)=-0.5*x+1</definition>
+
+  <definition>a = 1</definition>
+  <coordinates bbox="(-5,-5,5,5)">
+    <grid-axes xlabel="x" ylabel="y"/>
+    <graph at="graph" function="f" domain="[-1,0]"/>
+    <graph at="graph" function="g" domain="[0,2]"/>
+    <point at="point" p="(-1,f(-1))" alignment="ne">
+    </point>
+    <point at="point" p="(0,f(0))" alignment="ne">
+    </point>
+    <point at="point" p="(2,g(2))" alignment="ne">
+    </point>
+  </coordinates>
+
+</diagram>
+</prefigure>
+</image>  
+    </p>
+    In the same axes, graph each of the following functions:
+    <ol>
+        <li>
+            <p>
+                <m>-f(x)</m>
+            </p>
+        </li>
+        <li>
+            <p>
+                <m>f(-x)</m>
+            </p>
+        </li>
+        <li>
+            <p>
+                <m>f(x) + 1</m>
+            </p>
+        </li>
+        <li>
+            <p>
+                <m>f(x)-1</m>
+            </p>
+        </li>
+    </ol>
+    </statement>
+</example>
+
+</page>
+<page>
+<p>
+To summarize:
+</p>
+<ul>
+    <li>
+        <p>
+        <m>f(-x)</m> has the same graph as <m>f(x)</m>, except <fillin characters="35" /> <fillin characters="25" />.
+        </p>
+    </li>
+    <li>
+        <p>
+        <m>-f(x)</m> has the same graph as <m>f(x)</m>, except <fillin characters="35" /> <fillin characters="25" />.
+        </p>
+    </li>
+    <li>
+        <p>
+        <m>f(x-a)</m> has the same graph as <m>f(x)</m>, except <fillin characters="35" /> <fillin characters="25" />.
+        </p>
+    </li>
+    <li>
+        <p>
+        <m>f(x+a)</m> has the same graph as <m>f(x)</m>, except <fillin characters="35" /> <fillin characters="25" />.
+        </p>
+    </li>
+    <li>
+        <p>
+        <m>f(x)+b</m> has the same graph as <m>f(x)</m>, except <fillin characters="35" /> <fillin characters="25" />.
+        </p>
+    </li>
+    <li>
+        <p>
+        <m>f(x)-b</m> has the same graph as <m>f(x)</m>, except <fillin characters="35" /> <fillin characters="25" />.
+        </p>
+    </li>    
+</ul>
+
+<paragraphs>
+    <title>Problem</title>
+    <p>
+    Consider the function whose graph is given in the following Desmos interactive:
+    </p>
+    <figure xml:id="sgraph">
+        <caption><url href="https://www.desmos.com/calculator/124c3db82b">Link</url></caption>
+         <image width="15%" source="desmos-s-graph.png"></image>
+    </figure>
+    
+    <p>
+        For each of the following, sketch a graph (without Desmos) of the indicated function and describe the transformation verbally. Then check your answer with Desmos.
+    </p>
+    <ol>
+        <li>
+            <p workspace="2in">
+                <m>y=s(x+2)</m>
+            </p>
+        </li>
+        <li>
+            <p workspace="2in">
+                <m>y = s(x-3)+2</m>
+            </p>
+        </li>
+    </ol>
+</paragraphs>
+
+</page>
+<page>
+
+<definition>
+    <statement>
+        <p workspace="1in">
+           A function is <term>even</term> if...
+        </p>
+        <p workspace="1in">
+           A function is <term>odd</term> if...
+        </p>
+    </statement>
+</definition>
+
+<paragraphs>
+    <title>Problem</title>
+    <p workspace="2in">
+    Using the function in the previous problem, is it even, odd, or neither?
+    </p>
+</paragraphs>
+
+
+
+
+</page>
+
+
+        
+
+</handout>
