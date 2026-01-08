@@ -6,84 +6,137 @@
 <page>
         <objectives>
           <ul>
-            <li>Review functions, function notation, and inputs/outputs using algebra.</li>
-            <li>Review the domain and range of a function.</li>
+            <li>Recall how to evaluate functions and solve equations with graphs and tables.</li>
+            <li>Find the domain and range of a function graphically.</li>
           </ul>
         </objectives>
             <introduction>
                 <p>
-                    Today we will review inputs and outputs of functions.
+                    In addition to formulas, functions may be represented with input-output tables and with graphs. Every procedure we learned on Monday has a graphical interpretation. But first, let's do a warm-up exercise.
                 </p>
             </introduction>
+
+<example>
+    <statement><title>Warm-up Question</title>
+        <p workspace="3in">
+            Let <m>f(x) = \frac{2x^2 +1}{3x}</m>. Solve the equation <m>f(x) = 1</m>.
+        </p>
+    </statement>
+
+</example>
+
+<example>
+    <statement>
+    <p>
+    Data for the observed rainfall, <m>R = f(t)</m>, in Tucson is given in the table below. Assume <m>t</m> is in months and <m>t=1</m> represents January. 
+    </p>
+    <tabular>
+        <row bottom = "major">
+            <cell> <m>t</m> (months)</cell><cell><m>1</m></cell><cell><m>2</m></cell><cell><m>3</m></cell><cell><m>4</m></cell><cell><m>5</m></cell>
+        </row>
+        <row>
+            <cell><m>R</m> (inches)</cell><cell><m>0</m></cell><cell><m>0.1</m></cell><cell><m>0.54</m></cell><cell><m>0.1</m></cell><cell><m>0.35</m></cell>
+        </row>
+    </tabular>
+    <ol>
+        <li>
+            <p workspace="1in">
+                Find and interpret <m>f(5)</m>.
+            </p>
+        </li>
+        <li>
+            <p workspace="1in">
+                Solve the equation <m>f(t) = 0</m> and give the practical meaning of the solution(s).
+            </p>
+        </li>
+        <li>
+            <p workspace="1in">
+               Solve the equation <m>f(t) = 0.1</m> and give the practical meaning of the solution(s). 
+            </p>
+        </li>
+    </ol>
+        
+
+    </statement>
+</example>
+
+</page>
+<page>
 
 <definition xml:id="function-graph">
     <statement>
         <p workspace="2in">
-            A <term>function</term> is ...
+            The <term>graph of a function</term> is ...
         </p>
     </statement>
 </definition>
 <p>
-    The most fundamental tasks with functions are to <em>evaluate</em> them at an input (to obtain the output) and <em>solve</em> for the input given the output. 
+    Given a function <m>y = f(x)</m>, we can evaluate, solve equations, find the domain, and find the range graphically as follows: 
 </p>
-
-<example>
-    <statement>
-        <p>
-            Let <m>y=f(x) = x^2-5</m>. Find <m>f(3)</m> and solve the equation <m>f(x) = 9</m>.
-        </p>
-    </statement>
-    <p workspace="2in">
-        
-    </p>
-</example>
-
-<paragraphs>
-    <title>Evaluate and Solve Exercises</title>
-<ol>
+<ul>
     <li>
-        <p workspace="2in">
-            Let <m>f(t) = t^2 - 4</m>. Evaluate <m>f(0)</m> and solve the equation <m>f(t) = 0</m>.
+        <p workspace="0.75in">
+            To evaluate <m>f(a)</m>...
         </p>
     </li>
         <li>
-        <p workspace="2in">
-            Let <m>g(x) = \frac{1}{x+2} -1</m>. Evaluate <m>g(1)</m> and solve the equation <m>g(x) = 1</m>.
+        <p workspace="0.75in">
+            To solve <m>f(x) = b</m>...
         </p>
     </li>
+        <li>
+        <p workspace="0.75in">
+            The domain of <m>f</m> is...
+        </p>
+    </li>
+        <li>
+        <p workspace="0.75in">
+            The range of <m>f</m> is...
+        </p>
+    </li>
+</ul>
 
-</ol>
 
-
-</paragraphs>
-
-</page>
-
-<page>
-
-<p workspace="3in">
-    To find the domain and/or range of a function, some useful strategies are...
-</p>
 
 <example>
     <statement>
         <p>
-            Find the domain and range of <m>g(x) = \frac{1}{x+2} -1</m>.
+            Consider the function <m>f(x) = \frac{2x^2+1}{3x}</m>, graphed with Desmos below (use QR code to get it on your own device).
+            <!--sidebyside these-->
+            <!--note that you need to generate print verion, then move the qr code .png into assets for this.-->
+            <sidebyside widths="75% 25%">
+                <interactive  xml:id="desmos-rational-domain-rang" desmos="3tyghkjefu" width="100%" aspect="3:2" />
+                <image width="30%" source="desmos-rational-domain-rang.png"> </image>
+            </sidebyside>
         </p>
-        <p workspace="4in">
-            
+    <ol>
+        <li>
+        <p workspace="1in">
+        Solve the equation <m>f(x) = 1</m> using the graph.
         </p>
+        </li>
+        <li>
+            <p workspace="1in">
+                Find the domain of <m>f</m> from the graph.
+            </p>
+        </li>
+        <li>
+            <p workspace="1in">
+                Find the range of <m>f</m> from the graph.
+            </p>
+        </li>
+    </ol>
     </statement>
-
 
 </example>
 
 </page>
 <page>
+
 <paragraphs>
-    <title>Exercises Finding the Domain</title>
+    <title>Graphical Domain and Range Exercises</title>
 <p>
-    Find the domain of each of the following functions.
+    Find the domain of each of the following functions using a Desmos graph.
 </p>
 <ol>
     <li>

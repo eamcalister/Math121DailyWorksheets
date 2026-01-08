@@ -12,7 +12,8 @@
     </introduction>
     <section>
       <title>Week 1</title>
-    <xi:include href="./activities/Week1/MondayWeek1_AlgebraicFunctionReview.ptx"/>    
+    <xi:include href="./activities/Week1/MondayWeek1_AlgebraicFunctionReview.ptx"/>   
+    <xi:include href="./activities/Week1/WedWeek1_GraphsAndTables.ptx"/>   
     </section>
 
 
