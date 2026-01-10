@@ -6,13 +6,13 @@
 <page>
         <objectives>
           <ul>
-            <li>Introduce four basic graphical transformations of functions: vertical/horizontal shifts/reflections</li>.
+            <li>Introduce four basic graphical transformations of functions: vertical/horizontal shifts/reflections.</li>
             <li>Introduce even and odd functions.</li>
           </ul>
         </objectives>
             <introduction>
                 <p>
-                    We will see through the course of the semester that many families of functions are built as <em>graphical transformations</em> of simpler functions. Today we will introduce these transformations, and they will follow us through the rest of the class.
+                    We will see through the course of the semester that many families of functions are built as <em>graphical transformations</em> of simpler functions. Today we will introduce some of these transformations, and they will follow us through the rest of the class.
                 </p>
             </introduction>
 

@@ -17,6 +17,11 @@
     <xi:include href="./activities/Week1/FriWeek1_Shifts_Reflections.ptx"/>    
     </section>
 
+        <section>
+      <title>Week 2</title>
+    <xi:include href="./activities/Week1/MondayWeek2_VerticalStretches.ptx"/>      
+    </section>
+
 
     <!-- Add more xi:include files here to include them in the main course -->
   </article>

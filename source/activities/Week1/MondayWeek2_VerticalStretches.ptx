@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <!-- When creating a new activity, make a copy of this file with appropriate name -->
+        <handout margin="1in" bottom="1.25cm" xml:id="Week2Mon">
+            <title>Monday Week 2 - Vertical Stretches and Compressions</title>
+<page>
+        <objectives>
+          <ul>
+            <li>Introduce vertical stretches and compressions.</li>
+            <li>Practice working with the graphical transformations we have learned so far..</li>
+          </ul>
+        </objectives>
+            <introduction>
+                <p>
+                    On Friday we introduced graphical transformations. Today, we will discuss transformations arising from multiplying a function by a constant.
+                </p>
+            </introduction>
+
+
+
+<example>
+    <statement>
+    <p>
+    Use the graph of <m>y = f(x)</m> given below, and the labeled points on the graphs, to sketch graphs of
+    <ol>
+        <li>
+            <p>
+                <m>y = \frac{1}{2}f(x)</m> and
+            </p>
+        </li>
+        <li>
+            <p>
+                <m>y=2f(x)</m>.
+            </p>
+        </li>
+    </ol>
+</p>
+    <image>
+<prefigure label = "vert_stretch_cubic" xmlns="https://prefigure.org">
+<diagram dimensions="(500,500)" margins="(100,0,100,5)">
+  <definition>f(x)=(7*x^3)/30-x^2/2+x/15+4</definition>
+  <coordinates bbox="(-8,-6,8,10)">
+    <grid-axes xlabel="x" ylabel="y" spacings="(-8,1,8),(-6,1,10)"/>
+    <graph at="graph" function="f"/>
+    <point  p="(0,f(0))" alignment="w">
+      <m>(0,4)</m>
+    </point>
+    <point  p="(-2,f(-2))" alignment="ne">
+      <m>(-2,0)</m>
+    </point>
+    <point p="(2,f(2))" alignment="ne">
+      <m>(2,4)</m>
+    </point>
+    <point p="(3,f(3))" alignment="ne">
+      <m>(3,6)</m>
+    </point>
+  </coordinates>
+</diagram>
+</prefigure>
+</image>  
+
+</statement>
+</example>
+    
+<p>
+To summarize:
+</p>
+<ul>
+    <li>
+        <p>
+        <m>f(-x)</m> has the same graph as <m>f(x)</m>, except <fillin characters="35" /> <fillin characters="25" />.
+        </p>
+    </li>
+    <li>
+        <p>
+        <m>-f(x)</m> has the same graph as <m>f(x)</m>, except <fillin characters="35" /> <fillin characters="25" />.
+        </p>
+    </li>   
+</ul>
+
+</page>
+<page>
+
+<paragraphs>
+    <title>Problem</title>
+    <p>
+    Consider the function whose graph is given below:
+    </p>
+    <image width="50%" source="zgraph.png"></image>
+    
+    <p>
+        Match each of the formulas below with one of the graphs (a)-(i).
+        <ul>
+            <li>
+                <p>
+                    <m>2f(x)</m>
+                </p>
+            </li>
+            <li>
+                <p>
+                    <m>\frac{1}{3}f(x)</m>
+                </p>
+            </li>
+            <li>
+                <p>
+                    <m>-f(x+1)</m>
+                </p>
+            </li>
+            <li>
+                <p>
+                    <m>f(x+2)+1</m>
+                </p>
+            </li>
+            <li>
+                <p>
+                    <m>f(-x)</m>
+                </p>
+            </li>
+        </ul>
+    </p>
+    <image width="65%" source="GraphChoices1.png"></image>
+</paragraphs>
+
+</page>
+<page>
+
+<paragraphs>
+    <title>Problem</title>
+    <p>
+    Suppose <m>(6,9)</m> is a point on the graph of <m>g(x)</m>. For each of the following transformations of <m>g(x)</m>, decide the coordinates of the transformed version of this point.
+    </p>
+    <p workspace="2in">
+     <ul>
+        <li>
+            <p>
+                <m>2g(x-3) - 5</m>
+            </p>
+        </li>
+     </ul>   
+    </p>
+        <p workspace="2in">
+     <ul>
+        <li>
+            <p>
+                <m>3g(x) + 1</m>
+            </p>
+        </li>
+     </ul>   
+    </p>
+        <p workspace="2in">
+     <ul>
+        <li>
+            <p>
+                <m>-\left(g\left(x+4\right) - 8 \right)</m>
+            </p>
+        </li>
+     </ul>   
+    </p>
+        <p workspace="2in">
+     <ul>
+        <li>
+            <p>
+                <m>\frac{1}{2}g(-5x-15)-8</m>
+            </p>
+        </li>
+     </ul>   
+    </p>
+
+</paragraphs>
+
+
+
+
+</page>
+
+
+        
+
+</handout>
