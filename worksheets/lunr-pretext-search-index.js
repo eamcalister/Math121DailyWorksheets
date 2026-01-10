@@ -124,7 +124,7 @@ var ptx_lunr_docs = [
   "type": "Handout",
   "number": "1.3",
   "title": "Friday Week 1 - Shifts and Reflections of Functions",
-  "body": " Friday Week 1 - Shifts and Reflections of Functions     Introduce four basic graphical transformations of functions: vertical\/horizontal shifts\/reflections . Introduce even and odd functions.     We will see through the course of the semester that many families of functions are built as graphical transformations of simpler functions. Today we will introduce these transformations, and they will follow us through the rest of the class.     Consider the function whose entire graph is given below:    f(x)=x+1  g(x)=-0.5*x+1  a = 1                In the same axes, graph each of the following functions:                           To summarize:     has the same graph as , except  .     has the same graph as , except  .     has the same graph as , except  .     has the same graph as , except  .     has the same graph as , except  .     has the same graph as , except  .     Problem  Consider the function whose graph is given in the following Desmos interactive:   Link     For each of the following, sketch a graph (without Desmos) of the indicated function and describe the transformation verbally. Then check your answer with Desmos.                   A function is even if...  A function is odd if...     Problem  Using the function in the previous problem, is it even, odd, or neither?    "
+  "body": " Friday Week 1 - Shifts and Reflections of Functions     Introduce four basic graphical transformations of functions: vertical\/horizontal shifts\/reflections.  Introduce even and odd functions.     We will see through the course of the semester that many families of functions are built as graphical transformations of simpler functions. Today we will introduce some of these transformations, and they will follow us through the rest of the class.     Consider the function whose entire graph is given below:    f(x)=x+1  g(x)=-0.5*x+1  a = 1                In the same axes, graph each of the following functions:                           To summarize:     has the same graph as , except  .     has the same graph as , except  .     has the same graph as , except  .     has the same graph as , except  .     has the same graph as , except  .     has the same graph as , except  .     Problem  Consider the function whose graph is given in the following Desmos interactive:   Link     For each of the following, sketch a graph (without Desmos) of the indicated function and describe the transformation verbally. Then check your answer with Desmos.                   A function is even if...  A function is odd if...     Problem  Using the function in the previous problem, is it even, odd, or neither?    "
 },
 {
   "id": "Week1Fri-2-1",
@@ -133,7 +133,7 @@ var ptx_lunr_docs = [
   "type": "Objectives",
   "number": "",
   "title": "",
-  "body": "  Introduce four basic graphical transformations of functions: vertical\/horizontal shifts\/reflections . Introduce even and odd functions.   "
+  "body": "  Introduce four basic graphical transformations of functions: vertical\/horizontal shifts\/reflections.  Introduce even and odd functions.   "
 },
 {
   "id": "Week1Fri-2-3",
@@ -161,6 +161,33 @@ var ptx_lunr_docs = [
   "number": "1.11",
   "title": "",
   "body": "  A function is even if...  A function is odd if...   "
+},
+{
+  "id": "Week2Mon",
+  "level": "1",
+  "url": "Week2Mon.html",
+  "type": "Handout",
+  "number": "2.1",
+  "title": "Monday Week 2 - Vertical Stretches and Compressions",
+  "body": " Monday Week 2 - Vertical Stretches and Compressions     Introduce vertical stretches and compressions.  Practice working with the graphical transformations we have learned so far..     On Friday we introduced graphical transformations. Today, we will discuss transformations arising from multiplying a function by a constant.     Use the graph of given below, and the labeled points on the graphs, to sketch graphs of    and     .        f(x)=(7*x^3)\/30-x^2\/2+x\/15+4      (0,4)    (-2,0)    (2,4)    (3,6)         To summarize:     has the same graph as , except  .     has the same graph as , except  .       Problem  Consider the function whose graph is given below:   Match each of the formulas below with one of the graphs (a)-(i).                                  Problem  Suppose is a point on the graph of . For each of the following transformations of , decide the coordinates of the transformed version of this point.                                        "
+},
+{
+  "id": "Week2Mon-2-1",
+  "level": "2",
+  "url": "Week2Mon.html#Week2Mon-2-1",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "  Introduce vertical stretches and compressions.  Practice working with the graphical transformations we have learned so far..   "
+},
+{
+  "id": "Week2Mon-2-3",
+  "level": "2",
+  "url": "Week2Mon.html#Week2Mon-2-3",
+  "type": "Example",
+  "number": "2.1",
+  "title": "",
+  "body": "  Use the graph of given below, and the labeled points on the graphs, to sketch graphs of    and     .        f(x)=(7*x^3)\/30-x^2\/2+x\/15+4      (0,4)    (-2,0)    (2,4)    (3,6)        "
 }
 ]
 
