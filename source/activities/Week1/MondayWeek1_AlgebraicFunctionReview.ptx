@@ -18,7 +18,7 @@
 
 <definition xml:id="def-function">
     <statement>
-        <p workspace="2in">
+        <p workspace="1in">
             A <term>function</term> is ...
         </p>
     </statement>
@@ -29,13 +29,10 @@
 
 <example>
     <statement>
-        <p>
+        <p workspace="2in">
             Let <m>y=f(x) = x^2-5</m>. Find <m>f(3)</m> and solve the equation <m>f(x) = 9</m>.
         </p>
     </statement>
-    <p workspace="2in">
-        
-    </p>
 </example>
 
 <paragraphs>
