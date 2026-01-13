@@ -188,6 +188,69 @@ var ptx_lunr_docs = [
   "number": "2.1",
   "title": "",
   "body": "  Use the graph of given below, and the labeled points on the graphs, to sketch graphs of    and     .        f(x)=(7*x^3)\/30-x^2\/2+x\/15+4      (0,4)    (-2,0)    (2,4)    (3,6)        "
+},
+{
+  "id": "Week2Wed",
+  "level": "1",
+  "url": "Week2Wed.html",
+  "type": "Handout",
+  "number": "2.2",
+  "title": "Wednesday Week 2 - Special Forms of Linear and Quadratic Functions",
+  "body": " Wednesday Week 2 - Special Forms of Linear and Quadratic Functions     Review the point-slope and vertex forms of linear and quadratic functions, respectively.  Show how to put a quadratic function into vertex form without any memorization.     Point-slope and vertex forms of linear and quadratic functions, respectively, are useful ways to build these functions so that specific properties hold. Today we will review them. Tomorrow we will interpret them as graphical transformations of specific parent functions.       A  point-slope form of a linear function is ...  The vertex form of a quadratic function is ...     The most evident reason for these forms occurs when you evaluate the linear function at and the quadratic function at .  However, the vertex form of a quadratic function can show much more. We show this with the following example.      Consider . What can we see using the vertex form?    Thus, we can see                          A good question is how to put a quadratic function into vertex form (also known as completing the square ). One easy (and always reliable) way to do it is to proceed as follows:    Set your standard form equal to using the given value of and leaving and as unknowns.    Expand and group like terms.    Match coefficients of powers of to solve for and .    (Similar procedures to this appear over and over in later courses.)   Problems  Put each of the following quadratic functions into vertex form and then sketch its graph. (We'll do one together.)                "
+},
+{
+  "id": "Week2Wed-2-1",
+  "level": "2",
+  "url": "Week2Wed.html#Week2Wed-2-1",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "  Review the point-slope and vertex forms of linear and quadratic functions, respectively.  Show how to put a quadratic function into vertex form without any memorization.   "
+},
+{
+  "id": "Week2Wed-2-3",
+  "level": "2",
+  "url": "Week2Wed.html#Week2Wed-2-3",
+  "type": "Definition",
+  "number": "2.2",
+  "title": "",
+  "body": "    A  point-slope form of a linear function is ...  The vertex form of a quadratic function is ...    "
+},
+{
+  "id": "Week2Wed-3-1",
+  "level": "2",
+  "url": "Week2Wed.html#Week2Wed-3-1",
+  "type": "Example",
+  "number": "2.3",
+  "title": "",
+  "body": "  Consider . What can we see using the vertex form?   "
+},
+{
+  "id": "Week2Fri",
+  "level": "1",
+  "url": "Week2Fri.html",
+  "type": "Handout",
+  "number": "2.3",
+  "title": "Friday Week 2 - Horizontal Scaling",
+  "body": " Friday Week 2 - Horizontal Scaling     Introduce the last basic graphical transformation: horizontal scaling.  Discuss how to navigate multiple transformations (order matters!).     The last basic graphical transformation comes from multiplying by constants. After we discuss the effect of this transformation, we will start a discussion of applying multiple transformations.     Consider the function whose entire graph is given below:    f(x)=2*((x-1)^2-1)  g(x)=2*(1\/(1+exp(-8*(x-2)))-.5)  h(x)=1                   In the same axes, graph each of the following functions:                 To summarize:     has the same graph as , except  .     has the same graph as , except  .     Problems  Below we have the graph of . In the same set of axes, graph the given transformed function. Also, give a verbal description of the sequence of basic transformations that were performed, in the correct order.         f(x)=sqrt(x^2)               Graph            f(x)=sqrt(x^2)               Graph         "
+},
+{
+  "id": "Week2Fri-2-1",
+  "level": "2",
+  "url": "Week2Fri.html#Week2Fri-2-1",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "  Introduce the last basic graphical transformation: horizontal scaling.  Discuss how to navigate multiple transformations (order matters!).   "
+},
+{
+  "id": "Week2Fri-2-3",
+  "level": "2",
+  "url": "Week2Fri.html#Week2Fri-2-3",
+  "type": "Example",
+  "number": "2.4",
+  "title": "",
+  "body": "  Consider the function whose entire graph is given below:    f(x)=2*((x-1)^2-1)  g(x)=2*(1\/(1+exp(-8*(x-2)))-.5)  h(x)=1                   In the same axes, graph each of the following functions:              "
 }
 ]
 
