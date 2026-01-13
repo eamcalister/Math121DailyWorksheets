@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <!-- When creating a new activity, make a copy of this file with appropriate name -->
+        <handout margin="1in" bottom="1.25cm" xml:id="Week2Fri">
+            <title>Friday Week 2 - Horizontal Scaling</title>
+<page>
+        <objectives>
+          <ul>
+            <li>Introduce the last basic graphical transformation: horizontal scaling.</li>
+            <li>Discuss how to navigate multiple transformations (order matters!).</li>
+          </ul>
+        </objectives>
+            <introduction>
+                <p>
+                   The last basic graphical transformation comes from multiplying <m>x</m> by constants. After we discuss the effect of this transformation, we will start a discussion of applying multiple transformations.
+                </p>
+            </introduction>
+
+
+
+<example>
+    <statement>
+    <p>
+    Consider the function whose entire graph is given below:
+    <image>
+<prefigure label = "horiz-scaling-graph" xmlns="https://prefigure.org">
+<diagram dimensions="(500,500)" margins="(50,5,50,5)">
+  <definition>f(x)=2*((x-1)^2-1)</definition>
+  <definition>g(x)=2*(1/(1+exp(-8*(x-2)))-.5)</definition>
+  <definition>h(x)=1</definition>
+  <coordinates bbox="(-4,-4,8,8)">
+    <grid-axes xlabel="x" ylabel="y"/>
+    <graph function="f" domain="[-10,2]" stroke="green"/>
+    <graph function="g" domain="[2,10]" stroke="green"/>
+    <graph function="h" dash="4 4"/>
+    <point p="(0,f(0))">
+    </point>
+    <point p="(1,f(1))">
+    </point>
+    <point p="(2,f(2))">
+    </point>
+    <point p="(-1,f(-1))">
+    </point>
+  </coordinates>
+
+</diagram>
+</prefigure>
+</image>  
+    </p>
+    In the same axes, graph each of the following functions:
+    <ol>
+        <li>
+            <p>
+                <m>f\left(\frac{1}{3}x\right)</m>
+            </p>
+        </li>
+        <li>
+            <p>
+                <m>f(2x)</m>
+            </p>
+        </li>
+    </ol>
+    </statement>
+</example>
+
+</page>
+<page>
+<p>
+To summarize:
+</p>
+<ul>
+    <li>
+        <p>
+        <m>f\left(\frac{1}{a}x\right)</m> has the same graph as <m>f(x)</m>, except <fillin characters="35" /> <fillin characters="25" />.
+        </p>
+    </li>
+    <li>
+        <p>
+        <m>f(ax)</m> has the same graph as <m>f(x)</m>, except <fillin characters="35" /> <fillin characters="25" />.
+        </p>
+    </li>
+</ul>
+
+<paragraphs>
+    <title>Problems</title>
+    <p>
+        Below we have the graph of <m>f(x) = |x|</m>. In the same set of axes, graph the given transformed function. Also, give a verbal description of the sequence of basic transformations that were performed, in the correct order.
+    </p>
+<ol>
+    <li>
+        <p>
+            <sidebyside widths="65% 35%">
+            <image>
+             <prefigure label = "abs1" xmlns="https://prefigure.org">
+<diagram dimensions="(500,500)" margins="(50,5,50,5)">
+  <definition>f(x)=sqrt(x^2) </definition>
+  <coordinates bbox="(-4,-4,4,4)">
+    <grid-axes xlabel="x" ylabel="y"/>
+    <graph function="f" stroke="green"/>
+    <point p="(0,f(0))">
+    </point>
+    <point p="(1,f(1))">
+    </point>
+    <point p="(-1,f(-1))">
+    </point>
+  </coordinates>
+
+</diagram>
+</prefigure>
+</image>
+<p>
+Graph <m>y = 2(f\left(\frac{1}{2}x\right) - 1)</m>    
+</p> 
+
+
+
+            </sidebyside>
+            
+        </p>
+    </li>
+    <li>
+        <p>
+            <sidebyside widths="65% 35%">
+            <image>
+             <prefigure label = "abs2" xmlns="https://prefigure.org">
+<diagram dimensions="(500,500)" margins="(50,5,50,5)">
+  <definition>f(x)=sqrt(x^2) </definition>
+  <coordinates bbox="(-4,-4,4,4)">
+    <grid-axes xlabel="x" ylabel="y"/>
+    <graph function="f" stroke="green"/>
+    <point p="(0,f(0))">
+    </point>
+    <point p="(1,f(1))">
+    </point>
+    <point p="(-1,f(-1))">
+    </point>
+  </coordinates>
+
+</diagram>
+</prefigure>
+</image>
+<p >
+Graph <m>y = f(2x+1) - 3</m>    
+</p> 
+
+
+
+            </sidebyside>
+            
+        </p>
+    </li>
+
+</ol>
+</paragraphs>
+
+</page>
+
+
+        
+
+</handout>

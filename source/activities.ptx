@@ -19,7 +19,9 @@
 
         <section>
       <title>Week 2</title>
-    <xi:include href="./activities/Week1/MondayWeek2_VerticalStretches.ptx"/>      
+    <xi:include href="./activities/Week2/MondayWeek2_VerticalStretches.ptx"/>
+    <xi:include href="./activities/Week2/WedWeek2_Point-slope_VertexForms.ptx"/>
+    <xi:include href="./activities/Week2/FriWeek2_HorizScaling.ptx"/>         
     </section>
 
 
