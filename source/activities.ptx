@@ -25,6 +25,12 @@
     </section>
 
 
+    <section>
+      <title>Week 3</title>
+    <xi:include href="./activities/Week3/MondayWeek3_MultipleTransformations.ptx"/>       
+    </section>
+
+
     <!-- Add more xi:include files here to include them in the main course -->
   </article>
 </pretext>

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <!-- When creating a new activity, make a copy of this file with appropriate name -->
+        <handout margin="1in" bottom="1.25cm" xml:id="Week3Mon">
+            <title>Monday Week 3 - Combining Transformations</title>
+<page>
+        <objectives>
+          <ul>
+            <li>Carefully graph and find formulas when multiple transformations are applied to a function.</li>
+            <li>Understand how to perform transformations in the correct order.</li>
+          </ul>
+        </objectives>
+            <introduction>
+                <p>
+                    When multiple transformations are performed on a function, things get complicated. For instance, shifting horizontally, then stretching horizontally is different from stretching first then shifting. Today, we'll figure out how to tell what happens in what order from formulas.
+                </p>
+            </introduction>
+
+<example>
+    <statement><title>Order Matters!</title>
+        <p>
+          Consider the function <m>f(x)</m> graphed below. For each of the sequence of transformations given, find the formula in terms of <m>f</m> and sketch the graph. 
+        </p>
+    <image>
+<prefigure label="mult-graph2" xmlns="https://prefigure.org">
+<diagram dimensions="(400,400)" margins="(100,20,100,20)">
+  <definition>f(x)=2*x</definition>
+  <definition>g(x)=-2*(x-2)</definition>
+  <definition>h(x)=(x-2)</definition>
+  <coordinates bbox="(-4,-4,4,4)">
+    <grid-axes xlabel="x" ylabel="y" hlabels="(-3,1,3)" vlabels="(-3,1,3)"/>
+    <graph function="f" domain="[0,1]"/>
+    <graph function="g" domain="[1,2]"/>
+    <graph function="h" domain="[2,3]"/>
+  </coordinates>
+
+</diagram>
+
+
+</prefigure>
+</image>  
+<ol>
+    <li>
+        <p>
+           Shift right by <m>1</m>, then reflect across the <m>y</m>-axis. 
+        </p>
+    </li>
+    <li>
+        <p>
+            Reflect across the <m>y</m>-axis, then shift right by <m>1</m>.
+        </p>
+    </li>
+    <li>
+        <p>
+            Stretch vertically by a factor of <m>2</m>, then shift down by <m>2</m>.
+        </p>
+    </li>
+    <li>
+        <p>
+            Shift down by <m>2</m>, then stretch vertically by a factor of <m>2</m>.
+        </p>
+    </li>
+</ol>
+
+</statement>
+
+</example>
+
+
+</page>
+<page>
+
+<paragraphs>
+    <title>Multiple Transformations Summary</title>
+    
+</paragraphs>
+<p>
+    If <m>A</m>, <m>B</m>, <m>h</m>, and <m>k</m> are nonzero constants, then the function
+    <md>
+        y = Af(B(x-h)) + k
+    </md>
+    is obtained by applying the following transformations in the in the indicated order.
+</p>
+<p>
+    <term>Inside Transformations</term>
+</p>
+<ol>
+
+    <li>
+        <p workspace="0.75in">
+            
+        </p>
+    </li>
+    <li>
+        <p workspace="0.75in">
+         
+        </p>
+    </li>
+        <li>
+        <p workspace="0.75in">
+           
+        </p>
+    </li>
+</ol>
+<p>
+    <term>Outside Transformations</term>
+</p>
+<ol>
+
+    <li>
+        <p workspace="0.75in">
+            
+        </p>
+    </li>
+    <li>
+        <p workspace="0.75in">
+           
+        </p>
+    </li>
+        <li>
+        <p workspace="0.75in">
+            
+        </p>
+    </li>
+</ol>
+
+
+
+</page>
+<page>
+
+<paragraphs>
+    <title>Complex Transformation Description Problem</title>
+<p>
+    In <xref ref="complex_point_tracking">a previous problem</xref>, we tracked through where a point ends up by essentially evaluating and solving. Now, let's revisit that problem and describe the transformations to track the point. Again, suppose <m>(6,9)</m> is a point on the graph of <m>g(x)</m>. For each of the following transformations of <m>g(x)</m>, give the transformations performed, in the correct order, and give the corresponding point on the transformed graph.
+</p>
+<ol>
+    <li>
+        <p workspace="2in">
+           <m>2g(x-3) - 5</m>
+        </p>
+    </li>
+    <li>
+        <p workspace="2in">
+           <m>3g(x) + 1</m>
+        </p>
+    </li>
+    <li>
+        <p workspace="2in">
+            <m>-\left(g\left(x+4\right) - 8 \right)</m>
+        </p>
+    </li>
+    <li>
+        <p workspace="2in">
+            <m>\frac{1}{2}g(-5x-15)-8</m>
+        </p>
+    </li>
+
+</ol>
+
+</paragraphs>   
+
+
+
+</page>
+
+        
+
+</handout>
