@@ -103,7 +103,7 @@
         <p>
             Consider the function <m>f(x) = \frac{2x^2+1}{3x}</m>, graphed with Desmos below (use QR code to get it on your own device).
             <!--sidebyside these-->
-            <!--note that you need to generate print verion, then move the qr code .png into assets for this.-->
+            <!--note that you need to generate print version, then move the qr code .png into assets for this.-->
             <sidebyside widths="75% 25%">
                 <interactive  xml:id="desmos-rational-domain-rang" desmos="3tyghkjefu" width="100%" aspect="3:2" />
                 <image width="30%" source="desmos-rational-domain-rang.png"> </image>

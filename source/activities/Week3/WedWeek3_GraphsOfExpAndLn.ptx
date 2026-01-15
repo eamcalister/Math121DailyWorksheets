@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <!-- When creating a new activity, make a copy of this file with appropriate name -->
+        <handout margin="1in" bottom="1.25cm" xml:id="Week3Wed">
+            <title>Wednesday Week 3 - <m>e^x</m>, <m>\ln(x)</m>, and Their Graphs</title>
+<page>
+        <objectives>
+          <ul>
+            <li><p>Recall the relationship between the functions <m>e^x</m> and <m>\ln(x)</m>.</p></li>
+            <li><p>Graph <m>e^x</m> and <m>\ln(x)</m> to point out their important features.</p></li>.
+            <li><p>Apply transformations to these graphs.</p></li>
+          </ul>
+        </objectives>
+            <introduction>
+                <p>
+                    The functions <m>e^x</m> and <m>\ln(x)</m> are extremely important in virtually all applied mathematics. Today, we will explore them and apply graphical transformations to them.
+                </p>
+            </introduction>
+
+<paragraphs>
+    <title>Graphs of <m>e^x</m> and <m>\ln(x)</m></title>
+    <p>
+        To begin, we will graph <m>f(x) = e^x</m>, then construct the graph of <m>g(x) = \ln(x)</m> using the fact that
+        <md>
+            \ln(a) = b \Leftrightarrow e^b = a.
+        </md>
+        
+    </p>
+
+    <sidebyside widths="75% 25%">
+                <interactive  xml:id="desmos_exp_ln" desmos="bbba5ae3f7" width="50%" aspect="5:2" />
+                <image width="30%" source="exp_and_ln_desmos.png"> </image>
+    </sidebyside>
+    <p>
+        Now, let's observe some important features of these graphs.
+    </p>
+<p>
+    <term>Features of of <m>e^x</m>.</term>
+</p>
+<ul>
+    <li>
+        <p>
+            Domain:
+        </p>
+    </li>
+        <li>
+        <p>
+            Range:
+        </p>
+    </li>
+    <li>
+        <p>
+            <m>y</m>-intercept:
+        </p>
+    </li>
+    <li>
+        <p>
+            Asymptote:
+        </p>
+    </li>
+</ul>
+
+<p>
+    <term>Corresponding features of of <m>\ln(x)</m>.</term>
+</p>
+<ul>
+    <li>
+        <p>
+        Range:
+        </p>
+    </li>
+        <li>
+        <p>
+         Domain:  
+        </p>
+    </li>
+    <li>
+        <p>
+         <fillin characters="5" />-intercept:   
+        </p>
+    </li>
+    <li>
+        <p>
+          Asymptote:  
+        </p>
+    </li>
+</ul>
+
+</paragraphs>
+
+</page>
+<page>
+
+<definition>
+    <statement>
+        <p workspace="2in">
+           If you need to define something, it is...
+        </p>
+    </statement>
+</definition>
+<p>
+    Summary of something.
+</p>
+<ul>
+    <li>
+        <p workspace="0.75in">
+            To evaluate <m>f(a)</m>...
+        </p>
+    </li>
+        <li>
+        <p workspace="0.75in">
+            To solve <m>f(x) = b</m>...
+        </p>
+    </li>
+        <li>
+        <p workspace="0.75in">
+            The domain of <m>f</m> is...
+        </p>
+    </li>
+        <li>
+        <p workspace="0.75in">
+            The range of <m>f</m> is...
+        </p>
+    </li>
+</ul>
+
+
+
+<example>
+    <statement>
+        <p>
+            Another thing
+        </p>
+    </statement>
+
+</example>
+
+</page>
+<page>
+
+<paragraphs>
+    <title>Problems</title>
+<p>
+    
+</p>
+<ol>
+    <li>
+        <p workspace="2in">
+           one
+        </p>
+    </li>
+    <li>
+        <p workspace="2in">
+            two
+        </p>
+    </li>
+    <li>
+        <p workspace="2in">
+            three
+        </p>
+    </li>
+    <li>
+        <p workspace="2in">
+            four
+        </p>
+    </li>
+
+</ol>
+
+</paragraphs>   
+
+
+
+</page>
+
+        
+
+</handout>
