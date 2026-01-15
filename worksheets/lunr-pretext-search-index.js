@@ -251,6 +251,51 @@ var ptx_lunr_docs = [
   "number": "2.4",
   "title": "",
   "body": "  Consider the function whose entire graph is given below:    f(x)=2*((x-1)^2-1)  g(x)=2*(1\/(1+exp(-8*(x-2)))-.5)  h(x)=1                   In the same axes, graph each of the following functions:              "
+},
+{
+  "id": "Week3Mon",
+  "level": "1",
+  "url": "Week3Mon.html",
+  "type": "Handout",
+  "number": "3.1",
+  "title": "Monday Week 3 - Combining Transformations",
+  "body": " Monday Week 3 - Combining Transformations     Carefully graph and find formulas when multiple transformations are applied to a function.  Understand how to perform transformations in the correct order.     When multiple transformations are performed on a function, things get complicated. For instance, shifting horizontally, then stretching horizontally is different from stretching first then shifting. Today, we'll figure out how to tell what happens in what order from formulas.    Order Matters!  Consider the function graphed below. For each of the sequence of transformations given, find the formula in terms of and sketch the graph.     f(x)=2*x  g(x)=-2*(x-2)  h(x)=(x-2)             Shift right by , then reflect across the -axis.    Reflect across the -axis, then shift right by .    Stretch vertically by a factor of , then shift down by .    Shift down by , then stretch vertically by a factor of .         Multiple Transformations Summary   If , , , and are nonzero constants, then the function is obtained by applying the following transformations in the in the indicated order.   Inside Transformations                  Outside Transformations                    Complex Transformation Description Problem  In a previous problem , we tracked through where a point ends up by essentially evaluating and solving. Now, let's revisit that problem and describe the transformations to track the point. Again, suppose is a point on the graph of . For each of the following transformations of , give the transformations performed, in the correct order, and give the corresponding point on the transformed graph.                          "
+},
+{
+  "id": "Week3Mon-2-1",
+  "level": "2",
+  "url": "Week3Mon.html#Week3Mon-2-1",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "  Carefully graph and find formulas when multiple transformations are applied to a function.  Understand how to perform transformations in the correct order.   "
+},
+{
+  "id": "Week3Mon-2-3",
+  "level": "2",
+  "url": "Week3Mon.html#Week3Mon-2-3",
+  "type": "Example",
+  "number": "3.1",
+  "title": "",
+  "body": " Order Matters!  Consider the function graphed below. For each of the sequence of transformations given, find the formula in terms of and sketch the graph.     f(x)=2*x  g(x)=-2*(x-2)  h(x)=(x-2)             Shift right by , then reflect across the -axis.    Reflect across the -axis, then shift right by .    Stretch vertically by a factor of , then shift down by .    Shift down by , then stretch vertically by a factor of .     "
+},
+{
+  "id": "Week3Mon-3-3",
+  "level": "2",
+  "url": "Week3Mon.html#Week3Mon-3-3",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Inside Transformations "
+},
+{
+  "id": "Week3Mon-3-5",
+  "level": "2",
+  "url": "Week3Mon.html#Week3Mon-3-5",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Outside Transformations "
 }
 ]
 
