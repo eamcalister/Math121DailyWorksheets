@@ -296,6 +296,51 @@ var ptx_lunr_docs = [
   "number": "",
   "title": "",
   "body": "Outside Transformations "
+},
+{
+  "id": "Week3Wed",
+  "level": "1",
+  "url": "Week3Wed.html",
+  "type": "Handout",
+  "number": "3.2",
+  "title": "Wednesday Week 3 - <span class=\"process-math\">\\(e^x\\text{,}\\)<\/span> <span class=\"process-math\">\\(\\ln(x)\\text{,}\\)<\/span> and Their Graphs",
+  "body": " Wednesday Week 3 - , , and Their Graphs     Recall the relationship between the functions and .  Graph and to point out their important features. . Apply transformations to these graphs.     The functions and are extremely important in virtually all applied mathematics. Today, we will explore them and apply graphical transformations to them.    Graphs of and  To begin, we will graph , then construct the graph of using the fact that        Now, let's observe some important features of these graphs.   Features of of .     Domain:    Range:     -intercept:    Asymptote:     Corresponding features of of .     Range:    Domain:     -intercept:    Asymptote:       Considering transformations of these functions has many applications. The first of which is below.  as a Transformation of   The reason we never need a logarithm other than the natural logarithm is that an exponential function with base may always be written in terms of as follows:   Set the two functions equal to one another with a horizontal scaling factor of inside .     Plug in .     Thus, we have the scaling factor .     We can see this at work in the following interactive.      '    Exponential Function Transformation Problems  For each of the following functions, find the horizontal asymptote, the direction of travel to approach it, and the range of the function.               Lograrithm Graph Transformations   For the following transformations of , graph the transformation and describe the sequence of transformations in the correct order.            f(x)=ln(x)                   f(x)=ln(x)              "
+},
+{
+  "id": "Week3Wed-2-1",
+  "level": "2",
+  "url": "Week3Wed.html#Week3Wed-2-1",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "  Recall the relationship between the functions and .  Graph and to point out their important features. . Apply transformations to these graphs.   "
+},
+{
+  "id": "Week3Wed-2-3-5",
+  "level": "2",
+  "url": "Week3Wed.html#Week3Wed-2-3-5",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Features of of . "
+},
+{
+  "id": "Week3Wed-2-3-7",
+  "level": "2",
+  "url": "Week3Wed.html#Week3Wed-2-3-7",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Corresponding features of of . "
+},
+{
+  "id": "Week3Wed-3-2",
+  "level": "2",
+  "url": "Week3Wed.html#Week3Wed-3-2",
+  "type": "Example",
+  "number": "3.2",
+  "title": "<span class=\"process-math\">\\(b^x\\)<\/span> as a Transformation of <span class=\"process-math\">\\(e^x\\)<\/span>.",
+  "body": "as a Transformation of   The reason we never need a logarithm other than the natural logarithm is that an exponential function with base may always be written in terms of as follows:   Set the two functions equal to one another with a horizontal scaling factor of inside .     Plug in .     Thus, we have the scaling factor .     We can see this at work in the following interactive.      '  "
 }
 ]
 
