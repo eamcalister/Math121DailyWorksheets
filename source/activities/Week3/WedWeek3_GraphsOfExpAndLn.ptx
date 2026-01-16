@@ -89,80 +89,125 @@
 </paragraphs>
 
 </page>
+
 <page>
 
-<definition>
-    <statement>
-        <p workspace="2in">
-           If you need to define something, it is...
-        </p>
-    </statement>
-</definition>
 <p>
-    Summary of something.
+    Considering transformations of these functions has many applications. The first of which is below.
 </p>
-<ul>
-    <li>
-        <p workspace="0.75in">
-            To evaluate <m>f(a)</m>...
-        </p>
-    </li>
-        <li>
-        <p workspace="0.75in">
-            To solve <m>f(x) = b</m>...
-        </p>
-    </li>
-        <li>
-        <p workspace="0.75in">
-            The domain of <m>f</m> is...
-        </p>
-    </li>
-        <li>
-        <p workspace="0.75in">
-            The range of <m>f</m> is...
-        </p>
-    </li>
-</ul>
 
 
 
-<example>
+<example><title><m>b^x</m> as a Transformation of <m>e^x</m></title>
     <statement>
         <p>
-            Another thing
+            The reason we never need a logarithm other than the natural logarithm is that an exponential function with base <m>b</m> may always be written in terms of <m>f(x) = e^x</m> as follows:
+            <ul>
+                <li>
+                    <p>
+                        Set the two functions equal to one another with a horizontal scaling factor of <m>k</m> inside <m>e^x</m>.
+                        <md>
+                            b^x = e^{kx}
+                        </md> 
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Plug in <m>x=1</m>.
+                        <md>
+                            b = e^k
+                        </md>
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Thus, we have the scaling factor <md>k=\ln(b)</md>.
+                    </p>
+                </li>
+            </ul>
         </p>
+        <p>
+            We can see this at work in the following interactive.
+        </p>
+    <sidebyside widths="75% 25%">
+                <interactive  xml:id="desmos_exp_scaling" desmos="iiq92scnk1" width="50%" aspect="5:2" />
+                <image width="30%" source="exp_scaling_desmos.png"> </image>
+    </sidebyside>'
     </statement>
 
 </example>
+
+<paragraphs>
+    <title>Exponential Function Transformation Problems</title>
+    <p>
+        For each of the following functions, find the horizontal asymptote, the direction of travel to approach it, and the range of the function.
+    </p>
+    <p workspace="0.75in">
+        <m>f(t) = 2(1.06)^t</m>
+    </p>
+        <p workspace="0.75in">
+        <m>g(x) = 2-e^{-x}</m>
+    </p>
+        <p workspace="0.75in">
+        <m>h(t) = -3 + 5\cdot 2^x</m>
+    </p>
+    
+</paragraphs>
 
 </page>
 <page>
 
 <paragraphs>
-    <title>Problems</title>
+    <title>Lograrithm Graph Transformations</title>
 <p>
+<p>
+    For the following transformations of <m>y = \ln(x)</m>, graph the transformation and describe the sequence of transformations in the correct order.
+</p>
     
 </p>
 <ol>
     <li>
-        <p workspace="2in">
-           one
+        <p>
+            <m>y = \ln(x-3)</m>
         </p>
+            <sidebyside widths="65% 35%">
+            <image>
+             <prefigure label = "ln1" xmlns="https://prefigure.org">
+<diagram dimensions="(500,500)" margins="(50,5,50,5)">
+  <definition>f(x)=ln(x)</definition>
+  <coordinates bbox="(-8,-6,8,7)">
+    <grid-axes xlabel="x" ylabel="y" hspacing="(-8,1,8)" vspacing="(-6,1,7)" hlabels="(-8,2,8)" vlabels="(-6,1,7)"/>
+    <graph at="graph" function="f"/>
+  </coordinates>
+
+
+</diagram>
+</prefigure>
+</image>
+
+
+
+            </sidebyside>
     </li>
     <li>
-        <p workspace="2in">
-            two
+        <p>
+            <m>y = 1-\ln(2-x)</m>
         </p>
-    </li>
-    <li>
-        <p workspace="2in">
-            three
-        </p>
-    </li>
-    <li>
-        <p workspace="2in">
-            four
-        </p>
+            <sidebyside widths="65% 35%">
+            <image>
+             <prefigure label = "ln2" xmlns="https://prefigure.org">
+<diagram dimensions="(500,500)" margins="(50,5,50,5)">
+  <definition>f(x)=ln(x)</definition>
+  <coordinates bbox="(-8,-6,8,7)">
+    <grid-axes xlabel="x" ylabel="y" hspacing="(-8,1,8)" vspacing="(-6,1,7)" hlabels="(-8,2,8)" vlabels="(-6,1,7)"/>
+    <graph at="graph" function="f"/>
+  </coordinates>
+
+
+</diagram>
+</prefigure>
+</image>
+</sidebyside>
     </li>
 
 </ol>
