@@ -68,12 +68,12 @@ To summarize:
 <ul>
     <li>
         <p>
-        <m>f(-x)</m> has the same graph as <m>f(x)</m>, except <fillin characters="35" /> <fillin characters="25" />.
+        <m>af(x)</m> has the same graph as <m>f(x)</m>, except <fillin characters="35" /> <fillin characters="25" />.
         </p>
     </li>
     <li>
         <p>
-        <m>-f(x)</m> has the same graph as <m>f(x)</m>, except <fillin characters="35" /> <fillin characters="25" />.
+        <m>\frac{1}{a}f(x)</m> has the same graph as <m>f(x)</m>, except <fillin characters="35" /> <fillin characters="25" />.
         </p>
     </li>   
 </ul>
