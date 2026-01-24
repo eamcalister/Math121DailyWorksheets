@@ -341,6 +341,60 @@ var ptx_lunr_docs = [
   "number": "3.2",
   "title": "<span class=\"process-math\">\\(b^x\\)<\/span> as a Transformation of <span class=\"process-math\">\\(e^x\\)<\/span>.",
   "body": "as a Transformation of   The reason we never need a logarithm other than the natural logarithm is that an exponential function with base may always be written in terms of as follows:   Set the two functions equal to one another with a horizontal scaling factor of inside .     Plug in .     Thus, we have the scaling factor .     We can see this at work in the following interactive.      '  "
+},
+{
+  "id": "Week3Fri",
+  "level": "1",
+  "url": "Week3Fri.html",
+  "type": "Handout",
+  "number": "3.3",
+  "title": "Friday Week 3 - Intro to Periodic functions",
+  "body": " Friday Week 3 - Intro to Periodic functions      Say what it means for a function to be periodic.    Know the terminology related to periodic functions.    Identify periodic functions, and quantities associated to them, from graphs and verbal descriptions.      Roughly, periodic functions are those that describe phenomena that repeat at regular intervals. For instance, height of tides, voltages in some circuits, or vibrations of strings are described by periodic functions. Even when quantities aren't perfectly periodic, we might use periodic functions to describe them over shorter periods (like modeling animal populations over seasons). Indeed, periodic functions are some of the most important in real-world applications of mathematics.     A function is called periodic if...    Some more terminology:    The period of a periodic function is...    The amplitude of a periodic function is...    The midline of a periodic function is...       Identifying Features  For each of the following graphs,    decide if the graphed function is periodic, and if it is, then    identify the period, amplitude, and midline.        f(x)=sin(x^2)            f(x)=-5*cos(2*pi*x\/4)              f(x)=0.5*cos(2*pi*x\/4)+1            f(x)=-1  g1(x)=4*(x-1)-1  h1(x)=-4*(x-2)-1  g2(x)=4*(x-3)-1  h2(x)=-4*(x-4)-1  g3(x)=4*(x+3)-1  h3(x)=-4*(x+2)-1  g4(x)=4*(x+1)-1  h4(x)=-4*(x)-1                         Ferris Wheels (They're always from Ferris wheels.)  The Brown County Ferris Wheel has diameter meters and completes one full revolution, counter-clockwise, every two minutes. When you are at the lowest point on the wheel, you are still meters above the ground. Assuming you board the ride at seconds, sketch a graph of your height above the ground, , as a function of time.     f(x)=-1  g1(x)=4*(x-1)-1  h1(x)=-4*(x-2)-1  g2(x)=4*(x-3)-1  h2(x)=-4*(x-4)-1  g3(x)=4*(x+3)-1  h3(x)=-4*(x+2)-1  g4(x)=4*(x+1)-1  h4(x)=-4*(x)-1          What are the amplitude, period, and midline of the function?    How would the formula for change if the wheel took twice as long for one full revolution?    How would the formula for change if the lowest point on the wheels was at a height of two meters instead of five?      "
+},
+{
+  "id": "Week3Fri-2-1",
+  "level": "2",
+  "url": "Week3Fri.html#Week3Fri-2-1",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   Say what it means for a function to be periodic.    Know the terminology related to periodic functions.    Identify periodic functions, and quantities associated to them, from graphs and verbal descriptions.    "
+},
+{
+  "id": "Week3Fri-2-3",
+  "level": "2",
+  "url": "Week3Fri.html#Week3Fri-2-3",
+  "type": "Definition",
+  "number": "3.3",
+  "title": "",
+  "body": "  A function is called periodic if...   "
+},
+{
+  "id": "Week3Fri-2-5-1-1",
+  "level": "2",
+  "url": "Week3Fri.html#Week3Fri-2-5-1-1",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "period "
+},
+{
+  "id": "Week3Fri-2-5-2-1",
+  "level": "2",
+  "url": "Week3Fri.html#Week3Fri-2-5-2-1",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "amplitude "
+},
+{
+  "id": "Week3Fri-2-5-3-1",
+  "level": "2",
+  "url": "Week3Fri.html#Week3Fri-2-5-3-1",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "midline "
 }
 ]
 
