@@ -28,7 +28,8 @@
     <section>
       <title>Week 3</title>
     <xi:include href="./activities/Week3/MondayWeek3_MultipleTransformations.ptx"/> 
-    <xi:include href="./activities/Week3/WedWeek3_GraphsOfExpAndLn.ptx"/>        
+    <xi:include href="./activities/Week3/WedWeek3_GraphsOfExpAndLn.ptx"/> 
+    <xi:include href="./activities/Week3/FriWeek3_IntroToPeriodic.ptx"/>          
     </section>
 
 

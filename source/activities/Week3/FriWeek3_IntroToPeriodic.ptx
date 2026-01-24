@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <!-- When creating a new activity, make a copy of this file with appropriate name -->
+        <handout margin="1in" bottom="1.25cm" xml:id="Week3Fri">
+            <title>Friday Week 3 - Intro to Periodic functions</title>
+<page>
+        <objectives>
+          <ul>
+            <li>
+                <p>
+                    Say what it means for a function to be periodic.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Know the terminology related to periodic functions.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Identify periodic functions, and quantities associated to them, from graphs and verbal descriptions.
+                </p>
+            </li>
+          </ul>
+        </objectives>
+            <introduction>
+                <p>
+                    Roughly, periodic functions are those that describe phenomena that repeat at regular intervals. For instance, height of tides, voltages in some circuits, or vibrations of strings are described by periodic functions. Even when quantities aren't perfectly periodic, we might use periodic functions to describe them over shorter periods (like modeling animal populations over seasons). Indeed, periodic functions are some of the most important in real-world applications of mathematics.
+                </p>
+            </introduction>
+
+
+<definition>
+    <statement>
+        <p workspace="2in">
+           A function <m>y = f(x)</m> is called <term>periodic</term> if...
+        </p>
+    </statement>
+</definition>
+<p>
+    Some more terminology:
+</p>
+<ul>
+    <li>
+        <p workspace="0.75in">
+            The <term>period</term> of a periodic function is...
+        </p>
+    </li>
+    <li>
+        <p workspace="0.75in">
+            The <term>amplitude</term> of a periodic function is...
+        </p>
+    </li>
+    <li>
+        <p workspace="0.75in">
+            The <term>midline</term> of a periodic function is...
+        </p>
+    </li>
+</ul>
+
+</page>
+    
+<page>
+
+<paragraphs>
+    <title>Identifying Features</title>
+
+           <p>
+           For each of the following graphs,
+            </p>
+           <ul>
+            <li>
+                <p>
+                    decide if the graphed function is periodic, and if it is, then
+                </p>
+            </li>
+            <li>
+                <p>
+                    identify the period, amplitude, and midline.
+                </p>
+            </li>
+           </ul> 
+
+        <sidebyside>
+                <image>
+<prefigure label = "periodic_or_no1" xmlns="https://prefigure.org">
+<diagram dimensions="(500,500)" margins="20">
+  <definition>f(x)=sin(x^2)</definition>
+  <coordinates bbox="(-1,-2,5,2)">
+    <grid-axes xlabel="x" ylabel="y"/>
+    <graph at="graph" function="f" N="500"/>
+  </coordinates>
+</diagram>
+</prefigure>
+</image>  
+
+    <image>
+<prefigure label = "periodic_or_no2" xmlns="https://prefigure.org">
+<diagram dimensions="(500,500)" margins="20">
+  <definition>f(x)=-5*cos(2*pi*x/4)</definition>
+  <coordinates bbox="(-6,-6,6,6)">
+    <grid-axes xlabel="x" ylabel="y"/>
+    <graph at="graph" function="f" N="200"/>
+  </coordinates>
+
+</diagram>
+</prefigure>
+</image>  
+        </sidebyside>
+        <sidebyside>
+
+                <image>
+<prefigure label = "periodic_or_no3" xmlns="https://prefigure.org">
+<diagram dimensions="(500,500)" margins="20">
+  <definition>f(x)=0.5*cos(2*pi*x/4)+1</definition>
+  <coordinates bbox="(-6,-1,6,2.5)">
+    <grid-axes xlabel="x" ylabel="y"/>
+    <graph at="graph" function="f"/>
+  </coordinates>
+
+</diagram>
+</prefigure>
+</image>  
+
+    <image>
+<prefigure label = "periodic_or_no4" xmlns="https://prefigure.org">
+<diagram dimensions="(500,500)" margins="20">
+  <definition>f(x)=-1</definition>
+  <definition>g1(x)=4*(x-1)-1</definition>
+  <definition>h1(x)=-4*(x-2)-1</definition>
+  <definition>g2(x)=4*(x-3)-1</definition>
+  <definition>h2(x)=-4*(x-4)-1</definition>
+  <definition>g3(x)=4*(x+3)-1</definition>
+  <definition>h3(x)=-4*(x+2)-1</definition>
+  <definition>g4(x)=4*(x+1)-1</definition>
+  <definition>h4(x)=-4*(x)-1</definition>
+  <coordinates bbox="(-4,-4,4,4)">
+    <grid-axes xlabel="x" ylabel="y"/>
+    <graph at="graph" function="f" domain="[0,1]"/>
+    <graph at="graph" function="f" domain="[2,3]"/>
+    <graph at="graph" function="f" domain="[-2,-1]"/>
+    <graph at="graph" function="f" domain="[-4,-3]"/>
+    <graph at="graph" function="g1" domain="[1,1.5]"/>
+    <graph at="graph" function="h1" domain="[1.5,2]"/>
+    <graph at="graph" function="g2" domain="[3,3.5]"/>
+    <graph at="graph" function="h2" domain="[3.5,4]"/>
+    <graph at="graph" function="g3" domain="[-3,-2.5]"/>
+    <graph at="graph" function="h3" domain="[-2.5,-2]"/>
+    <graph at="graph" function="g4" domain="[-1,-0.5]"/>
+    <graph at="graph" function="h4" domain="[-.5,0]"/>
+  </coordinates>
+
+</diagram>
+</prefigure>
+</image>  
+            
+        </sidebyside>
+
+
+    </paragraphs>
+
+</page>
+<page>
+
+<paragraphs>
+    <title>Ferris Wheels (They're always from Ferris wheels.)
+    </title>
+<p>
+  The Brown County Ferris Wheel has diameter <m>50</m> meters and completes one full revolution, counter-clockwise, every two minutes.  When you are at the lowest point on the wheel, you are still <m>5</m> meters above the ground.  Assuming you board the ride at <m>t=0</m> seconds, sketch a graph of your height above the ground, <m>h=f(t)</m>, as a function of time.  
+</p>
+
+    <image>
+<prefigure label = "BrownFerris" xmlns="https://prefigure.org">
+<diagram dimensions="(500,500)" margins="(100,5,100,5)">
+  <definition>f(x)=-1</definition>
+  <definition>g1(x)=4*(x-1)-1</definition>
+  <definition>h1(x)=-4*(x-2)-1</definition>
+  <definition>g2(x)=4*(x-3)-1</definition>
+  <definition>h2(x)=-4*(x-4)-1</definition>
+  <definition>g3(x)=4*(x+3)-1</definition>
+  <definition>h3(x)=-4*(x+2)-1</definition>
+  <definition>g4(x)=4*(x+1)-1</definition>
+  <definition>h4(x)=-4*(x)-1</definition>
+  <coordinates bbox="(-20,-10,260,80)">
+    <grid-axes xlabel="t" ylabel="h" hticks="(0,40,240)" spacings="(0,20,260),(0,10,80)" hlabels="(0,40,240)"/>
+
+  </coordinates>
+
+</diagram>
+</prefigure>
+</image>  
+<ol>
+    <li>
+        <p workspace="1in">
+            What are the amplitude, period, and midline of the function?
+        </p>
+    </li>
+    <li>
+        <p workspace="1.5in">
+            How would the formula for <m>h = f(t)</m> change if the wheel took twice as long for one full revolution?
+        </p>
+    </li>
+        <li>
+        <p workspace="1.5in">
+            How would the formula for <m>h = f(t)</m> change if the lowest point on the wheels was at a height of two meters instead of five?
+        </p>
+    </li>
+</ol>
+
+
+</paragraphs>   
+
+
+
+</page>
+
+        
+
+</handout>
