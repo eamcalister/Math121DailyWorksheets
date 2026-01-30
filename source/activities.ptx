@@ -32,6 +32,11 @@
     <xi:include href="./activities/Week3/FriWeek3_IntroToPeriodic.ptx"/>          
     </section>
 
+    <section>
+      <title>Week 4</title>
+    <xi:include href="./activities/Week4/MonWeek4_IntroUnitCircle.ptx"/>         
+    </section>
+
 
     <!-- Add more xi:include files here to include them in the main course -->
   </article>
