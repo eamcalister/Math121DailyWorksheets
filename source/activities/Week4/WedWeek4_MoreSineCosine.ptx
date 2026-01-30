@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <!-- When creating a new activity, make a copy of this file with appropriate name -->
+        <handout margin="1in" bottom="1.25cm" xml:id="Week4Mon">
+            <title>Monday Week 4 - Introduction to the Unit Circle</title>
+<page>
+        <objectives>
+          <ul>
+            <li>
+                <p>
+                Introduce angle measure on the unit circle.
+                </p>
+            </li>
+            <li>
+                <p>
+                Define the sine and cosine functions using positions on the unit circle.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Give the sine and cosine values of the "special" angles in the first quadrant.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Use reference angles to find sine and cosine values in other quadrants.
+                </p>
+            </li>
+          </ul>
+        </objectives>
+            <introduction>
+                <p>
+                    The sine and cosine functions are often introduced in the contect of triangles. Here we use a different approach. Because they are intimately related to positions on the unit circle, that's how we will introduce them.
+                </p>
+            </introduction>
+
+<definition><title>The Unit Circle and Angle Measurement</title>
+    <statement>
+        <p workspace="2in">
+           The <term>unit circle</term> is...
+        </p>
+        <p workspace="2in">
+            Angles are measured on the unit circle...
+        </p>
+    </statement>
+</definition>
+
+<paragraphs>
+    <title>Angle Locations</title>
+    <p>
+        Mark the approximate location of following angles in the unit circle. (Think about how you're doing it.)
+    </p>
+    <sidebyside widths="35% 65%">
+    <ol>
+        <li>
+            <p>
+                <m>100^{\circ}</m>
+            </p>
+        </li>
+        <li>
+            <p>
+                <m>200^{\circ}</m>
+            </p>
+        </li>
+        <li>
+            <p>
+                <m>-200^{\circ}</m>
+            </p>
+        </li>
+        <li>
+            <p>
+                <m>-45^{\circ}</m>
+            </p>
+        </li>
+        <li>
+            <p>
+                <m>1000^{\circ}</m>
+            </p>
+        </li>
+        <li>
+            <p>
+                <m>-720^{\circ}</m>
+            </p>
+        </li>
+    </ol>
+        <image>
+<prefigure label = "unit_circ1" xmlns="https://prefigure.org">
+<diagram dimensions="(500,500)" margins="(50,5,50,5)">
+  <definition> f(x,y) = x^2 + y^2 </definition>
+  <coordinates bbox="(-1.3,-1.3,1.3,1.3)">
+    <grid-axes xlabel="x" ylabel="y"/>
+  <implicit-curve function="f" k="1" />
+  </coordinates>
+
+</diagram>
+</prefigure>
+</image>  
+
+    </sidebyside>
+</paragraphs>
+
+</page>
+<page>
+
+<definition>
+    <statement>
+        <p>
+           Given and angle <m>\theta</m> in the unit circle, where the corresponding point on the unit circle is <m>(x,y)</m>,
+           we define the <term>cosine</term> and <term>sine</term> of <m>\theta</m> as
+           <md>
+            <mrow>\cos(\theta)= \amp </mrow>
+            <mrow>\sin(\theta)= \amp </mrow>
+           </md>
+        </p>
+    </statement>
+</definition>
+<p>
+    Below we have the illustration of <m>\sin(\theta)</m> and <m>\cos(\theta)</m>, with a right triangle embedded in the unit circle. This allows us to use the Pythagorean Theorem to find exact values of these functions when <m>\theta</m> is one of a few special angles.
+</p>
+        <image>
+<prefigure label = "unit_circ2" xmlns="https://prefigure.org">
+<diagram dimensions="(500,500)" margins="(200,5,200,5)">
+  <definition> f(x,y) = x^2 + y^2 </definition>
+  <coordinates bbox="(-1.3,-1.3,1.3,1.3)">
+    <grid-axes xlabel="x" ylabel="y"/>
+  <implicit-curve function="f" k="1" />
+  </coordinates>
+
+</diagram>
+</prefigure>
+</image>  
+
+<paragraphs>
+    <title>First Quadrant Special Angles</title>
+    <p workspace="3in">
+        Draw the unit circle with <m>30^{\circ}</m>, <m>45^{\circ}</m>, and <m>60^{\circ}</m> angles in them and use the Pythagorean Theorem to find the sines and cosines of these angles. Also, let's find the sine and cosine of <m>0^{\circ}</m> and <m>90^{\circ}</m>
+    </p>
+</paragraphs>
+    
+</page>
+<page>
+
+<paragraphs>
+    <title>Using Reference Angles Outside the First Quadrant and Non-Unit Circles</title>
+<p>
+   Each of the problems below gives you an angle and a radius of a circle centered at the origin. Your job is to find the coordinates (<m>x</m> and <m>y</m>) of the corresponding point on that circle. You can do this by using the following ideas.  
+</p>
+<ul>
+    <li>
+        <p>
+            The positions will scale from the unit circle by multiplying by the new radius (think about stretching or compressing graphs).
+        </p>
+    </li>
+    <li>
+        <p>
+            You can use the <term>reference angle</term>. That is use an angle in the first quadrant that forms a similar triangle to the one formed by the given angle and the <m>x</m>-axis. Then think about what quadrant your angle is in to get the sign.
+        </p>
+    </li>
+</ul>
+<ol>
+    <li>
+        <p workspace="2in">
+           <m>r = 1</m>, <m>\theta = 150^{\circ}</m>
+        </p>
+    </li>
+    <li>
+        <p workspace="2in">
+            <m>r = 2</m>, <m>\theta = 45^{\circ}</m>
+        </p>
+    </li>
+    <li>
+        <p workspace="2in">
+            <m>r = 13</m>, <m>\theta = -135^{\circ}</m>
+        </p>
+    </li>
+    <li>
+        <p workspace="2in">
+            <m>r = 5</m>, <m>\theta = -270^{\circ}</m>
+        </p>
+    </li>
+
+</ol>
+
+</paragraphs>   
+
+
+
+</page>
+
+        
+
+</handout>
