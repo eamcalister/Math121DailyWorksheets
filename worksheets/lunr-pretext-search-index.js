@@ -395,6 +395,51 @@ var ptx_lunr_docs = [
   "number": "",
   "title": "",
   "body": "midline "
+},
+{
+  "id": "Week4Mon",
+  "level": "1",
+  "url": "Week4Mon.html",
+  "type": "Handout",
+  "number": "4.1",
+  "title": "Monday Week 4 - Introduction to the Unit Circle",
+  "body": " Monday Week 4 - Introduction to the Unit Circle      Introduce angle measure on the unit circle.    Define the sine and cosine functions using positions on the unit circle.    Give the sine and cosine values of the \"special\" angles in the first quadrant.    Use reference angles to find sine and cosine values in other quadrants.      The sine and cosine functions are often introduced in the contect of triangles. Here we use a different approach. Because they are intimately related to positions on the unit circle, that's how we will introduce them.   The Unit Circle and Angle Measurement   The unit circle is...  Angles are measured on the unit circle...     Angle Locations  Mark the approximate location of following angles in the unit circle. (Think about how you're doing it.)                                      f(x,y) = x^2 + y^2               Given and angle in the unit circle, where the corresponding point on the unit circle is , we define the cosine and sine of as     Below we have the illustration of and , with a right triangle embedded in the unit circle. This allows us to use the Pythagorean Theorem to find exact values of these functions when is one of a few special angles.     f(x,y) = x^2 + y^2          First Quadrant Special Angles  Draw the unit circle with , , and angles in them and use the Pythagorean Theorem to find the sines and cosines of these angles. Also, let's find the sine and cosine of and       Using Reference Angles Outside the First Quadrant and Non-Unit Circles  Each of the problems below gives you an angle and a radius of a circle centered at the origin. Your job is to find the coordinates ( and ) of the corresponding point on that circle. You can do this by using the following ideas.    The positions will scale from the unit circle by multiplying by the new radius (think about stretching or compressing graphs).    You can use the reference angle . That is use an angle in the first quadrant that forms a similar triangle to the one formed by the given angle and the -axis. Then think about what quadrant your angle is in to get the sign.       ,      ,      ,      ,       "
+},
+{
+  "id": "Week4Mon-2-1",
+  "level": "2",
+  "url": "Week4Mon.html#Week4Mon-2-1",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   Introduce angle measure on the unit circle.    Define the sine and cosine functions using positions on the unit circle.    Give the sine and cosine values of the \"special\" angles in the first quadrant.    Use reference angles to find sine and cosine values in other quadrants.    "
+},
+{
+  "id": "Week4Mon-2-3",
+  "level": "2",
+  "url": "Week4Mon.html#Week4Mon-2-3",
+  "type": "Definition",
+  "number": "4.1",
+  "title": "The Unit Circle and Angle Measurement.",
+  "body": "The Unit Circle and Angle Measurement   The unit circle is...  Angles are measured on the unit circle...   "
+},
+{
+  "id": "Week4Mon-3-1",
+  "level": "2",
+  "url": "Week4Mon.html#Week4Mon-3-1",
+  "type": "Definition",
+  "number": "4.2",
+  "title": "",
+  "body": "  Given and angle in the unit circle, where the corresponding point on the unit circle is , we define the cosine and sine of as    "
+},
+{
+  "id": "Week4Mon-4-1-3-2-1",
+  "level": "2",
+  "url": "Week4Mon.html#Week4Mon-4-1-3-2-1",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "reference angle "
 }
 ]
 
