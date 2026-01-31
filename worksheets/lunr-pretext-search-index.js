@@ -440,6 +440,24 @@ var ptx_lunr_docs = [
   "number": "",
   "title": "",
   "body": "reference angle "
+},
+{
+  "id": "Week4Wed",
+  "level": "1",
+  "url": "Week4Wed.html",
+  "type": "Handout",
+  "number": "4.2",
+  "title": "Wednesday Week 4 - More on Sine and Cosine",
+  "body": " Wednesday Week 4 - More on Sine and Cosine      Practice our understading of the sine and cosine of an angle as coordinates of points in the unit circle.    Use the sine or cosine to build a formula for a periodic function.      Sinne and Cosine of Angle Shifts  Given to the right is a unit circle. Fill in the blanks with the correct answer in terms of or .                            f(x,y)=x^2+y^2  g(x) = tan(1.2)*x  points=((1,0),(0,0),(cos(1.2),1))       (a,b)    \\theta            Positions of Points  Use your calculator to find the coordinates of the point at the given angle on a circle of radius centered at the origin.                The Ferris Wheel Again  The Brown County Ferris Wheel has diameter meters and completes one full revolution every two minutes. When you are at the lowest point on the wheel, you are still meters above the ground.    What is your height above the ground when the angle , measured from the o'clock position is ? It may be helpful to draw a picture of the ferris wheel.    Assume that you board the ferris wheel from a platform at its lowest point when . Given that the ferris wheel rotates at a constant speed, find a formula for the angle , measured from the o'clock position, as a function of .    Use your answer to part (c) to find a formula for your height above the ground as a function of .      "
+},
+{
+  "id": "Week4Wed-2-1",
+  "level": "2",
+  "url": "Week4Wed.html#Week4Wed-2-1",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   Practice our understading of the sine and cosine of an angle as coordinates of points in the unit circle.    Use the sine or cosine to build a formula for a periodic function.    "
 }
 ]
 
