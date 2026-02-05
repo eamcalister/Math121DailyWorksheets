@@ -34,8 +34,15 @@
 
     <section>
       <title>Week 4</title>
-    <xi:include href="./activities/Week4/MonWeek4_IntroUnitCircle.ptx"/>         
+    <xi:include href="./activities/Week4/MonWeek4_IntroUnitCircle.ptx"/> 
+    <xi:include href="./activities/Week4/WedWeek4_MoreSineCosine.ptx"/>        
     </section>
+
+    <section>
+      <title>Week 5</title>
+    <xi:include href="./activities/Week5/MonWeek5_RadianMeasure.ptx"/>        
+    </section>
+
 
 
     <!-- Add more xi:include files here to include them in the main course -->
