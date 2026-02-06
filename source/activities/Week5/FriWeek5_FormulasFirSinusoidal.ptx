@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <!-- When creating a new activity, make a copy of this file with appropriate name -->
+        <handout margin="1in" bottom="1.25cm" xml:id="Week5Fri">
+            <title>Friday Week 5 - Formulas for Sinusoidal Functions</title>
+<page>
+        <objectives>
+          <ul>
+            <li>One</li>
+            <li>Two</li>
+          </ul>
+        </objectives>
+            <introduction>
+                <p>
+                    What you're doing.
+                </p>
+            </introduction>
+
+<example>
+    <statement><title>Warm-up Question</title>
+        <p workspace="3in">
+            If you're doing one
+        </p>
+    </statement>
+
+</example>
+
+<example>
+    <statement>
+    <p>
+    Task to show something.
+    </p>
+    </statement>
+</example>
+
+</page>
+<page>
+
+<definition>
+    <statement>
+        <p workspace="2in">
+           If you need to define something, it is...
+        </p>
+    </statement>
+</definition>
+<p>
+    Summary of something.
+</p>
+<ul>
+    <li>
+        <p workspace="0.75in">
+            To evaluate <m>f(a)</m>...
+        </p>
+    </li>
+        <li>
+        <p workspace="0.75in">
+            To solve <m>f(x) = b</m>...
+        </p>
+    </li>
+        <li>
+        <p workspace="0.75in">
+            The domain of <m>f</m> is...
+        </p>
+    </li>
+        <li>
+        <p workspace="0.75in">
+            The range of <m>f</m> is...
+        </p>
+    </li>
+</ul>
+
+
+
+<example>
+    <statement>
+        <p>
+            Another thing
+        </p>
+    </statement>
+
+</example>
+
+</page>
+<page>
+
+<paragraphs>
+    <title>Problems</title>
+<p>
+    
+</p>
+<ol>
+    <li>
+        <p workspace="2in">
+           one
+        </p>
+    </li>
+    <li>
+        <p workspace="2in">
+            two
+        </p>
+    </li>
+    <li>
+        <p workspace="2in">
+            three
+        </p>
+    </li>
+    <li>
+        <p workspace="2in">
+            four
+        </p>
+    </li>
+
+</ol>
+
+</paragraphs>   
+
+
+
+</page>
+
+        
+
+</handout>
