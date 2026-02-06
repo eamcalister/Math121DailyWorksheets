@@ -448,7 +448,7 @@ var ptx_lunr_docs = [
   "type": "Handout",
   "number": "4.2",
   "title": "Wednesday Week 4 - More on Sine and Cosine",
-  "body": " Wednesday Week 4 - More on Sine and Cosine      Practice our understading of the sine and cosine of an angle as coordinates of points in the unit circle.    Use the sine or cosine to build a formula for a periodic function.      Sinne and Cosine of Angle Shifts  Given to the right is a unit circle. Fill in the blanks with the correct answer in terms of or .                            f(x,y)=x^2+y^2  g(x) = tan(1.2)*x  points=((1,0),(0,0),(cos(1.2),1))       (a,b)    \\theta            Positions of Points  Use your calculator to find the coordinates of the point at the given angle on a circle of radius centered at the origin.                The Ferris Wheel Again  The Brown County Ferris Wheel has diameter meters and completes one full revolution every two minutes. When you are at the lowest point on the wheel, you are still meters above the ground.    What is your height above the ground when the angle , measured from the o'clock position is ? It may be helpful to draw a picture of the ferris wheel.    Assume that you board the ferris wheel from a platform at its lowest point when . Given that the ferris wheel rotates at a constant speed, find a formula for the angle , measured from the o'clock position, as a function of .    Use your answer to part (c) to find a formula for your height above the ground as a function of .      "
+  "body": " Wednesday Week 4 - More on Sine and Cosine      Practice our understanding of the sine and cosine of an angle as coordinates of points in the unit circle.    Use the sine or cosine to build a formula for a periodic function.      Sinne and Cosine of Angle Shifts  Given to the right is a unit circle. Fill in the blanks with the correct answer in terms of or .                            f(x,y)=x^2+y^2  g(x) = tan(1.2)*x  points=((1,0),(0,0),(cos(1.2),1))       (a,b)    \\theta            Positions of Points  Use your calculator to find the coordinates of the point at the given angle on a circle of radius centered at the origin.                The Ferris Wheel Again  The Brown County Ferris Wheel has diameter meters and completes one full revolution every two minutes. When you are at the lowest point on the wheel, you are still meters above the ground.    What is your height above the ground when the angle , measured from the o'clock position is ? It may be helpful to draw a picture of the ferris wheel.    Assume that you board the ferris wheel from a platform at its lowest point when . Given that the ferris wheel rotates at a constant speed, find a formula for the angle , measured from the o'clock position, as a function of .    Use your answer to part (c) to find a formula for your height above the ground as a function of .      "
 },
 {
   "id": "Week4Wed-2-1",
@@ -457,7 +457,52 @@ var ptx_lunr_docs = [
   "type": "Objectives",
   "number": "",
   "title": "",
-  "body": "   Practice our understading of the sine and cosine of an angle as coordinates of points in the unit circle.    Use the sine or cosine to build a formula for a periodic function.    "
+  "body": "   Practice our understanding of the sine and cosine of an angle as coordinates of points in the unit circle.    Use the sine or cosine to build a formula for a periodic function.    "
+},
+{
+  "id": "Week5Mon",
+  "level": "1",
+  "url": "Week5Mon.html",
+  "type": "Handout",
+  "number": "5.1",
+  "title": "Monday Week 5 - Radian Measure of Angles",
+  "body": " Monday Week 5 - Radian Measure of Angles      Introduce measurement of angles using radian measure.    Convert from degrees to radians and vice versa.    Use radian measurement to find arc lengths on circles.      Using degrees to measure angles is a practice that originated in ancient astronomy, and because is a number that is evenly divisible by a lot of other numbers. However, it turns out that doing Calculus efficiently with periodic functions requires a different measurement using arc length on the unit circle. This is radian measure of angles.   Radian Measurement of Angles   The radian measure of an angle is...  Thus, a unit of radian is the measure of an angle that cuts of an arc length of on the unit circle.     Basic Conversions  Let's mark off angles with radian measures that are , , , , and      f(x,y) = x^2 + y^2         Based on where an angle of radians goes, we can create the following conversion factors for any angles.      Some Conversions Problems  Convert the following angles in degrees to radians:                        Convert the following angles in radians to degrees:                    (Which quadrant is it in?)         The arc length cut off by an angle of radians, in a circle of radius , is given by...   Alert: This formula requires the angle be measured in radians.     Arc Length Problems  Use the above arc length formula to solve the following problems:    What is the length of the arc cut off by a angle in a circle whose radius is feet?    What is the radius of a circle in which an angle of radians cuts off an arc of cm?    How many miles on the surface of the earth correspond to one degree of latitude? (The radius of the earth is approximately 3960 miles.)      "
+},
+{
+  "id": "Week5Mon-2-1",
+  "level": "2",
+  "url": "Week5Mon.html#Week5Mon-2-1",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   Introduce measurement of angles using radian measure.    Convert from degrees to radians and vice versa.    Use radian measurement to find arc lengths on circles.    "
+},
+{
+  "id": "Week5Mon-2-3",
+  "level": "2",
+  "url": "Week5Mon.html#Week5Mon-2-3",
+  "type": "Definition",
+  "number": "5.1",
+  "title": "Radian Measurement of Angles.",
+  "body": "Radian Measurement of Angles   The radian measure of an angle is...  Thus, a unit of radian is the measure of an angle that cuts of an arc length of on the unit circle.   "
+},
+{
+  "id": "Week5Mon-2-4",
+  "level": "2",
+  "url": "Week5Mon.html#Week5Mon-2-4",
+  "type": "Example",
+  "number": "5.2",
+  "title": "Basic Conversions.",
+  "body": " Basic Conversions  Let's mark off angles with radian measures that are , , , , and      f(x,y) = x^2 + y^2         Based on where an angle of radians goes, we can create the following conversion factors for any angles.  "
+},
+{
+  "id": "arc_length",
+  "level": "2",
+  "url": "Week5Mon.html#arc_length",
+  "type": "Fact",
+  "number": "5.3",
+  "title": "",
+  "body": "  The arc length cut off by an angle of radians, in a circle of radius , is given by...   Alert: This formula requires the angle be measured in radians.   "
 }
 ]
 
