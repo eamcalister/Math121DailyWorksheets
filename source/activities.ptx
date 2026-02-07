@@ -40,7 +40,8 @@
 
     <section>
       <title>Week 5</title>
-    <xi:include href="./activities/Week5/MonWeek5_RadianMeasure.ptx"/>        
+    <xi:include href="./activities/Week5/MonWeek5_RadianMeasure.ptx"/>    
+    <xi:include href="./activities/Week5/WedWeek5_GraphsofSineandCosine.ptx"/>       
     </section>
 
 

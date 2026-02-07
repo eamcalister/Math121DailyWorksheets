@@ -16,22 +16,81 @@
                 </p>
             </introduction>
 
-<example>
-    <statement><title>Warm-up Question</title>
-        <p workspace="3in">
-            If you're doing one
-        </p>
-    </statement>
+<paragraphs>
+    <title>Making Graphs of the Sine and Cosine Functions</title>
+<p>
+    Label the points indicated by the angles in the first quadrant unit circle below and fill in the table to the right of it.
+</p>
+<sidebyside widths="75% 25%">
+ <image>   
+<prefigure label = "first_quadrant" xmlns="https://prefigure.org">
+ <diagram dimensions="(500,500)" margins="(100,5,100,5)">
+  <definition>f(x,y)=x^2+y^2</definition>
+  <definition>g(x) = tan(3.1415/3)*x </definition>
+  <definition>k(x) = x </definition>
+  <definition>h(x) = tan(3.1415/6)*x </definition>
+  <definition>points1=((1,0),(0,0),(1/2,sin(3.1415/3))) </definition>
+  <definition>points2=((1,0),(0,0),(1,1))</definition>
+  <definition>points3=((1,0),(0,0),(cos(3.1415/6),1/2))</definition>
+  <coordinates bbox="(-.1,-.1,1.1,1.1)">
+    <grid-axes xlabel="x" ylabel="y"/>
+    <implicit-curve function="f" k="1" />
+    <graph function="g" domain="[0,cos(3.1415/3)]"/>
+    <angle-marker points="points1" radius="50" alignment="se">
+      <m>\frac{\pi}{3}</m>
+    </angle-marker>
+    <graph function="k" domain="[0,0.5^(0.5)]"/>
+    <angle-marker points="points2" radius="75" alignment="e">
+      <m>\frac{\pi}{4}</m>
+    </angle-marker>
+    <graph function="h" domain="[0,cos(3.1415/6)]"/>
+    <angle-marker points="points3" radius="100" alignment="e">
+      <m>\frac{\pi}{6}</m>
+    </angle-marker>
+  </coordinates>
+</diagram>   
+</prefigure>
+</image>  
+    <tabular>
+        <row header="yes" bottom="major">
+            <cell><m>\theta</m></cell> <cell><m>\sin(\theta)</m></cell>  <cell><m>\cos(\theta)</m></cell>
+        </row>
+        <row>
+           <cell><m>0</m></cell> <cell></cell>  <cell></cell>
+        </row>
+        <row>
+           <cell><m>\frac{\pi}{6}</m></cell> <cell></cell>  <cell></cell>
+        </row>
+        <row>
+           <cell><m>\frac{\pi}{4}</m></cell> <cell></cell>  <cell></cell>
+        </row>
+        <row>
+           <cell><m>\frac{\pi}{3}</m></cell> <cell></cell>  <cell></cell>
+        </row>
+        <row>
+           <cell><m>\frac{\pi}{2}</m></cell> <cell></cell>  <cell></cell>
+        </row>
+    </tabular>
+</sidebyside>
 
-</example>
+<p>
+    Now use the numbers in the unit circle and table to graph <m>y = \sin(\theta)</m> and <m>y = \cos(\theta)</m> (you could put dual labels on the vertical axis to appropriately say <m>x = \cos(\theta)</m>)
+</p>
+ <image>   
+<prefigure label = "sine_and_cosine" xmlns="https://prefigure.org">
+<diagram dimensions="(600,250)" margins="(30,5,30,5)">
+  <coordinates bbox="(-2*pi-.2, -1.4, 2*pi+.2, 1.4)">
+    <grid-axes xlabel="\theta"
+               h-pi-format="yes"
+               hticks="(-2*pi,pi/6,2*pi)"
+               hlabels="(-2*pi,pi/2,2*pi)"            
+               spacings="((-2*pi,pi/6,2*pi),(-1.5,0.5,1.5))"/>
+  </coordinates>
+</diagram> 
+</prefigure>
+</image>  
 
-<example>
-    <statement>
-    <p>
-    Task to show something.
-    </p>
-    </statement>
-</example>
+</paragraphs>
 
 </page>
 <page>
