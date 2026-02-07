@@ -521,6 +521,42 @@ var ptx_lunr_docs = [
   "number": "",
   "title": "",
   "body": "  Draw graphs of the sine and cosine functions.  Identify key characteristics of the sine and cosine functions.  Start discussing transformations of sine and cosine.   "
+},
+{
+  "id": "Week5Fri",
+  "level": "1",
+  "url": "Week5Fri.html",
+  "type": "Handout",
+  "number": "5.3",
+  "title": "Friday Week 5 - Formulas for Sinusoidal Functions",
+  "body": " Friday Week 5 - Formulas for Sinusoidal Functions      Understand the family of sinusoidal functions as transformations of and .    Sketch graphs of sinusoidal functions.    Find formulas for sinusoidal functions from graphs and\/or verbal descriptions.      Many families of functions arise as a family of transformations of one or two basic functions, which we can call the parent function of that family. For instance, quadratic functions are all transformations of . Now we introduce the family of sinusoidal functions, which have and as the parent functions.   Sinoisoidal Functions   A sinusoidal function is one of the form...     Features of Sinusoidal Functions  Consider a siusoidal function Then we have the following:    The period is...  Explanation:    The amplitude is...  Explanation:    The equation of the midline is...  Explanation:         Sketch the graph of the function ,     Finding Formulas  Notes for finding formulas of sinusoidal functions from graphs.      Problems     Find a formula for the sinusoidal function whose graph is shown.     f(x)=-3*sin((pi\/3)*(x-1))+5            A population of animals oscillates between a low of on January 1 ( ) and a high of on July 1 ( ). Find a formula for the population, , in terms of the time, , in months. Also,interpret the amplitude, period, and midline of the function .      "
+},
+{
+  "id": "Week5Fri-2-1",
+  "level": "2",
+  "url": "Week5Fri.html#Week5Fri-2-1",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   Understand the family of sinusoidal functions as transformations of and .    Sketch graphs of sinusoidal functions.    Find formulas for sinusoidal functions from graphs and\/or verbal descriptions.    "
+},
+{
+  "id": "Week5Fri-2-3",
+  "level": "2",
+  "url": "Week5Fri.html#Week5Fri-2-3",
+  "type": "Definition",
+  "number": "5.4",
+  "title": "Sinoisoidal Functions.",
+  "body": "Sinoisoidal Functions   A sinusoidal function is one of the form...   "
+},
+{
+  "id": "Week5Fri-3-1",
+  "level": "2",
+  "url": "Week5Fri.html#Week5Fri-3-1",
+  "type": "Example",
+  "number": "5.5",
+  "title": "",
+  "body": "  Sketch the graph of the function ,   "
 }
 ]
 
