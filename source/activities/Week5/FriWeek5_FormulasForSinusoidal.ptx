@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <!-- When creating a new activity, make a copy of this file with appropriate name -->
+        <handout margin="1in" bottom="1.25cm" xml:id="Week5Fri">
+            <title>Friday Week 5 - Formulas for Sinusoidal Functions</title>
+<page>
+        <objectives>
+        <ul>
+            <li>
+                <p>
+                    Understand the family of sinusoidal functions as transformations of <m>y = \sin(t)</m> and <m>y=\cos(t)</m>.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Sketch graphs of sinusoidal functions.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Find formulas for sinusoidal functions from graphs and/or verbal descriptions.
+                </p>
+            </li>
+        </ul>
+        </objectives>
+            <introduction>
+                <p>
+                   Many families of functions arise as a family of transformations of one or two basic functions, which we can call the <em>parent</em> function of that family. For instance, quadratic functions are all transformations of <m>y = x^2</m>. Now we introduce the family of sinusoidal functions, which have <m>y = \sin(t)</m> and <m>y = \cos(t)</m> as the parent functions. 
+                </p>
+            </introduction>
+
+
+
+<definition><title>Sinoisoidal Functions</title>
+    <statement>
+        <p workspace="2in">
+           A <term>sinusoidal function</term> is one of the form...
+        </p>
+    </statement>
+</definition>
+
+<paragraphs>
+    <title>Features of Sinusoidal Functions</title>
+<p>
+    Consider a siusoidal function 
+    <md>
+        f(t) = A\sin(B(t-h)) + k\ \text{or} f(t) = A\cos(B(t-h)) + k,
+    </md>
+    Then we have the following:
+</p>
+<ul>
+    <li>
+        <p workspace="0.5in">
+            The period is...
+        </p>
+        <p workspace="0.75in">
+        Explanation:
+        </p>
+    </li>
+    <li>
+        <p workspace="0.5in">
+            The amplitude is...
+        </p>
+        <p workspace="0.75in">
+        Explanation:
+        </p>
+    </li>
+    <li>
+        <p workspace="0.5in">
+            The equation of the midline is...
+        </p>
+        <p workspace="0.75in">
+        Explanation:
+        </p>
+    </li>
+</ul>
+</paragraphs>
+
+</page>
+<page>
+
+<example>
+    <statement>
+        <p workspace="3in">
+            Sketch the graph of the function <m>f(t) = \frac{1}{2}\cos(\pi(t-3)) + 4</m>, 
+        </p>
+    </statement>
+
+</example>
+
+
+<paragraphs>
+    <title>Finding Formulas</title>
+<p workspace="3in">
+  Notes for finding formulas of sinusoidal functions from graphs.  
+</p>
+
+</paragraphs> 
+
+</page>
+<page>
+
+<paragraphs>
+    <title>Problems</title>
+<ol>
+    <li>
+        <sidebyside>
+        <p workspace="2in">
+            Find a formula for the sinusoidal function whose graph is shown.
+        </p>  
+         <image>   
+<prefigure label = "SinusoidFormulaFromGRaph" xmlns="https://prefigure.org">
+<diagram dimensions="(400,400)" margins="(100,5,100,5)">
+  <definition>f(x)=-3*sin((pi/3)*(x-1))+5</definition>
+  <coordinates bbox="(-3, -1, 12, 10)">
+    <grid-axes xlabel="\theta"
+               hticks="(-2,1,12)"
+               vticks="(0,1,14)"
+               hlabels="(-2,1,12)"
+               vlabels="(0,1,14)"
+               spacings="((-3,1,12),(-1,1,14))"/>
+    <graph at="graph" function="f"/>
+  </coordinates>
+</diagram> 
+</prefigure>
+</image> 
+        </sidebyside>
+    </li>
+    <li>
+        <p workspace="2in">
+            A population of animals oscillates between a low of <m>1300</m> on January 1 (<m>t = 0</m>) and a high of <m>2200</m> on July 1 (<m>t = 6</m>). Find a formula for the population, <m>P</m>, in terms of the time, <m>t</m>, in months. Also,interpret the amplitude, period, and midline of the function <m>P = f(t)</m>.
+        </p>
+    </li>
+</ol>
+
+
+
+</paragraphs>
+
+
+</page>
+
+        
+
+</handout>
