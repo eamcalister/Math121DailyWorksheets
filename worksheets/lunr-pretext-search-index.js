@@ -503,6 +503,24 @@ var ptx_lunr_docs = [
   "number": "5.3",
   "title": "",
   "body": "  The arc length cut off by an angle of radians, in a circle of radius , is given by...   Alert: This formula requires the angle be measured in radians.   "
+},
+{
+  "id": "Week5Wed",
+  "level": "1",
+  "url": "Week5Wed.html",
+  "type": "Handout",
+  "number": "5.2",
+  "title": "Wednesday Week 5 - Graphs of Sine and Cosine",
+  "body": " Wednesday Week 5 - Graphs of Sine and Cosine     Draw graphs of the sine and cosine functions.  Identify key characteristics of the sine and cosine functions.  Start discussing transformations of sine and cosine.     Up until now we have only viewed the sine and cosine of an angle one point at a time. Now we will graph them as entire functions of the angle. This provides us with a second important way to think about them, the first being the unit circle.    Making Graphs of the Sine and Cosine Functions  Label the points indicated by the angles in the first quadrant unit circle below and fill in the table to the right of it.      f(x,y)=x^2+y^2  g(x) = tan(3.1415\/3)*x  k(x) = x  h(x) = tan(3.1415\/6)*x  points1=((1,0),(0,0),(1\/2,sin(3.1415\/3)))  points2=((1,0),(0,0),(1,1))  points3=((1,0),(0,0),(cos(3.1415\/6),1\/2))       \\frac{\\pi}{3}     \\frac{\\pi}{4}     \\frac{\\pi}{6}                                        Now use the numbers in the unit circle and table to graph and (you could put dual labels on the vertical axis to appropriately say )               Features of the Graphs of Sine and Cosine  The common features of and are the following:    Period     Amplitude     Equation of Midline     What are some differences?    Transformations of Sine and Cosine  For each of the following (vertical only) transformations of the sine or cosine function, find the amplitude and midline.                            Finding a Formula from a Graph  Find a possible formula for the function whose graph is shown below:     f(x)=-2*sin(x)+3        >   "
+},
+{
+  "id": "Week5Wed-2-1",
+  "level": "2",
+  "url": "Week5Wed.html#Week5Wed-2-1",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "  Draw graphs of the sine and cosine functions.  Identify key characteristics of the sine and cosine functions.  Start discussing transformations of sine and cosine.   "
 }
 ]
 
