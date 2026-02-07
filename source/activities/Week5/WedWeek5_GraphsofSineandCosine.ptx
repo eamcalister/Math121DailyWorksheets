@@ -6,13 +6,14 @@
 <page>
         <objectives>
           <ul>
-            <li>One</li>
-            <li>Two</li>
+            <li><p>Draw graphs of the sine and cosine functions.</p></li>
+            <li><p>Identify key characteristics of the sine and cosine functions.</p></li>
+            <li><p>Start discussing transformations of sine and cosine.</p></li>
           </ul>
         </objectives>
             <introduction>
                 <p>
-                    What you're doing.
+                    Up until now we have only viewed the sine and cosine of an angle one point at a time. Now we will graph them as entire functions of the angle. This provides us with a second important way to think about them, the first being the unit circle.
                 </p>
             </introduction>
 
@@ -24,7 +25,7 @@
 <sidebyside widths="75% 25%">
  <image>   
 <prefigure label = "first_quadrant" xmlns="https://prefigure.org">
- <diagram dimensions="(500,500)" margins="(100,5,100,5)">
+ <diagram dimensions="(500,500)" margins="(150,5,150,5)">
   <definition>f(x,y)=x^2+y^2</definition>
   <definition>g(x) = tan(3.1415/3)*x </definition>
   <definition>k(x) = x </definition>
@@ -95,81 +96,92 @@
 </page>
 <page>
 
-<definition>
-    <statement>
-        <p workspace="2in">
-           If you need to define something, it is...
-        </p>
-    </statement>
-</definition>
-<p>
-    Summary of something.
-</p>
-<ul>
+<paragraphs>
+    <title>Features of the Graphs of Sine and Cosine</title>
+    <p>
+        The common features of <m>y=\sin(\theta)</m> and <m>y=\cos(theta)</m> are the following:
+    </p>
+    <ul>
     <li>
-        <p workspace="0.75in">
-            To evaluate <m>f(a)</m>...
+        <p workspace="0.5in">
+            Period <m>=\ldots</m>
         </p>
     </li>
-        <li>
-        <p workspace="0.75in">
-            To solve <m>f(x) = b</m>...
+    <li>
+        <p workspace="0.5in">
+            Amplitude <m>=\ldots</m>
         </p>
     </li>
-        <li>
-        <p workspace="0.75in">
-            The domain of <m>f</m> is...
+    <li>
+        <p workspace="0.5in">
+            Equation of Midline <m>y =</m><fillin characters="5" />
         </p>
     </li>
-        <li>
-        <p workspace="0.75in">
-            The range of <m>f</m> is...
-        </p>
-    </li>
+
 </ul>
+    <p workspace="3in">
+        What are some differences?
+    </p>
 
+</paragraphs>
 
-
-<example>
-    <statement>
-        <p>
-            Another thing
+<paragraphs>
+    <title>Transformations of Sine and Cosine</title>
+<p>
+    For each of the following (vertical only) transformations of the sine or cosine function, find the amplitude and midline.
+</p>
+<ol>
+    <li>
+        <p workspace=".25in">
+           <m>y = 2\sin(t) + 3</m>
         </p>
-    </statement>
+    </li>
+    <li>
+        <p workspace=".25in">
+           <m>y = 4-3\cos(t)</m>
+        </p>
+    </li>
+    <li>
+        <p workspace=".25in">
+           <m>y = \frac{3\sin(t)}{20}</m>
+        </p>
+    </li>
+    <li>
+        <p workspace=".25in">
+           <m>y = \frac{5-2\sin(t)}{5}</m>
+        </p>
+    </li>
 
-</example>
+</ol>
+
+</paragraphs>   
+
 
 </page>
 <page>
 
 <paragraphs>
-    <title>Problems</title>
+    <title>Finding a Formula from a Graph</title>
 <p>
-    
+Find a possible formula for the function whose graph is shown below:  
 </p>
-<ol>
-    <li>
-        <p workspace="2in">
-           one
-        </p>
-    </li>
-    <li>
-        <p workspace="2in">
-            two
-        </p>
-    </li>
-    <li>
-        <p workspace="2in">
-            three
-        </p>
-    </li>
-    <li>
-        <p workspace="2in">
-            four
-        </p>
-    </li>
-
-</ol>
+ <image>   
+<prefigure label = "1stSinusoidFormula" xmlns="https://prefigure.org">
+<diagram dimensions="(400,400)" margins="(100,5,100,5)">
+  <definition>f(x)=-2*sin(x)+3</definition>
+  <coordinates bbox="(-2*pi-.2, -1, 2*pi+.2, 2*pi+.2)">
+    <grid-axes xlabel="\theta"
+               h-pi-format="yes"
+               hticks="(-2*pi,pi/2,2*pi)"
+               vticks="(0,1,6)"
+               hlabels="(-2*pi,pi/2,2*pi)"
+               vlabels="(0,1,6)"
+               spacings="((-2*pi,pi/6,2*pi),(-1,1,6))"/>
+    <graph at="graph" function="f"/>
+  </coordinates>
+</diagram> 
+</prefigure>
+</image>  >
 
 </paragraphs>   
 
