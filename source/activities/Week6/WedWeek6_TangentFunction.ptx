@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <!-- When creating a new activity, make a copy of this file with appropriate name -->
+        <handout margin="1in" bottom="1.25cm" xml:id="Week6Wed">
+            <title>Wednesday Week 6 - The Tangent Function</title>
+<page>
+        <objectives>
+          <ul>
+            <li>
+                <p>
+                    Define the tangent function in terms of the sine and cosine functions.    
+                </p>
+            </li>
+            <li>
+                <p>
+                  Find outputs of <m>\tan(\theta)</m> at special angles.  
+                </p>
+            </li>
+            <li>
+                <p>
+                    Find outputs of sine, cosine, and tangent give the output of one of them and a quadrant.
+                </p>
+            </li>
+          </ul>
+        </objectives>
+            <introduction>
+                <p>
+                    The third basic trigonometric function is the tangent function. Today we will define it and make use of its relationship with the sine and cosine functions.
+                </p>
+            </introduction>
+
+
+<definition> <title>The Tangent Function</title>
+    <statement>
+        <p workspace="1in">
+           Given an angle <m>\theta</m>, the <term>tangent</term> of <m>\theta</m> is defined as...
+        </p>
+        <p workspace="2in">
+            Geometrically, we can interpret the tangent of an angle as follows:
+        </p>
+    </statement>
+</definition>
+
+<paragraphs>
+    <title>Outputs at the Special Angles</title>
+    
+</paragraphs>
+
+
+</page>
+<page>
+
+<paragraphs>
+    <title>The Graph of <m>\tan(\theta)</m></title>
+<p>
+    
+</p>
+
+</paragraphs>   
+
+
+
+</page>
+
+        
+
+</handout>
