@@ -43,6 +43,32 @@
 
 <paragraphs>
     <title>Outputs at the Special Angles</title>
+    <p>
+        Use your knowledge of the outputs of sine and cosine to fill in the following table.
+    </p>
+    <tabular>
+        <row header="yes" bottom="major">
+            <cell><m>\theta</m></cell> <cell><m>\sin(\theta)</m></cell>  <cell><m>\cos(\theta)</m></cell> <cell><m>\tan(\theta)</m></cell>
+        </row>
+        <row>
+           <cell><m>0</m></cell> <cell></cell>  <cell></cell>  <cell></cell>
+        </row>
+        <row>
+           <cell><m>\frac{\pi}{6}</m></cell> <cell></cell>  <cell></cell>  <cell></cell>
+        </row>
+        <row>
+           <cell><m>\frac{\pi}{4}</m></cell> <cell></cell>  <cell></cell>  <cell></cell>
+        </row>
+        <row>
+           <cell><m>\frac{\pi}{3}</m></cell> <cell></cell>  <cell></cell>  <cell></cell>
+        </row>
+        <row>
+           <cell><m>\frac{\pi}{2}</m></cell> <cell></cell>  <cell></cell>  <cell></cell>
+        </row>
+    </tabular>
+    <p workspace="2in">
+        How will the sign of the tangent function change depending on the quadrant its input is in?
+    </p>
     
 </paragraphs>
 
@@ -53,8 +79,21 @@
 <paragraphs>
     <title>The Graph of <m>\tan(\theta)</m></title>
 <p>
-    
+    In the axes below: sketch a graph of <m>y = \tan(\theta)</m>
 </p>
+ <image>   
+<prefigure label = "tangent" xmlns="https://prefigure.org">
+<diagram dimensions="(600,250)" margins="(30,5,30,5)">
+  <coordinates bbox="(-2*pi-.2, -6, 2*pi+.2, 6)">
+    <grid-axes xlabel="\theta"
+               h-pi-format="yes"
+               hticks="(-2*pi,pi/4,2*pi)"
+               hlabels="(-2*pi,pi/2,2*pi)"            
+               spacings="((-2*pi,pi/4,2*pi),(-6,1,6))"/>
+  </coordinates>
+</diagram> 
+</prefigure>
+</image>  
 
 </paragraphs>   
 

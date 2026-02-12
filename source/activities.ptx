@@ -45,6 +45,11 @@
     <xi:include href="./activities/Week5/FriWeek5_FormulasForSinusoidal.ptx"/>    
     </section>
 
+        <section>
+      <title>Week 5</title>
+    <xi:include href="./activities/Week6/WedWeek6_TangentFunction.ptx"/>    
+    </section>
+
 
 
     <!-- Add more xi:include files here to include them in the main course -->
