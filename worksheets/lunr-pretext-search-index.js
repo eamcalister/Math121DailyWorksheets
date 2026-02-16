@@ -629,6 +629,51 @@ var ptx_lunr_docs = [
   "number": "6.3",
   "title": "The Pythagorean Identity.",
   "body": " The Pythagorean Identity   If is any angle, then    Explanation:    "
+},
+{
+  "id": "Week7Mon",
+  "level": "1",
+  "url": "Week7Mon.html",
+  "type": "Handout",
+  "number": "7.1",
+  "title": "Monday Week 7 - Using Inverse Trigonometric Functions",
+  "body": " Monday Week 7 - Using Inverse Trigonometric Functions      Formally define , , and .    Use inverse trigonometric to find solutions to equations involving trigonometric functions    Use graphs and\/or the unit circle to find additional solutions to equations involving trigonometric functions.      The Inverse Trigonometric Functions     is...   Unit circle visualization:  Using the graph of :      is...   Unit circle visualization:  Using the graph of :      is...   Unit circle visualization:  Using the graph of :         Alternative Notations      Practice with Definitions  For each of the following, find the indicated value:                     Solving Equations (One Solution)  For each of the following equations, find one solution using an inverse trigonometric function.                  Finding Additional Solutions  Once you have found one solution to a trigonometric equation, you can find additional solutions using the unit circle or the graph of a trigonometric function.    Find all solutions to with .    Find all solutions to with .      "
+},
+{
+  "id": "Week7Mon-2-1",
+  "level": "2",
+  "url": "Week7Mon.html#Week7Mon-2-1",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   Formally define , , and .    Use inverse trigonometric to find solutions to equations involving trigonometric functions    Use graphs and\/or the unit circle to find additional solutions to equations involving trigonometric functions.    "
+},
+{
+  "id": "Week7Fri",
+  "level": "1",
+  "url": "Week7Fri.html",
+  "type": "Handout",
+  "number": "7.2",
+  "title": "Wednesday Week 7 - Right Triangle Trigonometry",
+  "body": " Wednesday Week 7 - Right Triangle Trigonometry      Define the trigonometric functions in terms of a right triangle using ratios of side lengths.    Solve applied problems using right triangle trigonometry.      So far, we have been using the definitions of sine, cosine, and tangent in terms of positions on the unit circle (as , , and , respectively.). By embedding triangles in circles, we can deduce the standard definitions in terms of a right triangle. Then we can solve triangle problems.     Consider the right triangle shown below:      points=((6,0),(0,0),(6,5))    \\theta    h    a    o       With sides labled as in the figure, we have the following definitions of , , and :     A Basic Triangle Problem  Using the triangle given below, find each of the insicated values.       points=((10,0),(0,0),(10,5))    \\theta    10    5    \\phi                                  Applications of Right Triangle Trigonometry    A ft tall tower is to be anchored by cables that make a angle with the ground. How long must the cables be and how far from the base of the tower must they be placed?     A surveyor must measure the distance between two banks of a straight river. She sights a tree at the point on the opposite bank of the river and drives a stake into the ground (at point ) directly across from the tree. The she walks meters upstream and places a stake at the point . She measures then angle and finds that is it . What is the width of the river?      points=((5,0),(0,0),(5,8.6))      58^{\\circ}    50    d              "
+},
+{
+  "id": "Week7Fri-2-1",
+  "level": "2",
+  "url": "Week7Fri.html#Week7Fri-2-1",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   Define the trigonometric functions in terms of a right triangle using ratios of side lengths.    Solve applied problems using right triangle trigonometry.    "
+},
+{
+  "id": "Week7Fri-2-3",
+  "level": "2",
+  "url": "Week7Fri.html#Week7Fri-2-3",
+  "type": "Definition",
+  "number": "7.1",
+  "title": "",
+  "body": "  Consider the right triangle shown below:      points=((6,0),(0,0),(6,5))    \\theta    h    a    o       With sides labled as in the figure, we have the following definitions of , , and :   "
 }
 ]
 
