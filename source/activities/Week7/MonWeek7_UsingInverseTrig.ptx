@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <!-- When creating a new activity, make a copy of this file with appropriate name -->
+        <handout margin="1in" bottom="1.25cm" xml:id="Week7Mon">
+            <title>Monday Week 7 - Using Inverse Trigonometric Functions</title>
+<page>
+        <objectives>
+          <ul>
+            <li>
+                <p>
+                    Formally define <m>\sin^{-1}</m>, <m>\cos^{-1}</m>, and <m>\tan^{-1}</m>.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Use inverse trigonometric to find solutions to equations involving trigonometric functions
+                </p>
+            </li>
+            <li>
+                <p>
+                    Use graphs and/or the unit circle to find additional solutions to equations involving trigonometric functions.
+                </p>
+            </li>
+          </ul>
+        </objectives>
+
+<paragraphs>
+    <title>The Inverse Trigonometric Functions</title>
+    <ul>
+        <li>
+            <p>
+                <m>\theta = \sin^{-1}(y)</m> is...
+            </p>
+            <sidebyside>
+                <p workspace="1.5in">
+                    Unit circle visualization:
+                </p>
+                <p workspace="1.5in">
+                    Using the graph of <m>y = \sin(\theta)</m>:
+                </p>
+            </sidebyside>
+        </li>
+        <li>
+            <p>
+                <m>\theta = \cos^{-1}(x)</m> is...
+            </p>
+            <sidebyside>
+                <p workspace="1.5in">
+                    Unit circle visualization:
+                </p>
+                <p workspace="1.5in">
+                    Using the graph of <m>y = \cos(\theta)</m>:
+                </p>
+            </sidebyside>
+        </li>
+        <li>
+            <p>
+                <m>\theta = \tan^{-1}(m)</m> is...
+            </p>
+            <sidebyside>
+                <p workspace="1.5in">
+                    Unit circle visualization:
+                </p>
+                <p workspace="1.5in">
+                    Using the graph of <m>y = \tan(\theta)</m>:
+                </p>
+            </sidebyside>
+        </li>
+    </ul>
+
+</paragraphs>
+
+</page>
+
+<page>
+
+<paragraphs>
+    <title>Alternative Notations</title>
+    <p workspace="1in">
+    
+    </p>
+</paragraphs>
+
+<paragraphs>
+    <title>Practice with Definitions</title>
+<p>
+    For each of the following, find the indicated value:
+</p>
+<ol>
+    <li>
+        <p workspace="0.75in">
+            <m>\cos^{-1}\left(\frac{1}{2}\right)</m>
+        </p>
+    </li>
+    <li>
+        <p workspace="0.75in">
+            <m>\sin^{-1}\left(\sin\left(\frac{\pi}{4}\right)\right)</m>
+        </p>
+    </li>
+        <li>
+        <p workspace="0.75in">
+            <m>\tan^{-1}(152)\approx</m>
+        </p>
+    </li>
+</ol>
+    
+</paragraphs>
+    
+<paragraphs>
+    <title>Solving Equations (One Solution)</title>
+    <p>
+        For each of the following equations, find one solution using an inverse trigonometric function.
+    </p>
+    <ol>
+        <li>
+            <p workspace="1in">
+                <m>4\sin(\theta) = 1</m>
+            </p>
+        </li>
+        <li>
+            <p workspace="1.5in">
+                <m>\cos(\theta) + 4 = 5\cos(\theta) +1</m>
+            </p>
+        </li>
+    </ol>
+</paragraphs>
+
+
+</page>
+
+<page>
+<paragraphs>
+    <title>Finding Additional Solutions</title>
+    <p>
+        Once you have found one solution to a trigonometric equation, you can find additional solutions using the unit circle or the graph of a trigonometric function.
+    </p>
+        <ol>
+        <li>
+            <p workspace="3in">
+                Find all solutions to <md>\cos(\theta) + 4 = 5\cos(\theta) +1</md> with <m>0\leq \theta &lt; 2\pi</m>.
+            </p>
+        </li>
+        <li>
+            <p workspace="3in">
+                Find all solutions to <md>2\sin(\theta) = 1</md> with <m>-\pi\leq \theta \leq 3\pi</m>.
+            </p>
+        </li>
+    </ol>
+    
+
+</paragraphs>
+
+
+
+</page>  
+
+</handout>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <!-- When creating a new activity, make a copy of this file with appropriate name -->
+        <handout margin="1in" bottom="1.25cm" xml:id="Week7Fri">
+            <title>Friday Week 7 - Right Triangle Trigonometry</title>
+<page>
+        <objectives>
+          <ul>
+            <li>
+                <p>
+                    Define the trigonometric functions in terms of a right triangle using ratios of side lengths.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Solve applied problems using right triangle trigonometry.
+                </p>
+            </li>
+          </ul>
+        </objectives>
+            <introduction>
+                <p>
+                   So far, we have been using the definitions of sine, cosine, and tangent in terms of positions on the unit circle (as <m>y</m>, <m>x</m>, and <m>\frac{y}{x}</m>, respectively.). By embedding triangles in circles, we can deduce the standard definitions in terms of a right triangle. Then we can solve triangle problems.
+                </p>
+            </introduction>
+
+
+
+<definition>
+    <statement>
+        <p>
+          Consider the right triangle shown below: 
+        </p>     
+<image>   
+<prefigure label = "right-triangle" xmlns="https://prefigure.org">
+<diagram dimensions="(300,300)" margins="(300,5,300,5)">
+  <coordinates bbox="(-2,-2,6.5,5.5)">
+    <definition>points=((6,0),(0,0),(6,5))</definition>
+    <triangle vertices="points"
+              angle-markers="yes"/>
+    <angle-marker points="points" radius="30">
+      <m>\theta</m>
+    </angle-marker>
+    <label anchor="(2.5,3)" alignment="east">
+      <m>h</m>
+    </label>
+    <label anchor="(3,0)" alignment="south">
+      <m>a</m>
+    </label>
+        <label anchor="(6,2.5)" alignment="east">
+      <m>o</m>
+    </label>
+  </coordinates>
+</diagram>
+</prefigure>
+</image>  
+<p workspace="0.5in">
+    With sides labled as in the figure, we have the following definitions of <m>\sin(\theta)</m>, <m>\cos(\theta)</m>, and <m>\tan(\theta)</m>:
+</p>
+
+    </statement>
+</definition>
+
+<paragraphs>
+    <title>A Basic Triangle Problem</title>
+<p>
+     Using the triangle given below, find each of the insicated values.  
+</p>
+<sidebyside>
+<image>   
+<prefigure label = "right-triangle-problem" xmlns="https://prefigure.org">
+<diagram dimensions="(300,300)" margins="(50,5,50,5)">
+  <coordinates bbox="(-2,-2,12,10)">
+    <definition>points=((10,0),(0,0),(10,5))</definition>
+    <triangle vertices="points"
+              angle-markers="yes"/>
+    <angle-marker points="points" radius="30">
+      <m>\theta</m>
+    </angle-marker>
+    <label anchor="(5,0)" alignment="south">
+      <m>10</m>
+    </label>
+    <label anchor="(10,2.5)" alignment="east">
+      <m>5</m>
+    </label>
+    <label anchor="(9,4.25)" alignment="south">
+      <m>\phi</m>
+    </label>
+  </coordinates>
+</diagram>
+</prefigure>
+</image>
+
+<ol>
+    <li>
+        <p workspace="0.5in">
+            <m>\sin(\theta)</m>
+        </p>
+    </li>
+    <li>
+        <p workspace="0.5in">
+            <m>\sin(\phi)</m>
+        </p>
+    </li>
+    <li>
+        <p workspace="0.5in">
+            <m>\tan(\theta)</m>
+        </p>
+    </li>
+    <li>
+        <p workspace="0.5in">
+            <m>\cos(\theta)</m>
+        </p>
+    </li>
+</ol>
+
+</sidebyside>
+
+</paragraphs>
+
+</page>
+
+<page>
+
+<paragraphs>
+    <title>Applications of Right Triangle Trigonometry</title>
+<ol>
+    <li>
+        <p workspace="2in">
+            A <m>200</m> ft tall tower is to be anchored by cables that make a <m>30^{\circ}</m> angle with the ground. How long must the cables be and how far from the base of the tower must they be placed?
+        </p>
+    </li>
+    <li>
+        <sidebyside>
+        <p workspace="3in">
+            A surveyor must measure the distance between two banks of a straight river. She sights a tree at the point <m>T</m> on the opposite bank of the river and drives a stake into the ground (at point <m>P</m>) directly across from the tree. The she walks <m>50</m> meters upstream and places a stake at the point <m>Q</m>. She measures then angle <m>\angle PQT</m> and finds that is it <m>50^{\circ}</m>. What is the width of the river?
+        </p>   
+        <image>   
+<prefigure label = "river-problem" xmlns="https://prefigure.org">
+<diagram dimensions="(300,300)" margins="(100,5,100,5)">
+  <coordinates bbox="(-4,-2,8,10)">
+    <definition>points=((5,0),(0,0),(5,8.6))</definition>
+    <triangle vertices="points"
+              labels="P,Q,T" show-vertices="yes"/>
+    <angle-marker points="((5,8.6),(5,0),(0,0))" radius="30">
+    </angle-marker>
+    <angle-marker points="points" radius="30">
+      <m>58^{\circ}</m>
+    </angle-marker>
+    <label anchor="(2.5,0)" alignment="south">
+      <m>50</m>
+    </label>
+    <label anchor="(5,4.25)" alignment="east">
+      <m>d</m>
+    </label>
+     <line p1="(0,8.6)" p2="(4,8.6)" dash="5 5 5" infinite="yes"/>
+      <line p1="(0,0)" p2="(4,0)" dash="5 5 5" infinite="yes"/>
+  </coordinates>
+</diagram>
+</prefigure>
+</image>
+        </sidebyside>
+    </li>
+</ol>
+    
+</paragraphs>
+
+    
+</page>
+
+        
+
+</handout>

@@ -51,6 +51,13 @@
     <xi:include href="./activities/Week6/FriWeek6_SixTrigFunctions.ptx"/> 
     </section>
 
+    <section>
+      <title>Week 7</title>
+    <xi:include href="./activities/Week7/MonWeek7_UsingInverseTrig.ptx"/>
+    <xi:include href="./activities/Week7/WedWeek7_RightTriangleTrig.ptx"/>
+    </section>
+
+
 
 
     <!-- Add more xi:include files here to include them in the main course -->
