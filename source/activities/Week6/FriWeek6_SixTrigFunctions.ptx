@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <!-- When creating a new activity, make a copy of this file with appropriate name -->
+        <handout margin="1in" bottom="1.25cm" xml:id="Week6Fri">
+            <title>Friday Week 6 - The Six Trigonometric Functions</title>
+<page>
+        <objectives>
+          <ul>
+            <li>
+                <p>
+                    Define the reciprocal trigonometric functions and evaluate them at special angles.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Recognize the graphs of the reciprocal trigonometric functions.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Introduce and use the Pythoagorean Identity (this is important!)
+                </p>
+            </li>
+          </ul>
+        </objectives>
+            <introduction>
+                <p>
+                    We're now familiar with the sine, cosine, and tangent functions. There are three more trigonometric functions that are occasionally useful. These are the reciprocal trigonometric functions.
+                </p>
+            </introduction>
+
+<definition>
+    <statement>
+        <p>
+           Given an angle <m>\theta</m> in the unit circle, we make the following definitions:
+        </p>
+        <ul>
+            <li>
+                <p>
+                    <m>\sec(\theta) = </m><fillin characters="5" />
+                </p>
+            </li>
+            <li>
+                <p>
+                    <m>\csc(\theta) = </m><fillin characters="5" />
+                </p>
+            </li>
+            <li>
+                <p>
+                    <m>\cot(\theta) = </m><fillin characters="5" />
+                </p>
+            </li>
+        </ul>
+    </statement>
+</definition>
+
+<p>
+    <term>Warning:</term> These functions are not the same as <m>\sin^{-1}</m>, <m>\cos^{-1}</m>, and <m>\tan^{-1}</m>. Those are inverse functions.
+</p>
+
+<paragraphs>
+    <title>Evaluating the Reciprocal Functions</title>
+<p>
+    Find the indicated values:
+</p>
+<ol>
+    <li>
+        <p workspace="0.5in">
+            <m>\cot\left(\frac{\pi}{4}\right)</m>
+        </p>
+    </li>
+        <li>
+        <p workspace="0.5in">
+            <m>\sec\left(\frac{11\pi}{6}\right)</m>
+        </p>
+    </li>
+    <li>
+        <p workspace="0.5in">
+            <m>\csc\left(\frac{5\pi}{3}\right)</m>
+        </p>
+    </li>
+    <li>
+        <p workspace="0.5in">
+            <m>\csc\left(\frac{11\pi}{6}\right)</m>
+        </p>
+    </li>
+    <li>
+        <p workspace="0.5in">
+            <m>\sec\left(-\frac{\pi}{2}\right)</m>
+        </p>
+    </li>
+    <li>
+        <p workspace="0.5in">
+            <m>\cot\left(-\frac{13\pi}{6}\right)</m>
+        </p>
+    </li>
+</ol>
+    
+</paragraphs>
+
+</page>
+<page>
+
+<paragraphs>
+    <title>Graphs of Secant, Cosecant, and Cotangent</title>
+<p>
+The graphs below are those of the secant, cosecant, and cotangent functions. Which one is which?    
+</p>
+ <image>   
+<prefigure label = "cosecant" xmlns="https://prefigure.org">
+<diagram dimensions="(600,250)" margins="(50,30,50,30)">
+    <definition>f(x)=1/(sin(x))</definition>
+  <coordinates bbox="(-2*pi-.2, -6, 2*pi+.2, 6)">
+    <grid-axes xlabel="\theta"
+               h-pi-format="yes"
+               hticks="(-2*pi,pi/4,2*pi)"
+               hlabels="(-2*pi,pi/2,2*pi)"            
+               spacings="((-2*pi,pi/4,2*pi),(-6,1,6))"/>
+        <graph function="f" domain="(-2*pi,2*pi)"/>
+  </coordinates>
+</diagram> 
+</prefigure>
+</image>    
+<image>   
+<prefigure label = "cotangent" xmlns="https://prefigure.org">
+<diagram dimensions="(600,250)" margins="(50,30,50,30)">
+    <definition>f(x)=1/(tan(x))</definition>
+  <coordinates bbox="(-2*pi-.2, -6, 2*pi+.2, 6)">
+    <grid-axes xlabel="\theta"
+               h-pi-format="yes"
+               hticks="(-2*pi,pi/4,2*pi)"
+               hlabels="(-2*pi,pi/2,2*pi)"            
+               spacings="((-2*pi,pi/4,2*pi),(-6,1,6))"/>
+        <graph function="f" domain="(-2*pi,2*pi)"/>
+  </coordinates>
+</diagram> 
+</prefigure>
+</image>  
+ <image>   
+<prefigure label = "secant" xmlns="https://prefigure.org">
+<diagram dimensions="(600,250)" margins="(50,30,50,30)">
+    <definition>f(x)=1/(cos(x))</definition>
+  <coordinates bbox="(-2*pi-.2, -6, 2*pi+.2, 6)">
+    <grid-axes xlabel="\theta"
+               h-pi-format="yes"
+               hticks="(-2*pi,pi/4,2*pi)"
+               hlabels="(-2*pi,pi/2,2*pi)"            
+               spacings="((-2*pi,pi/4,2*pi),(-6,1,6))"/>
+        <graph function="f" domain="(-pi/2,pi/2)"/>
+        <graph function="f" domain="(pi/2,3*pi/2)"/>
+        <graph function="f" domain="(-3*pi/2,-pi/2)"/>
+        <graph function="f" domain="(-5*pi/2,-3*pi/2)"/>
+        <graph function="f" domain="(3*pi/2,5*pi/2)"/>
+  </coordinates>
+</diagram> 
+</prefigure>
+</image>     
+
+</paragraphs>   
+
+
+
+</page>
+
+<page>
+<fact xml:id="pythagorean-id">
+    <title>The Pythagorean Identity</title>
+    <statement>
+        <p>
+            If <m>\theta</m> is any angle, then 
+            <md>
+                \sin^2(\theta) + \cos^2(\theta) = 1.
+            </md>
+            
+        </p>
+        <p workspace="2in">
+            <term>Explanation:</term>
+        </p>
+    </statement>
+</fact>
+
+<paragraphs>
+    <title>Uses of the Pythagorean Identity</title>
+    
+</paragraphs>
+<ol>
+    <li>
+        <p workspace="2in">
+            We can derive a similar identity for the secant and tangent functions.
+        </p>
+    </li>
+    <li>
+        <p workspace="2.5in">
+            We can find values of <em>any</em> trigonometric functions given the value of one and a quadrant using these identities. For instance, suppose <m>\theta</m> is in quadrant I and <m>\sec(\theta) = 17</m>. Find the values of the other five trigonometric functions.
+        </p>
+    </li>
+</ol>
+
+
+</page>
+
+        
+
+</handout>

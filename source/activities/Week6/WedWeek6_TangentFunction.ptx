@@ -97,6 +97,53 @@
 
 </paragraphs>   
 
+<paragraphs>
+    <title>Formula for Transformation of <m>\tan(\theta)</m></title>
+<p>
+    Use graphical transformations of the graph of <m>y = \tan(\theta)</m> to find a formula for the function whose graph is shown below.
+</p>
+ <image>   
+<prefigure label = "tangent-transform" xmlns="https://prefigure.org">
+<diagram dimensions="(600,250)" margins="(30,5,30,5)">
+  <definition>f(x)=5*tan(4*x)+10</definition>
+  <coordinates bbox="(-pi/2-.2, -20, pi/2+.2, 30)">
+    <grid-axes xlabel="\theta"
+               h-pi-format="yes"
+               hticks="(-2*pi,pi/16,2*pi)"
+               hlabels="(-2*pi,pi/4,2*pi)"            
+               spacings="((-2*pi,pi/8,2*pi),(-20,5,30))"/>
+    <graph function="f"/>
+  </coordinates>
+</diagram> 
+</prefigure>
+</image>  
+    
+</paragraphs>
+
+</page>
+
+<page>
+
+<paragraphs>
+    <title>Relations with Sine and Cosine</title>
+    <p>
+        Using the relationships between the sine, cosine, and tangent functions, when we are given the value of one of the three functions and a quadrant, we can find the other two.
+    </p>
+    <ol>
+        <li>
+            <p workspace="3.5in">
+                Suppose <m>\theta</m> is an angle in quadrant II with <m>\cos(\theta) = -\frac{3}{4}</m>. Find the values of <m>\sin(\theta)</m> and <m>\tan(\theta)</m>.
+            </p>
+        </li>
+        <li>
+            <p workspace="3.5in">
+                Suppose <m>\theta</m> is an angle in quadrant I with <m>\tan(\theta) = \frac{x}{4}</m>. Find the values of <m>\sin(\theta)</m> and <m>\cos(\theta)</m>.
+            </p>
+        </li>
+    </ol>
+
+</paragraphs>
+
 
 
 </page>

@@ -46,8 +46,9 @@
     </section>
 
         <section>
-      <title>Week 5</title>
-    <xi:include href="./activities/Week6/WedWeek6_TangentFunction.ptx"/>    
+      <title>Week 6</title>
+    <xi:include href="./activities/Week6/WedWeek6_TangentFunction.ptx"/>
+    <xi:include href="./activities/Week6/FriWeek6_SixTrigFunctions.ptx"/> 
     </section>
 
 
