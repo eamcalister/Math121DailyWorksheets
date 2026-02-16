@@ -557,6 +557,78 @@ var ptx_lunr_docs = [
   "number": "5.5",
   "title": "",
   "body": "  Sketch the graph of the function ,   "
+},
+{
+  "id": "Week6Wed",
+  "level": "1",
+  "url": "Week6Wed.html",
+  "type": "Handout",
+  "number": "6.1",
+  "title": "Wednesday Week 6 - The Tangent Function",
+  "body": " Wednesday Week 6 - The Tangent Function      Define the tangent function in terms of the sine and cosine functions.    Find outputs of at special angles.    Find outputs of sine, cosine, and tangent give the output of one of them and a quadrant.      The third basic trigonometric function is the tangent function. Today we will define it and make use of its relationship with the sine and cosine functions.    The Tangent Function   Given an angle , the tangent of is defined as...  Geometrically, we can interpret the tangent of an angle as follows:     Outputs at the Special Angles  Use your knowledge of the outputs of sine and cosine to fill in the following table.                                        How will the sign of the tangent function change depending on the quadrant its input is in?      The Graph of  In the axes below: sketch a graph of              Formula for Transformation of  Use graphical transformations of the graph of to find a formula for the function whose graph is shown below.     f(x)=5*tan(4*x)+10             Relations with Sine and Cosine  Using the relationships between the sine, cosine, and tangent functions, when we are given the value of one of the three functions and a quadrant, we can find the other two.    Suppose is an angle in quadrant II with . Find the values of and .    Suppose is an angle in quadrant I with . Find the values of and .      "
+},
+{
+  "id": "Week6Wed-2-1",
+  "level": "2",
+  "url": "Week6Wed.html#Week6Wed-2-1",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   Define the tangent function in terms of the sine and cosine functions.    Find outputs of at special angles.    Find outputs of sine, cosine, and tangent give the output of one of them and a quadrant.    "
+},
+{
+  "id": "Week6Wed-2-3",
+  "level": "2",
+  "url": "Week6Wed.html#Week6Wed-2-3",
+  "type": "Definition",
+  "number": "6.1",
+  "title": "The Tangent Function.",
+  "body": " The Tangent Function   Given an angle , the tangent of is defined as...  Geometrically, we can interpret the tangent of an angle as follows:   "
+},
+{
+  "id": "Week6Fri",
+  "level": "1",
+  "url": "Week6Fri.html",
+  "type": "Handout",
+  "number": "6.2",
+  "title": "Friday Week 6 - The Six Trigonometric Functions",
+  "body": " Friday Week 6 - The Six Trigonometric Functions      Define the reciprocal trigonometric functions and evaluate them at special angles.    Recognize the graphs of the reciprocal trigonometric functions.    Introduce and use the Pythoagorean Identity (this is important!)      We're now familiar with the sine, cosine, and tangent functions. There are three more trigonometric functions that are occasionally useful. These are the reciprocal trigonometric functions.     Given an angle in the unit circle, we make the following definitions:                      Warning: These functions are not the same as , , and . Those are inverse functions.   Evaluating the Reciprocal Functions  Find the indicated values:                                      Graphs of Secant, Cosecant, and Cotangent  The graphs below are those of the secant, cosecant, and cotangent functions. Which one is which?     f(x)=1\/(sin(x))            f(x)=1\/(tan(x))            f(x)=1\/(cos(x))                 The Pythagorean Identity   If is any angle, then    Explanation:      Uses of the Pythagorean Identity     We can derive a similar identity for the secant and tangent functions.    We can find values of any trigonometric functions given the value of one and a quadrant using these identities. For instance, suppose is in quadrant I and . Find the values of the other five trigonometric functions.     "
+},
+{
+  "id": "Week6Fri-2-1",
+  "level": "2",
+  "url": "Week6Fri.html#Week6Fri-2-1",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   Define the reciprocal trigonometric functions and evaluate them at special angles.    Recognize the graphs of the reciprocal trigonometric functions.    Introduce and use the Pythoagorean Identity (this is important!)    "
+},
+{
+  "id": "Week6Fri-2-3",
+  "level": "2",
+  "url": "Week6Fri.html#Week6Fri-2-3",
+  "type": "Definition",
+  "number": "6.2",
+  "title": "",
+  "body": "  Given an angle in the unit circle, we make the following definitions:                    "
+},
+{
+  "id": "Week6Fri-2-4",
+  "level": "2",
+  "url": "Week6Fri.html#Week6Fri-2-4",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Warning: "
+},
+{
+  "id": "pythagorean-id",
+  "level": "2",
+  "url": "Week6Fri.html#pythagorean-id",
+  "type": "Fact",
+  "number": "6.3",
+  "title": "The Pythagorean Identity.",
+  "body": " The Pythagorean Identity   If is any angle, then    Explanation:    "
 }
 ]
 
