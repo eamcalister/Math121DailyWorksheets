@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <!-- When creating a new activity, make a copy of this file with appropriate name -->
+        <handout margin="1in" bottom="1.25cm" xml:id="Week7Fri">
+            <title>Friday Week 7 - The Law of Cosines</title>
+<page>
+        <objectives>
+          <ul>
+            <li>
+                <p>
+                    Derive the Law of Cosines.
+                </p>
+            </li>
+            <li>
+                <p>
+                    USe the Law of Cosines to determine dimensions of triangles.
+                </p>
+            </li>
+          </ul>
+        </objectives>
+            <introduction>
+                <p>
+                    The Law of Cosines is the first of two tools we use when working with non-right triangles (the second being the Law of Sines). The best way to think of the Law of Cosines is as the Pythagorean Theorem with a correction term because the triangle is not a right triangle.
+                </p>
+            </introduction>
+
+<paragraphs>
+    <title>Deriving the Law of Cosines</title>
+<p>
+    Consider the labeled triangle below:
+</p>
+<image>
+<prefigure label = "law-of-cosines" xmlns="https://prefigure.org">
+<diagram dimensions="(300,300)" margins="(300,5,300,5)">
+  <coordinates bbox="(-2,-2,9,5.5)">
+    <definition>points=((8,0),(0,0),(6,5))</definition>
+    <triangle vertices="points"
+              />
+    <angle-marker points="points" radius="30">
+      <m>C</m>
+    </angle-marker>
+    <angle-marker points="((0,0),(6,5),(8,0))" radius="30">
+      <m>B</m>
+    </angle-marker>
+    <angle-marker points="((6,5),(8,0),(0,0))" radius="30">
+      <m>A</m>
+    </angle-marker>
+    <label anchor="(2.5,3)" alignment="east">
+      <m>a</m>
+    </label>
+    <label anchor="(4,0)" alignment="south">
+      <m>b</m>
+    </label>
+    <label anchor="(7,2.5)" alignment="east">
+      <m>c</m>
+    </label>
+    <label anchor="(6,2.5)" alignment="west">
+      <m>h</m>
+    </label>
+     <line p1="(6,5)" p2="(6,0)" dash="5 5 5"/>
+    <angle-marker points="((6,5),(6,0),(0,0))" radius="20">
+    </angle-marker>
+  </coordinates>
+</diagram>
+</prefigure>
+</image>
+<p workspace="3in">
+    <em>Goal:</em> Figure out <m>c</m> (or <m>c^2</m>) if we know <m>a</m>, <m>b</m>, and <m>C</m>.
+</p>
+
+<p workspace="1in">
+    Thus, we have <term>The Law of Cosines:</term>
+</p>
+
+</paragraphs>
+
+</page>
+<page>
+
+<paragraphs>
+    <title>Two Standard Uses of the Law of Cosines</title>
+<ol>
+    <li>
+        <p>
+           The first standard use of the Law of Cosines is to find the dimensions of a triangle when two sides are given along with the angle between them (a side-angle-side triple).
+        </p>
+        <sidebyside>
+            <image>
+<prefigure label = "non-right1" xmlns="https://prefigure.org">
+<diagram dimensions="(300,300)" margins="(100,5,100,5)">
+  <coordinates bbox="(-2,-2,9,5.5)">
+    <definition>points=((5,0),(0,0),(6,5))</definition>
+    <triangle vertices="points"
+              />
+    <angle-marker points="points" radius="30">
+      <m>32^{\circ}</m>
+    </angle-marker>
+
+    <label anchor="(2.5,3)" alignment="east">
+      <m>11</m>
+    </label>
+    <label anchor="(2.5,0)" alignment="south">
+      <m>8</m>
+    </label>
+    <label anchor="(6,2.5)" alignment="east">
+      <m>?</m>
+    </label>
+
+  </coordinates>
+</diagram>
+</prefigure>
+</image>
+<p workspace="3in">
+    Find the remaining side in the given triangle.
+</p>
+        
+        </sidebyside>
+    </li>
+    <li>
+        <p>
+            A second use is to determine the angles of a triangle when all the sides are known.
+        </p>
+                <sidebyside>
+            <image>
+<prefigure label = "non-right2" xmlns="https://prefigure.org">
+<diagram dimensions="(300,300)" margins="(100,5,100,5)">
+  <coordinates bbox="(-2,-2,9,5.5)">
+    <definition>points=((6.5,0),(0,0),(6,5))</definition>
+    <triangle vertices="points"
+            angle-markers="yes"  />
+
+    <label anchor="(2.5,3)" alignment="east">
+      <m>12</m>
+    </label>
+    <label anchor="(3.5,0)" alignment="south">
+      <m>10</m>
+    </label>
+    <label anchor="(6.5,2.5)" alignment="east">
+      <m>7</m>
+    </label>
+
+  </coordinates>
+</diagram>
+</prefigure>
+</image>
+<p workspace="3in">
+    Find the angles in the given triangle.
+</p>
+        
+        </sidebyside>
+    </li>
+
+</ol>
+
+</paragraphs>   
+
+
+
+</page>
+
+<page>
+
+<paragraphs>
+    <title>Applied Practice</title>
+    <p>
+        A triangular park is bordered on the south by a <m>1.7</m> mile stretch of highway and on the northwest by a <m>4</m> mile stretch of railroad track, where <m>33^{\circ}</m> is the measure of the acute angle between the highway and the railroad tracks. As part of a community improvement project, the city want to fence the third side of the park and seed the park with grass.
+    </p>
+    <ol>
+        <li>
+            <p workspace="2in">
+                How much fence is needed for the third side of the park?
+            </p>
+        </li>
+        <li>
+            <p workspace="2in">
+                What is the degree measure of the angle at the southeat corner of the park?
+            </p>
+        </li>
+        <li>
+            <p workspace="2in">
+                For how much total area will they need grass seed?
+            </p>
+        </li>
+    </ol>
+
+</paragraphs>
+
+
+
+</page>
+
+        
+
+</handout>
