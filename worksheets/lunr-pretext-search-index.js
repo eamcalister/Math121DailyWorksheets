@@ -649,13 +649,40 @@ var ptx_lunr_docs = [
   "body": "   Formally define , , and .    Use inverse trigonometric to find solutions to equations involving trigonometric functions    Use graphs and\/or the unit circle to find additional solutions to equations involving trigonometric functions.    "
 },
 {
-  "id": "Week7Fri",
+  "id": "Week7Wed",
   "level": "1",
-  "url": "Week7Fri.html",
+  "url": "Week7Wed.html",
   "type": "Handout",
   "number": "7.2",
   "title": "Wednesday Week 7 - Right Triangle Trigonometry",
   "body": " Wednesday Week 7 - Right Triangle Trigonometry      Define the trigonometric functions in terms of a right triangle using ratios of side lengths.    Solve applied problems using right triangle trigonometry.      So far, we have been using the definitions of sine, cosine, and tangent in terms of positions on the unit circle (as , , and , respectively.). By embedding triangles in circles, we can deduce the standard definitions in terms of a right triangle. Then we can solve triangle problems.     Consider the right triangle shown below:      points=((6,0),(0,0),(6,5))    \\theta    h    a    o       With sides labled as in the figure, we have the following definitions of , , and :     A Basic Triangle Problem  Using the triangle given below, find each of the insicated values.       points=((10,0),(0,0),(10,5))    \\theta    10    5    \\phi                                  Applications of Right Triangle Trigonometry    A ft tall tower is to be anchored by cables that make a angle with the ground. How long must the cables be and how far from the base of the tower must they be placed?     A surveyor must measure the distance between two banks of a straight river. She sights a tree at the point on the opposite bank of the river and drives a stake into the ground (at point ) directly across from the tree. The she walks meters upstream and places a stake at the point . She measures then angle and finds that is it . What is the width of the river?      points=((5,0),(0,0),(5,8.6))      58^{\\circ}    50    d              "
+},
+{
+  "id": "Week7Wed-2-1",
+  "level": "2",
+  "url": "Week7Wed.html#Week7Wed-2-1",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   Define the trigonometric functions in terms of a right triangle using ratios of side lengths.    Solve applied problems using right triangle trigonometry.    "
+},
+{
+  "id": "Week7Wed-2-3",
+  "level": "2",
+  "url": "Week7Wed.html#Week7Wed-2-3",
+  "type": "Definition",
+  "number": "7.1",
+  "title": "",
+  "body": "  Consider the right triangle shown below:      points=((6,0),(0,0),(6,5))    \\theta    h    a    o       With sides labled as in the figure, we have the following definitions of , , and :   "
+},
+{
+  "id": "Week7Fri",
+  "level": "1",
+  "url": "Week7Fri.html",
+  "type": "Handout",
+  "number": "7.3",
+  "title": "Friday Week 7 - The Law of Cosines",
+  "body": " Friday Week 7 - The Law of Cosines      Derive the Law of Cosines.    USe the Law of Cosines to determine dimensions of triangles.      The Law of Cosines is the first of two tools we use when working with non-right triangles (the second being the Law of Sines). The best way to think of the Law of Cosines is as the Pythagorean Theorem with a correction term because the triangle is not a right triangle.    Deriving the Law of Cosines  Consider the labeled triangle below:      points=((8,0),(0,0),(6,5))    C    B    A    a    b    c    h           Goal: Figure out (or ) if we know , , and .  Thus, we have The Law of Cosines:       Two Standard Uses of the Law of Cosines    The first standard use of the Law of Cosines is to find the dimensions of a triangle when two sides are given along with the angle between them (a side-angle-side triple).       points=((5,0),(0,0),(6,5))    32^{\\circ}    11    8    ?       Find the remaining side in the given triangle.     A second use is to determine the angles of a triangle when all the sides are known.       points=((6.5,0),(0,0),(6,5))    12    10    7       Find the angles in the given triangle.         Applied Practice  A triangular park is bordered on the south by a mile stretch of highway and on the northwest by a mile stretch of railroad track, where is the measure of the acute angle between the highway and the railroad tracks. As part of a community improvement project, the city want to fence the third side of the park and seed the park with grass.    How much fence is needed for the third side of the park?    What is the degree measure of the angle at the southeat corner of the park?    For how much total area will they need grass seed?      "
 },
 {
   "id": "Week7Fri-2-1",
@@ -664,16 +691,16 @@ var ptx_lunr_docs = [
   "type": "Objectives",
   "number": "",
   "title": "",
-  "body": "   Define the trigonometric functions in terms of a right triangle using ratios of side lengths.    Solve applied problems using right triangle trigonometry.    "
+  "body": "   Derive the Law of Cosines.    USe the Law of Cosines to determine dimensions of triangles.    "
 },
 {
-  "id": "Week7Fri-2-3",
+  "id": "Week7Fri-2-3-5",
   "level": "2",
-  "url": "Week7Fri.html#Week7Fri-2-3",
-  "type": "Definition",
-  "number": "7.1",
+  "url": "Week7Fri.html#Week7Fri-2-3-5",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
   "title": "",
-  "body": "  Consider the right triangle shown below:      points=((6,0),(0,0),(6,5))    \\theta    h    a    o       With sides labled as in the figure, we have the following definitions of , , and :   "
+  "body": "The Law of Cosines: "
 }
 ]
 
