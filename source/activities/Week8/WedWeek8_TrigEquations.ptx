@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <!-- When creating a new activity, make a copy of this file with appropriate name -->
+        <handout margin="1in" bottom="1.25cm" xml:id="Week8Wed">
+            <title>Wednesday Week 8 - Solving Trigonometric Equations</title>
+<page>
+        <objectives>
+          <ul>
+            <li>
+                <p>
+                    Find solutions to trigonometric equations using inverse trigonometric functions.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Find additional solutions in an indicated interval using the unit circle or a graph.
+                </p>
+            </li>
+          </ul>
+        </objectives>
+
+<paragraphs>
+    <title>Strategy for finding all solutions on an indicated domain</title>
+    <p>
+        Given an equation involving trigonometric functions, there are usually multiple solutions. To find them all on a given domain, the following is a good approach:
+    </p>   
+    <ul>
+        <li>
+            <p>
+                Find at least one solution by doing algebra and using an inverse trigonometric function.
+            </p>
+        </li>
+        <li>
+            <p>
+                Use a graph or the unit circle to find solutions in the indicated domain.
+            </p>
+            <ul>
+                <li>
+                    <p>
+                        When the equation involves trigonometric functions with only ``outside'' transformations applied, you can usually use the unit circle.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        When the equation involves trigonometric functions with ``inside'' transformations applied, it is often more useful to use a graph.
+                    </p>
+                </li>
+            </ul>
+        </li>
+    </ul>
+
+</paragraphs>
+
+<example>
+    <statement><title>Warm-up Question</title>
+        <p workspace="3in">
+            Find all solutions with <m>0\leq x &lt; 2\pi</m> to the equation
+<md>
+4\cos(2x) + 1 = 3. 
+</md>
+        </p>
+    </statement>
+
+</example>
+
+
+</page>
+<page>
+
+<paragraphs>
+    <title>Problems</title>
+<p>
+Find all solutions to the given equation on the indicated domain.   
+</p>
+<ol>
+    <li>
+        <p workspace="2.5in">
+            <m>\tan^2(x) = 3</m> with <m>0\leq x &lt; 2\pi</m>.
+        </p>
+    </li>
+    <li>
+        <p workspace="2.5in">
+            <m>6\sin(x) = 1</m> with <m>-3\pi\leq x &lt; 3\pi</m>.
+        </p>
+    </li>
+    <li>
+        <p workspace="2.5in">
+            <m>2\sin\left(\pi\left(x+\frac{1}{3}\right)\right) + 5 = 4</m> with <m>0\leq x &lt; 2</m>.
+        </p>
+    </li>
+
+</ol>
+
+</paragraphs>   
+
+
+
+</page>
+
+        
+
+</handout>

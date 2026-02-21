@@ -48,16 +48,20 @@
         <section>
       <title>Week 6</title>
     <xi:include href="./activities/Week6/WedWeek6_TangentFunction.ptx"/>
-    <xi:include href="./activities/Week6/FriWeek6_SixTrigFunctions.ptx"/> 
     </section>
 
     <section>
       <title>Week 7</title>
+    <xi:include href="./activities/Week7/FriWeek6_SixTrigFunctions.ptx"/>
     <xi:include href="./activities/Week7/MonWeek7_UsingInverseTrig.ptx"/>
     <xi:include href="./activities/Week7/WedWeek7_RightTriangleTrig.ptx"/>
-    <xi:include href="./activities/Week7/FriWeek7_LawOfCosines.ptx"/>
     </section>
 
+    <section>
+      <title>Week 8</title>
+    <xi:include href="./activities/Week8/FriWeek7_LawOfCosines.ptx"/>
+    <xi:include href="./activities/Week8/WedWeek8_TrigEquations.ptx"/>
+    </section>
 
 
 
