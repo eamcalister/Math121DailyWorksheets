@@ -701,6 +701,33 @@ var ptx_lunr_docs = [
   "number": "",
   "title": "",
   "body": "The Law of Cosines: "
+},
+{
+  "id": "Week8Wed",
+  "level": "1",
+  "url": "Week8Wed.html",
+  "type": "Handout",
+  "number": "8.2",
+  "title": "Wednesday Week 8 - Solving Trigonometric Equations",
+  "body": " Wednesday Week 8 - Solving Trigonometric Equations      Find solutions to trigonometric equations using inverse trigonometric functions.    Find additional solutions in an indicated interval using the unit circle or a graph.      Strategy for finding all solutions on an indicated domain  Given an equation involving trigonometric functions, there are usually multiple solutions. To find them all on a given domain, the following is a good approach:    Find at least one solution by doing algebra and using an inverse trigonometric function.    Use a graph or the unit circle to find solutions in the indicated domain.    When the equation involves trigonometric functions with only ``outside'' transformations applied, you can usually use the unit circle.    When the equation involves trigonometric functions with ``inside'' transformations applied, it is often more useful to use a graph.        Warm-up Question  Find all solutions with to the equation        Problems  Find all solutions to the given equation on the indicated domain.     with .     with .     with .      "
+},
+{
+  "id": "Week8Wed-2-1",
+  "level": "2",
+  "url": "Week8Wed.html#Week8Wed-2-1",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   Find solutions to trigonometric equations using inverse trigonometric functions.    Find additional solutions in an indicated interval using the unit circle or a graph.    "
+},
+{
+  "id": "Week8Wed-2-3",
+  "level": "2",
+  "url": "Week8Wed.html#Week8Wed-2-3",
+  "type": "Example",
+  "number": "8.1",
+  "title": "",
+  "body": " Warm-up Question  Find all solutions with to the equation    "
 }
 ]
 
