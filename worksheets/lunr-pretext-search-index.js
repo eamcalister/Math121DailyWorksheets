@@ -728,6 +728,42 @@ var ptx_lunr_docs = [
   "number": "8.1",
   "title": "",
   "body": " Warm-up Question  Find all solutions with to the equation    "
+},
+{
+  "id": "Week9Mon",
+  "level": "1",
+  "url": "Week9Mon.html",
+  "type": "Handout",
+  "number": "9.1",
+  "title": "Monday Week 9 - Introduction to Trigonometric Identities",
+  "body": " Monday Week 9 - Introduction to Trigonometric Identities      Introduce fundamental trigonometric identities.    Derive new trigonometric identities from known ones.    Use trigonometric identities to simplify expressions involving trigonometric functions.      Trigonometric identities are equations involving trigonometric functions that are true for all angles\/inputs.    Warm-up Question  Decide, based on plugging in some angles, whether the following equations might be identities. (You cannot prove an equation is an identity by just plugging in some values.)                  A trigonometric identity is...       Three Basic Identities  The following are basic identities, from which others may be derived:    The Pythoagorean Identity      The Double-Angle Identity for Sine      A Double-Angle Identity for Cosine (there are two more)        Making New Identities  For each of the following, derive a new identity as indicated.    Divide the Pythagorean Identity by to derive a new identity involving and .    Use the Pythagorean Identity to create two new versions of the double-angle identity for cosine.        Simplifying Trigonometric Expressions  Simplify the following expressions as much as possible.        There should just be one trig function in the end.         There should just be one trig function in the end.         Use the double-angle identity for cosine with both sine and cosine, then factor.       "
+},
+{
+  "id": "Week9Mon-2-1",
+  "level": "2",
+  "url": "Week9Mon.html#Week9Mon-2-1",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   Introduce fundamental trigonometric identities.    Derive new trigonometric identities from known ones.    Use trigonometric identities to simplify expressions involving trigonometric functions.    "
+},
+{
+  "id": "Week9Mon-2-3",
+  "level": "2",
+  "url": "Week9Mon.html#Week9Mon-2-3",
+  "type": "Example",
+  "number": "9.1",
+  "title": "",
+  "body": " Warm-up Question  Decide, based on plugging in some angles, whether the following equations might be identities. (You cannot prove an equation is an identity by just plugging in some values.)               "
+},
+{
+  "id": "Week9Mon-2-4",
+  "level": "2",
+  "url": "Week9Mon.html#Week9Mon-2-4",
+  "type": "Definition",
+  "number": "9.2",
+  "title": "",
+  "body": "  A trigonometric identity is...   "
 }
 ]
 
