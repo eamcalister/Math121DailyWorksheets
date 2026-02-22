@@ -8,119 +8,153 @@
           <ul>
             <li>
                 <p>
-                    One
+                    Introduce fundamental trigonometric identities.
                 </p>
             </li>
             <li>
                 <p>
-                    Two
+                    Derive new trigonometric identities from known ones.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Use trigonometric identities to simplify expressions involving trigonometric functions.
                 </p>
             </li>
           </ul>
         </objectives>
             <introduction>
                 <p>
-                    What you're doing.
+                    Trigonometric identities are equations involving trigonometric functions that are true for all angles/inputs.
                 </p>
             </introduction>
 
 <example>
     <statement><title>Warm-up Question</title>
-        <p workspace="3in">
-            If you're doing one
+        <p>
+            Decide, based on plugging in some angles, whether the following equations might be identities. (You cannot <em>prove</em> an equation is an identity by just plugging in some values.)
         </p>
+        <ol>
+            <li>
+                <p workspace="1in">
+                    <m>\sin(x) = \sin(2x)</m>
+                </p>
+            </li>
+            <li>
+                <p workspace="1in">
+                    <m>\sin(2x) = 2\sin(x)\cos(x)</m>
+                </p>
+            </li>
+        </ol>
     </statement>
 
 </example>
 
-<example>
-    <statement>
-    <p>
-    Task to show something.
-    </p>
-    </statement>
-</example>
-
-</page>
-<page>
 
 <definition>
     <statement>
-        <p workspace="2in">
-           If you need to define something, it is...
+        <p workspace="1in">
+           A <term>trigonometric identity</term> is...
         </p>
     </statement>
 </definition>
-<p>
-    Summary of something.
-</p>
-<ul>
-    <li>
-        <p workspace="0.75in">
-            To evaluate <m>f(a)</m>...
-        </p>
-    </li>
-        <li>
-        <p workspace="0.75in">
-            To solve <m>f(x) = b</m>...
-        </p>
-    </li>
-        <li>
-        <p workspace="0.75in">
-            The domain of <m>f</m> is...
-        </p>
-    </li>
-        <li>
-        <p workspace="0.75in">
-            The range of <m>f</m> is...
-        </p>
-    </li>
-</ul>
-
-
-
-<example>
-    <statement>
-        <p>
-            Another thing
-        </p>
-    </statement>
-
-</example>
 
 </page>
 <page>
 
 <paragraphs>
-    <title>Problems</title>
+    <title>Three Basic Identities</title>
 <p>
-    
+    The following are basic identities, from which others may be derived:
+</p>
+<dl>
+    <li>
+        <title>The Pythoagorean Identity</title>
+        <p workspace=".5in">
+            
+        </p>
+    </li>
+    <li>
+        <title>The Double-Angle Identity for Sine </title>
+        <p workspace=".5in">
+            
+        </p>
+    </li>
+        <li>
+        <title><em>A</em> Double-Angle Identity for Cosine (there are two more)</title>
+        <p workspace=".5in">
+            
+        </p>
+    </li>
+</dl>
+
+
+</paragraphs>  
+
+<paragraphs>
+    <title>Making New Identities</title>
+<p>
+    For each of the following, derive a new identity as indicated.
 </p>
 <ol>
     <li>
         <p workspace="2in">
-           one
+            Divide the Pythagorean Identity by <m>\cos^2(\theta)</m> to derive a new identity involving <m>\74tan(\theta)</m> and <m>\sec(\theta)</m>.
         </p>
     </li>
     <li>
-        <p workspace="2in">
-            two
+        <p workspace="3in">
+            Use the Pythagorean Identity to create two new versions of the double-angle identity for cosine.
         </p>
     </li>
-    <li>
-        <p workspace="2in">
-            three
-        </p>
-    </li>
-    <li>
-        <p workspace="2in">
-            four
-        </p>
-    </li>
-
 </ol>
 
-</paragraphs>   
+</paragraphs>
+
+
+
+</page>
+
+<page>
+<paragraphs>
+    <title>Simplifying Trigonometric Expressions</title>
+    <p>
+        Simplify the following expressions as much as possible.
+    </p>
+    <ol>
+        <li>
+            <p workspace="2in">
+                <m>\sin(\theta)\tan(\theta) + \cos(\theta)</m>
+            </p>
+            <hint>
+                <p>
+                    There should just be one trig function in the end.
+                </p>
+            </hint>
+        </li>
+                <li>
+        <p workspace="2in">
+                <m>\frac{\cos^2(\theta) - 1}{\sin(\theta)}</m>
+            </p>
+            <hint>
+                <p>
+                    There should just be one trig function in the end.
+                </p>
+            </hint>
+        </li>
+                <li>
+            <p workspace="2in">
+                <m>\frac{\cos(2\theta)}{\sin(\theta) - \cos(\theta)}</m>
+            </p>
+            <hint>
+                <p>
+                    Use the double-angle identity for cosine with both sine and cosine, then factor.
+                </p>
+            </hint>
+        </li>
+    
+    </ol>
+</paragraphs>
 
 
 

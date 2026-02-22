@@ -63,6 +63,13 @@
     <xi:include href="./activities/Week8/WedWeek8_TrigEquations.ptx"/>
     </section>
 
+    <section>
+      <title>Week 9</title>
+    <xi:include href="./activities/Week9/MonWeek9_IntroTrigIdentities.ptx"/>
+    <!--xi:include href="./activities/Week9/WedWeek9_UsingTrigIdentities.ptx"/-->
+    <!--xi:include href="./activities/Week9/FriWeek9_AngleSumSinusoids.ptx"/-->
+    </section>
+
 
 
     <!-- Add more xi:include files here to include them in the main course -->
