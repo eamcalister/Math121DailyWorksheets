@@ -8,120 +8,144 @@
           <ul>
             <li>
                 <p>
-                    One
+                    Use angle sum identities to re-write sums of sinusoidal functions as single sinusoidal functions.
                 </p>
             </li>
             <li>
                 <p>
-                    Two
+                    Use a product-to-sum identity to solve a trigonometric equation.
                 </p>
             </li>
+
           </ul>
         </objectives>
             <introduction>
                 <p>
-                    What you're doing.
+        In class yesterday we did an activity to derive the first of the identities in the following:
+            <paragraphs xml:id="angle-sum-identities">
+  <title>The Angle Sum Identities</title>
+    <p>
+      If <m>\theta</m> and <m>\phi</m> are angles, then we have
+      <md>
+        <mrow>\sin(\theta+\phi) \amp = \sin(\theta)\cos(\phi) + \cos(\theta)\sin(\phi) </mrow>
+        <mrow>\sin(\theta-\phi) \amp = \sin(\theta)\cos(\phi) - \cos(\theta)\sin(\phi) </mrow>
+        <mrow>\cos(\theta+\phi)\amp = \cos(\theta)\cos(\phi) - \sin(\theta)\sin(\phi)  </mrow>
+        <mrow>\cos(\theta-\phi)\amp = \cos(\theta)\cos(\phi) + \sin(\theta)\sin(\phi)  </mrow>
+      </md>
+    </p>
+</paragraphs> 
+            
+            
+            
+            Now we will use these identities for some problems that come up in later applied math courses.  
+
                 </p>
             </introduction>
 
 <example>
-    <statement><title>Warm-up Question</title>
+    <statement><title>Application 1: Sums of Sinusoids with the Same Period</title>
+            <p>
+            In the mathematical description of oscillating objects, one frequently encounters functions of the form
+            <me>
+                f(t) = c_1\cos(Bt) + c_2\sin(Bt),
+            </me>
+            where <m>c_1</m> and <m>c_2</m> are constants. This is a periodic function with period <m>P = \frac{2\pi}{B}</m>, but we would like to know its amplitude too. To do so, we can write it in the form
+            <me>
+                f(t) = c_1\cos(Bt) + c_2\sin(Bt) = A\sin(Bt + \phi)
+            </me>
+            for some constants <m>A</m> and <m>\phi</m>. To see how, let's do an example.
+        </p>
         <p workspace="3in">
-            If you're doing one
+        Let <m>f(t) = 3\cos(7t) + 2\sin(7t)</m>. We wish to write in the form <m>f(t) = A\sin(7t + \phi)</m>
         </p>
     </statement>
 
 </example>
 
-<example>
-    <statement>
+
+</page>
+<page>
+
+        <paragraphs xml:id="phase-shift">
+            <title>Summary: Writing as a Single Sine</title>
+            <p>
+                To write, 
+                <me>
+                    f(t) = c_1\cos(Bt) + c_2\sin(Bt)
+                </me>
+                in the form
+                <me>
+                    f(t) = A\sin(Bt + \phi)
+                </me>
+                proceed as follows:
+                <ol>
+                    <li>
+                        <p>
+                            Expand <m>A\sin(Bt + \phi)</m> using the angle sum identity for sine.
+                    <md>
+                        <mrow> c_1\cos(Bt) + c_2\sin(Bt) \amp = A\sin(Bt + \phi)</mrow>
+                        <mrow> \amp = A\cos(Bt)\sin(\phi) + A\sin(Bt)\cos(\phi). </mrow>
+                    </md>
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Match coefficients to get
+                    <md>
+                        <mrow> c_1 \amp  = A\sin(\phi)</mrow>
+                        <mrow> c_2 \amp  = A\cos(\phi)</mrow>
+                    </md>
+
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Notice that <m>A^2 = c_1^2 + c_2^2</m>, so <m>A = \sqrt{c_1^2 + c_2^2}</m>.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Notice that <m>\tan(\phi) = \frac{c_1}{c_2}</m>. Based on the signs of <m>c_1</m> and <m>c_2</m>, decide which quadrant <m>\phi</m> can be in, and use <m>\phi = \tan^{-1}(c_1/c_2)</m> or <m>\phi = \tan^{-1}(c_1/c_2) + \pi</m>.
+                        </p>
+                    </li>
+                </ol>
+            </p>
+        </paragraphs>
+
+
+ <p>
+            Some identities related to the angle sum identities are the following:
+                        <paragraphs xml:id="sum-to-prod-identities">
+  <title>Sum to Product Identities</title>
     <p>
-    Task to show something.
+      If <m>\theta</m> and <m>\phi</m> are angles, then we have
+      <md>
+        <mrow>\sin(a) + \sin(b) \amp = 2\sin\left(\frac{a+b}{2}\right)\cos\left(\frac{a-b}{2}\right) </mrow>
+        <mrow>\sin(a) - \sin(b) \amp = 2\cos\left(\frac{a+b}{2}\right)\sin\left(\frac{a-b}{2}\right) </mrow>
+        <mrow>\cos(a) + \cos(b) \amp = 2\cos\left(\frac{a+b}{2}\right)\cos\left(\frac{a-b}{2}\right) </mrow>
+        <mrow>\cos(a) - \cos(b) \amp = -2\sin\left(\frac{a+b}{2}\right)\sin\left(\frac{a-b}{2}\right) </mrow>
+      </md>
     </p>
-    </statement>
-</example>
+</paragraphs> 
+        </p>
+        <p>
+            One use of these is to solve equations like in the following example.
+        </p>
 
 </page>
 <page>
-
-<definition>
-    <statement>
-        <p workspace="2in">
-           If you need to define something, it is...
-        </p>
-    </statement>
-</definition>
-<p>
-    Summary of something.
-</p>
-<ul>
-    <li>
-        <p workspace="0.75in">
-            To evaluate <m>f(a)</m>...
-        </p>
-    </li>
-        <li>
-        <p workspace="0.75in">
-            To solve <m>f(x) = b</m>...
-        </p>
-    </li>
-        <li>
-        <p workspace="0.75in">
-            The domain of <m>f</m> is...
-        </p>
-    </li>
-        <li>
-        <p workspace="0.75in">
-            The range of <m>f</m> is...
-        </p>
-    </li>
-</ul>
-
-
 
 <example>
     <statement>
-        <p>
-            Another thing
+        <p workspace="4in">
+            Solve
+            <me>
+                \cos(4x) + \cos(x) = 0,\ \ 0\leq x \leq \pi.
+            </me>
+            
         </p>
     </statement>
-
 </example>
-
-</page>
-<page>
-
-<paragraphs>
-    <title>Problems</title>
-<p>
-    
-</p>
-<ol>
-    <li>
-        <p workspace="2in">
-           one
-        </p>
-    </li>
-    <li>
-        <p workspace="2in">
-            two
-        </p>
-    </li>
-    <li>
-        <p workspace="2in">
-            three
-        </p>
-    </li>
-    <li>
-        <p workspace="2in">
-            four
-        </p>
-    </li>
-
-</ol>
-
-</paragraphs>   
-
 
 
 </page>
