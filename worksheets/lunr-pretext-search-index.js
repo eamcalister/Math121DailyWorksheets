@@ -764,6 +764,78 @@ var ptx_lunr_docs = [
   "number": "9.2",
   "title": "",
   "body": "  A trigonometric identity is...   "
+},
+{
+  "id": "Week9Wed",
+  "level": "1",
+  "url": "Week9Wed.html",
+  "type": "Handout",
+  "number": "9.2",
+  "title": "Wednesday Week 9 - Using Trigonometric Identities",
+  "body": " Wednesday Week 9 - Using Trigonometric Identities      Use trigonometric identities to solve trigonometric equations      In this class we have solved trigonometric equations on specified domains. Now we will solve more complicated equations using trigonometric identities as a simplification strategy.    Strategy for Solving Trigonometric Equations    See if you can use a trigonometric identity to replace some part of the equation to make a simpler equation.    Do algebra to reduce the equation to one or more of the form This may use strategies from other families, such as factoring.    Use inverse functions to obtain some solutions. Then use graphs and\/or the unit circle to find additional solutions.       Solve on the interval .      Let's do another example to illustrate a neat simplification trick.    Solve the equation with . Tricks:   Use the Pythagorean Identity to turn this into an equation that only involves cosine.    Replace with the variable to make the algebra look easier.          Problems      Use the double-angle identity for sine and to solve with .    Solve the equation with .      "
+},
+{
+  "id": "Week9Wed-2-1",
+  "level": "2",
+  "url": "Week9Wed.html#Week9Wed-2-1",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   Use trigonometric identities to solve trigonometric equations    "
+},
+{
+  "id": "Week9Wed-2-4",
+  "level": "2",
+  "url": "Week9Wed.html#Week9Wed-2-4",
+  "type": "Example",
+  "number": "9.3",
+  "title": "",
+  "body": "  Solve on the interval .   "
+},
+{
+  "id": "Week9Wed-3-2",
+  "level": "2",
+  "url": "Week9Wed.html#Week9Wed-3-2",
+  "type": "Example",
+  "number": "9.4",
+  "title": "",
+  "body": "  Solve the equation with . Tricks:   Use the Pythagorean Identity to turn this into an equation that only involves cosine.    Replace with the variable to make the algebra look easier.      "
+},
+{
+  "id": "Week9Fri",
+  "level": "1",
+  "url": "Week9Fri.html",
+  "type": "Handout",
+  "number": "9.3",
+  "title": "Friday Week 9 - Angle Sum Identities and Sinusoidal Functions",
+  "body": " Friday Week 9 - Angle Sum Identities and Sinusoidal Functions      Use angle sum identities to re-write sums of sinusoidal functions as single sinusoidal functions.    Use a product-to-sum identity to solve a trigonometric equation.      In class yesterday we did an activity to derive the first of the identities in the following:  The Angle Sum Identities  If and are angles, then we have   Now we will use these identities for some problems that come up in later applied math courses.    Application 1: Sums of Sinusoids with the Same Period  In the mathematical description of oscillating objects, one frequently encounters functions of the form where and are constants. This is a periodic function with period , but we would like to know its amplitude too. To do so, we can write it in the form for some constants and . To see how, let's do an example.  Let . We wish to write in the form        Summary: Writing as a Single Sine  To write, in the form proceed as follows:   Expand using the angle sum identity for sine.     Match coefficients to get     Notice that , so .    Notice that . Based on the signs of and , decide which quadrant can be in, and use or .      Some identities related to the angle sum identities are the following:  Sum to Product Identities  If and are angles, then we have     One use of these is to solve equations like in the following example.      Solve      "
+},
+{
+  "id": "Week9Fri-2-1",
+  "level": "2",
+  "url": "Week9Fri.html#Week9Fri-2-1",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   Use angle sum identities to re-write sums of sinusoidal functions as single sinusoidal functions.    Use a product-to-sum identity to solve a trigonometric equation.    "
+},
+{
+  "id": "Week9Fri-2-3",
+  "level": "2",
+  "url": "Week9Fri.html#Week9Fri-2-3",
+  "type": "Example",
+  "number": "9.5",
+  "title": "",
+  "body": " Application 1: Sums of Sinusoids with the Same Period  In the mathematical description of oscillating objects, one frequently encounters functions of the form where and are constants. This is a periodic function with period , but we would like to know its amplitude too. To do so, we can write it in the form for some constants and . To see how, let's do an example.  Let . We wish to write in the form    "
+},
+{
+  "id": "Week9Fri-4-1",
+  "level": "2",
+  "url": "Week9Fri.html#Week9Fri-4-1",
+  "type": "Example",
+  "number": "9.6",
+  "title": "",
+  "body": "  Solve    "
 }
 ]
 
