@@ -8,35 +8,50 @@
           <ul>
             <li>
                 <p>
-                    One
-                </p>
-            </li>
-            <li>
-                <p>
-                    Two
+                    Use trigonometric identities to solve trigonometric equations
                 </p>
             </li>
           </ul>
         </objectives>
             <introduction>
                 <p>
-                    What you're doing.
+                    In this class we have solved trigonometric equations on specified domains. Now we will solve more complicated equations using trigonometric identities as a simplification strategy.
                 </p>
             </introduction>
 
-<example>
-    <statement><title>Warm-up Question</title>
-        <p workspace="3in">
-            If you're doing one
-        </p>
-    </statement>
-
-</example>
+<paragraphs>
+    <title>Strategy for Solving Trigonometric Equations</title>
+    <ol>
+        <li>
+            <p>
+                See if you can use a trigonometric identity to replace some part of the equation to make a simpler equation.
+            </p>
+        </li>
+        <li>
+            <p>
+                Do algebra to reduce the equation to one or more of the form
+                <md>
+                    \text{trigonometric function} = \text{number}.
+                </md>
+                This may use strategies from other families, such as factoring.
+            </p>
+        </li>
+        <li>
+            <p>
+                Use inverse functions to obtain <em>some</em> solutions. Then use graphs and/or the unit circle to find additional solutions.
+            </p>
+        </li>
+    </ol>
+</paragraphs>
 
 <example>
     <statement>
-    <p>
-    Task to show something.
+    <p workspace="3in">
+    Solve
+    <md>
+        \sin(2x) = \sin(x)
+    </md>
+    on the interval <m>0\leq x\leq 2\pi</m>.
     </p>
     </statement>
 </example>
@@ -44,46 +59,35 @@
 </page>
 <page>
 
-<definition>
-    <statement>
-        <p workspace="2in">
-           If you need to define something, it is...
-        </p>
-    </statement>
-</definition>
 <p>
-    Summary of something.
+    Let's do another example to illustrate a neat simplification trick.
 </p>
-<ul>
-    <li>
-        <p workspace="0.75in">
-            To evaluate <m>f(a)</m>...
-        </p>
-    </li>
-        <li>
-        <p workspace="0.75in">
-            To solve <m>f(x) = b</m>...
-        </p>
-    </li>
-        <li>
-        <p workspace="0.75in">
-            The domain of <m>f</m> is...
-        </p>
-    </li>
-        <li>
-        <p workspace="0.75in">
-            The range of <m>f</m> is...
-        </p>
-    </li>
-</ul>
 
 
 
 <example>
     <statement>
-        <p>
-            Another thing
+        <p workspace="4in">
+            Solve the equation
+            <md>
+                2\sin^2(\theta)  = 3\cos(\theta) + 3
+            </md>
+            with <m>0\leq \theta \leq 2\pi</m>.
+        Tricks:
+        <ul>
+            <li>
+                <p>
+                    Use the Pythagorean Identity to turn this into an equation that only involves cosine.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Replace <m>\cos(\theta)</m> with the variable <m>c</m> to make the algebra look easier.
+                </p>
+            </li>
+        </ul>
         </p>
+        
     </statement>
 
 </example>
@@ -98,26 +102,23 @@
 </p>
 <ol>
     <li>
-        <p workspace="2in">
-           one
+        <p workspace="3in">
+           Use the double-angle identity for sine and <m>\sin\left(t+\frac{\pi}{2}\right)  = \cos(t)</m> to solve
+           <md>
+            \sin(2t) = \sqrt{3}\sin\left(t+\frac{\pi}{2}\right)
+           </md>
+           with <m>0\leq t\leq 2\pi</m>.
         </p>
     </li>
     <li>
-        <p workspace="2in">
-            two
+        <p workspace="3.5in">
+            Solve the equation
+            <md>
+                \tan(2t) + \tan(t) = 0
+            </md>
+            with <m>0\leq t\leq 2\pi</m>.
         </p>
     </li>
-    <li>
-        <p workspace="2in">
-            three
-        </p>
-    </li>
-    <li>
-        <p workspace="2in">
-            four
-        </p>
-    </li>
-
 </ol>
 
 </paragraphs>   
