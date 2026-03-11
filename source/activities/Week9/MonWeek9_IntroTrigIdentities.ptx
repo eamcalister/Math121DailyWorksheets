@@ -69,7 +69,7 @@
 </p>
 <dl>
     <li>
-        <title>The Pythoagorean Identity</title>
+        <title>The Pythagorean Identity</title>
         <p workspace=".5in">
             
         </p>
@@ -126,31 +126,30 @@
             <p workspace="2in">
                 <m>\sin(\theta)\tan(\theta) + \cos(\theta)</m>
             </p>
-            <hint>
                 <p>
-                    There should just be one trig function in the end.
+                    <em>Hint:</em> There should just be one trig function in the end.
                 </p>
-            </hint>
+
         </li>
                 <li>
         <p workspace="2in">
                 <m>\frac{\cos^2(\theta) - 1}{\sin(\theta)}</m>
             </p>
-            <hint>
+
                 <p>
-                    There should just be one trig function in the end.
+                    <em>Hint:</em> There should just be one trig function in the end.
                 </p>
-            </hint>
+
         </li>
                 <li>
             <p workspace="2in">
                 <m>\frac{\cos(2\theta)}{\sin(\theta) - \cos(\theta)}</m>
             </p>
-            <hint>
+
                 <p>
-                    Use the double-angle identity for cosine with both sine and cosine, then factor.
+                    <em>Hint:</em> Use the double-angle identity for cosine with both sine and cosine, then factor.
                 </p>
-            </hint>
+
         </li>
     
     </ol>
