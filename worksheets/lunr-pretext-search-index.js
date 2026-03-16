@@ -736,7 +736,7 @@ var ptx_lunr_docs = [
   "type": "Handout",
   "number": "9.1",
   "title": "Monday Week 9 - Introduction to Trigonometric Identities",
-  "body": " Monday Week 9 - Introduction to Trigonometric Identities      Introduce fundamental trigonometric identities.    Derive new trigonometric identities from known ones.    Use trigonometric identities to simplify expressions involving trigonometric functions.      Trigonometric identities are equations involving trigonometric functions that are true for all angles\/inputs.    Warm-up Question  Decide, based on plugging in some angles, whether the following equations might be identities. (You cannot prove an equation is an identity by just plugging in some values.)                  A trigonometric identity is...       Three Basic Identities  The following are basic identities, from which others may be derived:    The Pythoagorean Identity      The Double-Angle Identity for Sine      A Double-Angle Identity for Cosine (there are two more)        Making New Identities  For each of the following, derive a new identity as indicated.    Divide the Pythagorean Identity by to derive a new identity involving and .    Use the Pythagorean Identity to create two new versions of the double-angle identity for cosine.        Simplifying Trigonometric Expressions  Simplify the following expressions as much as possible.        There should just be one trig function in the end.         There should just be one trig function in the end.         Use the double-angle identity for cosine with both sine and cosine, then factor.       "
+  "body": " Monday Week 9 - Introduction to Trigonometric Identities      Introduce fundamental trigonometric identities.    Derive new trigonometric identities from known ones.    Use trigonometric identities to simplify expressions involving trigonometric functions.      Trigonometric identities are equations involving trigonometric functions that are true for all angles\/inputs.    Warm-up Question  Decide, based on plugging in some angles, whether the following equations might be identities. (You cannot prove an equation is an identity by just plugging in some values.)                  A trigonometric identity is...       Three Basic Identities  The following are basic identities, from which others may be derived:    The Pythagorean Identity      The Double-Angle Identity for Sine      A Double-Angle Identity for Cosine (there are two more)        Making New Identities  For each of the following, derive a new identity as indicated.    Divide the Pythagorean Identity by to derive a new identity involving and .    Use the Pythagorean Identity to create two new versions of the double-angle identity for cosine.        Simplifying Trigonometric Expressions  Simplify the following expressions as much as possible.        Hint: There should just be one trig function in the end.        Hint: There should just be one trig function in the end.        Hint: Use the double-angle identity for cosine with both sine and cosine, then factor.      "
 },
 {
   "id": "Week9Mon-2-1",
@@ -836,6 +836,69 @@ var ptx_lunr_docs = [
   "number": "9.6",
   "title": "",
   "body": "  Solve    "
+},
+{
+  "id": "Week10Mon",
+  "level": "1",
+  "url": "Week10Mon.html",
+  "type": "Handout",
+  "number": "10.1",
+  "title": "Monday Week 10 - Introduction to Polar Coordinates",
+  "body": " Monday Week 10 - Introduction to Polar Coordinates      Introduce polar coordinates as an alternative way to describe points in the -plane.    Convert between polar and rectangular coordinates.      The coordinates of a point in the plane are a pair of numbers that describe its position. Typically we use and . These are called recatgular of Cartesian (after Rene Descartes) coordinates. An important application of trigonometry is to describe points in the plane using a distance from the origin and an angle from the positive -axis. These new coordinates are called polar coordinates.     Given a point in the -plane, the polar coordinates of are...    To get a feel for polar coordinates, we can use the following interactive which use and :          Conversions Between Coordinate Systems   Polar to Rectangular:    Rectangular to Polar:    Notes:    The rectangular coordinates of a point are unique , whereas the same point has many different polar coordinates. This is a consequence of the sine and cosine functions being periodic.    Saying allows for to be negative.    Saying doesn't indicate which quadrant a point is in.    You can always describe a point using a positive value for , but sometimes (when graphing) it is better to allow to be negative.         Conversion Problems  Convert the following rectangular coordinates to polar coordinates. Give two possible descriptions of each.                   Convert the following polar coordinates to rectangular coordinates. Give answers in exact form.                       Two Simple Graphs  The graph of an equation is the set of all points that make the equation true. What are the graphs of the following equations?                "
+},
+{
+  "id": "Week10Mon-2-1",
+  "level": "2",
+  "url": "Week10Mon.html#Week10Mon-2-1",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   Introduce polar coordinates as an alternative way to describe points in the -plane.    Convert between polar and rectangular coordinates.    "
+},
+{
+  "id": "Week10Mon-2-2-1",
+  "level": "2",
+  "url": "Week10Mon.html#Week10Mon-2-2-1",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "coordinates recatgular Cartesian polar "
+},
+{
+  "id": "Week10Mon-2-3",
+  "level": "2",
+  "url": "Week10Mon.html#Week10Mon-2-3",
+  "type": "Definition",
+  "number": "10.1",
+  "title": "",
+  "body": "  Given a point in the -plane, the polar coordinates of are...   "
+},
+{
+  "id": "Week10Mon-3-1-2",
+  "level": "2",
+  "url": "Week10Mon.html#Week10Mon-3-1-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Polar to Rectangular: "
+},
+{
+  "id": "Week10Mon-3-1-3",
+  "level": "2",
+  "url": "Week10Mon.html#Week10Mon-3-1-3",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Rectangular to Polar: "
+},
+{
+  "id": "Week10Mon-5-1-2",
+  "level": "2",
+  "url": "Week10Mon.html#Week10Mon-5-1-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "graph of an equation "
 }
 ]
 
