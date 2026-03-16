@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <!-- When creating a new activity, make a copy of this file with appropriate name -->
+        <handout margin="1in" bottom="1.25cm" xml:id="Week10Wed">
+            <title>Wednesday Week 10 - Graphs in Polar Coordinates</title>
+<page>
+        <objectives>
+          <ul>
+            <li>
+                <p>
+                    Introduce some basic ideas of graphing in polar coordinates.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Learn to graph some circles in polar coordinates.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Graph regions defined by inequalities in polar coordinates.
+                </p>
+            </li>
+          </ul>
+        </objectives>
+            <introduction>
+                <p>
+                    Graphing in polar coordinates is generally difficult; the graphs can be very complicated because <m>y</m> need not be a function of <m>x</m> even if <m>r</m> is a function of <m>\theta</m>. We won't learn every possible technique, but we will do some important ones.
+                </p>
+            </introduction>
+
+<paragraphs>
+    <title>Approaches to Graphing Equations in Polar Coordinates</title>
+    <p>
+        To graph in polar coordinates, we can employ any of the following:
+    </p>
+    <ol>
+        <li>
+            <p>
+                Know what the graph has to look like because we understand polar coordinates thoroughly enough.
+            </p>
+        </li>
+        <li>
+            <p>
+                If the equation is of the form <m>r=f(\theta)</m>, plot points one at a time.
+            </p>
+        </li>
+        <li>
+            <p>
+                Use conversion to convert to a recognizable equation in rectangular coordinates.
+            </p>
+        </li>
+        <li>
+            <p>
+                Do some elaborate algebra.
+            </p>
+        </li>
+    </ol>
+<p>
+    Those instructions may seem vague. Unfortunately, that's the best we can do at the moment.
+</p>
+</paragraphs>
+
+<example>
+    <title>Knowing What it Must Be</title>
+    <statement>
+    <p workspace="2in">
+        Graph <m>r = 2</m> in polar coordinates.
+    </p>
+    </statement>    
+</example>
+
+</page>
+<page>
+
+<example>
+    <title>Using Conversion</title>
+    <statement>
+        <p workspace="2in">
+            Graph <m>\tan(\theta) = r\cos(\theta) -2</m> in polar coordinates.
+        </p>
+    </statement>
+
+</example>
+
+<example>
+    <title>"Elaborate" Algebra</title>
+    <statement>
+        <p workspace="6in">
+           Describe the graphs of <m>r = a\cos(\theta)</m> and <m>r = a\sin(\theta)</m> in polar coordinates by converting and completing the square.
+        </p>
+    </statement>
+
+</example>
+
+</page>
+<page>
+
+<paragraphs>
+    <title>Regions and Inequalities in Polar Coordinates</title>
+<p>
+    
+</p>
+<example>
+    <statement>
+        <p>
+            Give inequalities involving <m>r</m> and <m>\theta</m> that describe the region shown below:
+        </p>
+    <image>
+<prefigure label="polar-region1" xmlns="https://prefigure.org">
+<diagram dimensions="(300,300)" margins="(100,5,100,5)"
+         xmlns="https://prefigure.org">
+  <definition>f(t)=2</definition>
+  <definition>g(t)=3</definition>
+  <coordinates bbox="(-5,-5,5,5)">
+    <grid-axes coordinates="polar"/>
+    <area-between-curves functions="(f,g)" coordinates="polar"
+                      domain="(30,90)" domain-degrees="yes"
+                      fill="cornflowerblue" fill-opacity="0.5" stroke="red"/>
+  </coordinates>
+</diagram>
+
+
+</prefigure>
+</image> 
+    </statement>
+</example>
+
+<example>
+    <statement>
+        <p>
+            Give inequalities involving <m>r</m> and <m>\theta</m> that describe the region shown below:
+        </p>
+    <image>
+<prefigure label="polar-region2" xmlns="https://prefigure.org">
+<diagram dimensions="(300,300)" margins="(100,5,100,5)"
+         xmlns="https://prefigure.org">
+  <definition>f(t)=1</definition>
+  <definition>g(t)=2/cos(t)</definition>
+  <coordinates bbox="(-5,-5,5,5)">
+    <grid-axes coordinates="polar"/>
+    <area-between-curves functions="(f,g)" coordinates="polar"
+                      domain="(0,89.99)" domain-degrees="yes"
+                      fill="cornflowerblue" fill-opacity="0.5" stroke="red"/>
+  </coordinates>
+</diagram>
+
+
+</prefigure>
+</image> 
+    </statement>
+</example>
+
+</paragraphs>   
+
+
+
+</page>
+
+        
+
+</handout>

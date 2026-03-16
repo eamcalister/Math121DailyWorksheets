@@ -73,6 +73,7 @@
     <section>
       <title>Week 10</title>
     <xi:include href="./activities/Week10/MonWeek10_IntroPolar.ptx"/>
+        <xi:include href="./activities/Week10/WedWeek10_PolarGraphs.ptx"/>
     </section>
 
 
