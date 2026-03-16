@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <!-- When creating a new activity, make a copy of this file with appropriate name -->
+        <handout margin="1in" bottom="1.25cm" xml:id="Week10Mon">
+            <title>Monday Week 10 - Introduction to Polar Coordinates</title>
+<page>
+        <objectives>
+          <ul>
+            <li>
+                <p>
+                    Introduce polar coordinates as an alternative way to describe points in the <m>xy</m>-plane.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Convert between polar and rectangular coordinates.
+                </p>
+            </li>
+          </ul>
+        </objectives>
+            <introduction>
+                <p>
+                    The <term>coordinates</term> of a point in the plane are a pair of numbers that describe its position. Typically we use <m>x</m> and <m>y</m>. These are called <term>recatgular</term> of <term>Cartesian</term> (after Rene Descartes) coordinates. An important application of trigonometry is to describe points in the plane using a distance from the origin and an angle from the positive <m>x</m>-axis. These new coordinates are called <term>polar</term> coordinates.
+                </p>
+            </introduction>
+
+<definition>
+    <statement>
+        <p workspace="2in">
+           Given a point <m>P</m> in the <m>xy</m>-plane, the <term>polar coordinates</term> of <m>P</m> are...
+        </p>
+    </statement>
+</definition>
+
+<p>
+    To get a feel for polar coordinates, we can use the following interactive which use <m>a=r</m> and <m>b=\theta</m>:
+</p>
+
+    <sidebyside widths="75% 25%">
+                <interactive  xml:id="desmos_polar" desmos="maxv4fmq2m" width="75%" aspect="5:2" />
+                <image width="25%" source="desmos_polar.png"> </image>
+    </sidebyside>
+
+</page>
+<page>
+
+<paragraphs>
+    <title>Conversions Between Coordinate Systems</title>
+<p workspace="2in">
+    <term>Polar to Rectangular:</term>
+</p>    
+
+<p workspace="2in">
+    <term>Rectangular to Polar:</term>
+</p>
+
+<p>
+    <em>Notes:</em>
+    <ol>
+        <li>
+            <p>
+                The rectangular coordinates of a point are <em>unique</em>, whereas the same point has many different polar coordinates. This is a consequence of the sine and cosine functions being periodic.
+            </p>
+        </li>
+        <li>
+            <p>
+                Saying <m>r^2 = x^2 + y^2</m> allows for <m>r</m> to be negative.
+            </p>
+        </li>
+        <li>
+            <p>
+                Saying <m>\tan(\theta) = \frac{y}{x}</m> doesn't indicate which quadrant a point is in.
+            </p>
+        </li>
+        <li>
+            <p>
+                You can <em>always</em> describe a point using a positive value for <m>r</m>, but sometimes (when graphing) it is better to allow <m>r</m> to be negative.
+            </p>
+        </li>
+    </ol>
+</p>
+
+</paragraphs>
+
+
+
+</page>
+<page>
+
+<paragraphs>
+    <title>Conversion Problems</title>
+<p>
+Convert the following rectangular coordinates to polar coordinates. Give two possible descriptions of each.    
+</p>
+<ol>
+    <li>
+        <p workspace="1.125in">
+           <m>(1,1)</m>
+        </p>
+    </li>
+    <li>
+        <p workspace="1.125in">
+            <m>(-1,0)</m>
+        </p>
+    </li>
+    <li>
+        <p workspace="1.125in">
+            <m>(\sqrt{6},-\sqrt{2})</m>
+        </p>
+    </li>
+</ol>
+
+<p>
+    Convert the following polar coordinates to rectangular coordinates. Give answers in exact form.
+</p>
+
+<ol>
+    <li>
+        <p workspace="1.125in">
+           <m>(1,2\pi/3)</m>
+        </p>
+    </li>
+    <li>
+        <p workspace="1.125in">
+            <m>(\sqrt{3},-3\pi/3)</m>
+        </p>
+    </li>
+    <li>
+        <p workspace="1.125in">
+            <m>(2\sqrt{3},-\pi/6)</m>
+        </p>
+    </li>
+</ol>
+
+</paragraphs>   
+
+
+
+</page>
+
+<page>
+
+<paragraphs>
+    <title>Two Simple Graphs</title>
+    <p>
+        The <term>graph of an equation</term> is the set of all points that make the equation true. What are the graphs of the following equations?
+    </p>
+    <ol>
+        <li>
+            <p workspace="3in">
+                <m>r=2</m>
+            </p>
+        </li>
+        <li>
+            <p workspace="3in">
+                <m>\theta = \frac{\pi}{4}</m>
+            </p>
+        </li>
+    </ol>
+
+
+
+</paragraphs>
+
+
+
+</page>
+
+        
+
+</handout>

@@ -70,6 +70,11 @@
     <xi:include href="./activities/Week9/FriWeek9_AngleSumSinusoids.ptx"/>
     </section>
 
+    <section>
+      <title>Week 10</title>
+    <xi:include href="./activities/Week10/MonWeek10_IntroPolar.ptx"/>
+    </section>
+
 
 
     <!-- Add more xi:include files here to include them in the main course -->
