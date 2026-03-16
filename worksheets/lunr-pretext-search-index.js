@@ -844,7 +844,7 @@ var ptx_lunr_docs = [
   "type": "Handout",
   "number": "10.1",
   "title": "Monday Week 10 - Introduction to Polar Coordinates",
-  "body": " Monday Week 10 - Introduction to Polar Coordinates      Introduce polar coordinates as an alternative way to describe points in the -plane.    Convert between polar and rectangular coordinates.      The coordinates of a point in the plane are a pair of numbers that describe its position. Typically we use and . These are called recatgular of Cartesian (after Rene Descartes) coordinates. An important application of trigonometry is to describe points in the plane using a distance from the origin and an angle from the positive -axis. These new coordinates are called polar coordinates.     Given a point in the -plane, the polar coordinates of are...    To get a feel for polar coordinates, we can use the following interactive which use and :          Conversions Between Coordinate Systems   Polar to Rectangular:    Rectangular to Polar:    Notes:    The rectangular coordinates of a point are unique , whereas the same point has many different polar coordinates. This is a consequence of the sine and cosine functions being periodic.    Saying allows for to be negative.    Saying doesn't indicate which quadrant a point is in.    You can always describe a point using a positive value for , but sometimes (when graphing) it is better to allow to be negative.         Conversion Problems  Convert the following rectangular coordinates to polar coordinates. Give two possible descriptions of each.                   Convert the following polar coordinates to rectangular coordinates. Give answers in exact form.                       Two Simple Graphs  The graph of an equation is the set of all points that make the equation true. What are the graphs of the following equations?                "
+  "body": " Monday Week 10 - Introduction to Polar Coordinates      Introduce polar coordinates as an alternative way to describe points in the -plane.    Convert between polar and rectangular coordinates.      The coordinates of a point in the plane are a pair of numbers that describe its position. Typically we use and . These are called recatgular of Cartesian (after Rene Descartes) coordinates. An important application of trigonometry is to describe points in the plane using a distance from the origin and an angle from the positive -axis. These new coordinates are called polar coordinates.     Given a point in the -plane, the polar coordinates of are...    To get a feel for polar coordinates, we can use the following interactive which use and :          Conversions Between Coordinate Systems     Polar to Rectangular:    Rectangular to Polar:    Notes:    The rectangular coordinates of a point are unique , whereas the same point has many different polar coordinates. This is a consequence of the sine and cosine functions being periodic.    Saying allows for to be negative.    Saying doesn't indicate which quadrant a point is in.    You can always describe a point using a positive value for , but sometimes (when graphing) it is better to allow to be negative.         Conversion Problems  Convert the following rectangular coordinates to polar coordinates. Give two possible descriptions of each.                   Convert the following polar coordinates to rectangular coordinates. Give answers in exact form.                       Two Simple Graphs  The graph of an equation is the set of all points that make the equation true. What are the graphs of the following equations?                "
 },
 {
   "id": "Week10Mon-2-1",
@@ -874,18 +874,18 @@ var ptx_lunr_docs = [
   "body": "  Given a point in the -plane, the polar coordinates of are...   "
 },
 {
-  "id": "Week10Mon-3-1-2",
+  "id": "Week10Mon-3-1-3",
   "level": "2",
-  "url": "Week10Mon.html#Week10Mon-3-1-2",
+  "url": "Week10Mon.html#Week10Mon-3-1-3",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Polar to Rectangular: "
 },
 {
-  "id": "Week10Mon-3-1-3",
+  "id": "Week10Mon-3-1-4",
   "level": "2",
-  "url": "Week10Mon.html#Week10Mon-3-1-3",
+  "url": "Week10Mon.html#Week10Mon-3-1-4",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -899,6 +899,69 @@ var ptx_lunr_docs = [
   "number": "",
   "title": "",
   "body": "graph of an equation "
+},
+{
+  "id": "Week10Wed",
+  "level": "1",
+  "url": "Week10Wed.html",
+  "type": "Handout",
+  "number": "10.2",
+  "title": "Wednesday Week 10 - Graphs in Polar Coordinates",
+  "body": " Wednesday Week 10 - Graphs in Polar Coordinates      Introduce some basic ideas of graphing in polar coordinates.    Learn to graph some circles in polar coordinates.    Graph regions defined by inequalities in polar coordinates.      Graphing in polar coordinates is generally difficult; the graphs can be very complicated because need not be a function of even if is a function of . We won't learn every possible technique, but we will do some important ones.    Approaches to Graphing Equations in Polar Coordinates  To graph in polar coordinates, we can employ any of the following:    Know what the graph has to look like because we understand polar coordinates thoroughly enough.    If the equation is of the form , plot points one at a time.    Use conversion to convert to a recognizable equation in rectangular coordinates.    Do some elaborate algebra.    Those instructions may seem vague. Unfortunately, that's the best we can do at the moment.    Knowing What it Must Be   Graph in polar coordinates.       Using Conversion   Graph in polar coordinates.     \"Elaborate\" Algebra   Describe the graphs of and in polar coordinates by converting and completing the square.       Regions and Inequalities in Polar Coordinates      Give inequalities involving and that describe the region shown below:     f(t)=2  g(t)=3             Give inequalities involving and that describe the region shown below:     f(t)=1  g(t)=2\/cos(t)             "
+},
+{
+  "id": "Week10Wed-2-1",
+  "level": "2",
+  "url": "Week10Wed.html#Week10Wed-2-1",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   Introduce some basic ideas of graphing in polar coordinates.    Learn to graph some circles in polar coordinates.    Graph regions defined by inequalities in polar coordinates.    "
+},
+{
+  "id": "Week10Wed-2-4",
+  "level": "2",
+  "url": "Week10Wed.html#Week10Wed-2-4",
+  "type": "Example",
+  "number": "10.2",
+  "title": "Knowing What it Must Be.",
+  "body": " Knowing What it Must Be   Graph in polar coordinates.   "
+},
+{
+  "id": "Week10Wed-3-1",
+  "level": "2",
+  "url": "Week10Wed.html#Week10Wed-3-1",
+  "type": "Example",
+  "number": "10.3",
+  "title": "Using Conversion.",
+  "body": " Using Conversion   Graph in polar coordinates.   "
+},
+{
+  "id": "Week10Wed-3-2",
+  "level": "2",
+  "url": "Week10Wed.html#Week10Wed-3-2",
+  "type": "Example",
+  "number": "10.4",
+  "title": "\"Elaborate\" Algebra.",
+  "body": " \"Elaborate\" Algebra   Describe the graphs of and in polar coordinates by converting and completing the square.   "
+},
+{
+  "id": "Week10Wed-4-1-3",
+  "level": "2",
+  "url": "Week10Wed.html#Week10Wed-4-1-3",
+  "type": "Example",
+  "number": "10.5",
+  "title": "",
+  "body": "  Give inequalities involving and that describe the region shown below:     f(t)=2  g(t)=3          "
+},
+{
+  "id": "Week10Wed-4-1-4",
+  "level": "2",
+  "url": "Week10Wed.html#Week10Wed-4-1-4",
+  "type": "Example",
+  "number": "10.6",
+  "title": "",
+  "body": "  Give inequalities involving and that describe the region shown below:     f(t)=1  g(t)=2\/cos(t)          "
 }
 ]
 
