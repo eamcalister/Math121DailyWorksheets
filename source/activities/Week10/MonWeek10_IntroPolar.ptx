@@ -37,8 +37,8 @@
 </p>
 
     <sidebyside widths="75% 25%">
-                <interactive  xml:id="desmos_polar" desmos="maxv4fmq2m" width="75%" aspect="5:2" />
-                <image width="25%" source="desmos_polar.png"> </image>
+                <interactive  xml:id="desmos-polar" desmos="maxv4fmq2m" width="75%" aspect="5:2" />
+                <image width="25%" source="desmos-polar.png"> </image>
     </sidebyside>
 
 </page>
