@@ -2,88 +2,72 @@
 
     <!-- When creating a new activity, make a copy of this file with appropriate name -->
         <handout margin="1in" bottom="1.25cm" xml:id="Week11Fri">
-            <title>day Week n - Topics</title>
+            <title>Friday Week 11 - Power Functions</title>
 <page>
         <objectives>
           <ul>
             <li>
                 <p>
-                    One
+                    Define and recognize power functions.
                 </p>
             </li>
             <li>
                 <p>
-                    Two
+                    Find formulas for power functions from points on the graph.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Identify general graph features based on the coefficient and exponent in power functions.
                 </p>
             </li>
           </ul>
         </objectives>
             <introduction>
                 <p>
-                    What you're doing.
+                    Power functions are one more basic class of functions that involves two parameters. They are relatively simple to work with algebraically, but in contrast to other families, they can display a multitude of graphical behaviors.
                 </p>
             </introduction>
 
-<example>
-    <statement><title>Warm-up Question</title>
-        <p workspace="3in">
-            If you're doing one
-        </p>
-    </statement>
 
-</example>
 
-<example>
-    <statement>
-    <p>
-    Task to show something.
-    </p>
-    </statement>
-</example>
+<definition><title>Power Function</title>
 
-</page>
-<page>
 
-<definition>
     <statement>
         <p workspace="2in">
-           If you need to define something, it is...
+           A <term>power function</term> is one of the form...
         </p>
     </statement>
 </definition>
-<p>
-    Summary of something.
-</p>
-<ul>
-    <li>
-        <p workspace="0.75in">
-            To evaluate <m>f(a)</m>...
-        </p>
-    </li>
-        <li>
-        <p workspace="0.75in">
-            To solve <m>f(x) = b</m>...
-        </p>
-    </li>
-        <li>
-        <p workspace="0.75in">
-            The domain of <m>f</m> is...
-        </p>
-    </li>
-        <li>
-        <p workspace="0.75in">
-            The range of <m>f</m> is...
-        </p>
-    </li>
-</ul>
-
-
 
 <example>
     <statement>
         <p>
-            Another thing
+            Decide if each of the following are power functions. For those that are power functions, identify the coefficient and exponent. Also, give a rough sketch of the graph if you can.
         </p>
+        <ol>
+            <li>
+                <p workspace="1in">
+                    <m>f(x) = 12x^6</m>
+                </p>
+            </li>
+            <li>
+                <p workspace="1in">
+                    <m>g(x) = \frac{2}{x^3}</m>
+                </p>
+            </li>
+            <li>
+                <p workspace="1in">
+                    <m>h(x) = x\sqrt{x}</m>
+                </p>
+            </li>
+            <li>
+                <p workspace="1in">
+                    <m>k(x) = x^3 + 3x + 7</m>
+                </p>
+            </li>
+        </ol>
     </statement>
 
 </example>
@@ -92,40 +76,116 @@
 <page>
 
 <paragraphs>
-    <title>Problems</title>
+    <title>Finding Formulas</title>
 <p>
     
 </p>
-<ol>
-    <li>
-        <p workspace="2in">
-           one
-        </p>
-    </li>
-    <li>
-        <p workspace="2in">
-            two
-        </p>
-    </li>
-    <li>
-        <p workspace="2in">
-            three
-        </p>
-    </li>
-    <li>
-        <p workspace="2in">
-            four
-        </p>
-    </li>
-
-</ol>
+<p workspace="3in">
+    Find a formula for a power function <m>y=f(x)</m> such that <m>f(2) = 12</m> and <m>f(3) = 16</m>.
+</p>
 
 </paragraphs>   
+
+<paragraphs>
+    <title>Graphs of Positive Integer Powers</title>
+    <p>
+        Match the following functions to its graph: <m>y = x^2</m>, <m>y = x^3</m>, <m>y = x^4</m>, <m>y = x^5</m>.
+    </p>
+        <sidebyside>
+    <image>
+<prefigure label="poseven" xmlns="https://prefigure.org">
+<diagram dimensions="(300,300)" margins="5">
+  <definition>f(x)=5*x^3/6-17*x/6</definition>
+  <coordinates bbox="(-4,-4,4,4)">
+    <grid-axes xlabel="x" ylabel="y"/>
+    <graph function="f"/>
+  </coordinates>
+</diagram>
+</prefigure>
+</image> 
+    <image>
+<prefigure label="posodd" xmlns="https://prefigure.org">
+<diagram dimensions="(300,300)" margins="5">
+  <definition>f(x)=2 + (7*x)/6 - (29*x^2)/12 - x^3/6 + (5*x^4)/12</definition>
+  <coordinates bbox="(-4,-4,4,4)">
+    <grid-axes xlabel="x" ylabel="y"/>
+    <graph function="f"/>
+  </coordinates>
+</diagram>
+</prefigure>
+</image> 
+    </sidebyside>
+</paragraphs>
+
+
+</page>
+
+<page>
+
+<paragraphs>
+    <title>Graphs of Negative Integer Powers</title>
+    <p>
+        Match the following functions to its graph: <m>y = x^{-2}</m>, <m>y = x^{-3}</m>, <m>y = x^{-4}</m>, <m>y = x^{-5}</m>.
+    </p>
+        <sidebyside>
+    <image>
+<prefigure label="negeven" xmlns="https://prefigure.org">
+<diagram dimensions="(300,300)" margins="5">
+  <definition>f(x)=5*x^3/6-17*x/6</definition>
+  <coordinates bbox="(-4,-4,4,4)">
+    <grid-axes xlabel="x" ylabel="y"/>
+    <graph function="f"/>
+  </coordinates>
+</diagram>
+</prefigure>
+</image> 
+    <image>
+<prefigure label="neqodd" xmlns="https://prefigure.org">
+<diagram dimensions="(300,300)" margins="5">
+  <definition>f(x)=2 + (7*x)/6 - (29*x^2)/12 - x^3/6 + (5*x^4)/12</definition>
+  <coordinates bbox="(-4,-4,4,4)">
+    <grid-axes xlabel="x" ylabel="y"/>
+    <graph function="f"/>
+  </coordinates>
+</diagram>
+</prefigure>
+</image> 
+    </sidebyside>
+</paragraphs>
+
+<paragraphs>
+    <title>Graphs of Positive Fractional Powers</title>
+    <p>
+        Match the following functions to its graph: <m>y = x^{1/2}</m>, <m>y = x^{1/3}</m>, <m>y = x^{1/4}</m>, <m>y = x^{1/5}</m>.
+    </p>
+    <image>
+<prefigure label="frac" xmlns="https://prefigure.org">
+<diagram dimensions="(300,300)" margins="(100,5,100,5)">
+  <definition>f(x)=5*x^3/6-17*x/6</definition>
+  <coordinates bbox="(-4,-4,4,4)">
+    <grid-axes xlabel="x" ylabel="y"/>
+    <graph function="f"/>
+  </coordinates>
+</diagram>
+</prefigure>
+</image> 
+</paragraphs>
 
 
 
 </page>
 
+<page>
+    <paragraphs>
+        <title>Summary of End Behavior</title>
+        <p></p>
+        <p>
+            Describe how <m>f(x) = kx^p</m> behaves as <m>x\to\pm\infty</m> depending on the given combinations of <m>k</m> and <m>p</m>.
+        </p>
+    </paragraphs>
+
+
+</page>
         
 
 </handout>
