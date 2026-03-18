@@ -71,10 +71,17 @@
     </section>
 
     <section>
-      <title>Week 10</title>
+    <title>Week 10</title>
     <xi:include href="./activities/Week10/MonWeek10_IntroPolar.ptx"/>
     <xi:include href="./activities/Week10/WedWeek10_PolarGraphs.ptx"/>
     <xi:include href="./activities/Week10/FriWeek10_Compositions.ptx"/>
+    </section>
+
+    <section>
+    <title>Week 11</title>
+    <xi:include href="./activities/Week11/MonWeek11_InverseFunctions.ptx"/>
+    <xi:include href="./activities/Week11/WedWeek11_Combinations.ptx"/>
+    <xi:include href="./activities/Week11/FriWeek11_PowerFunctions.ptx"/>
     </section>
 
 

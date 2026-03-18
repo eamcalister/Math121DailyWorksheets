@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <!-- When creating a new activity, make a copy of this file with appropriate name -->
+        <handout margin="1in" bottom="1.25cm" xml:id="Week11Mon">
+            <title>Monday Week 11 - Inverse Functions</title>
+<page>
+        <objectives>
+          <ul>
+            <li>
+                <p>
+                    Recall the definition of an inverse function.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Find formulas for inverse functions.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Check that two functions are inverses of one another.
+                </p>
+            </li>
+          </ul>
+        </objectives>
+            <introduction>
+                <p>
+                    A topic related to composition of functions is inverse functions. Today we'll study these in some detail. 
+                </p>
+            </introduction>
+
+<definition><title>Inverse Function</title>
+    <statement>
+        <p workspace="1.5in">
+           Given a function <m>y=f(x)</m> (we can call this the "forward" function), the <term>inverse function</term> is the function <m>x = f^{-1}(y)</m> such that...
+        </p>
+        <em>Note:</em> It is a good practice to keep the input variable name as the output variable of the inverse and vice versa. However, sometimes we write <m>f^{-1}(x)</m> because we're in the habit of making the input variable <m>x</m>.
+    </statement>
+</definition>
+
+<example>
+    <statement><title>A Practical Example</title>
+        <p>
+            Let <m>P = f(t) = 10e^{0.02t}</m> be the population, in millions, of bacteria in a dish after <m>t</m> hours. 
+        </p>
+        <ol>
+            <li>
+                <p workspace="1.5in">
+                    Find a formula for the inverse function and give its practical meaning with units.
+                </p>
+            </li>
+            <li>
+                <p workspace="1.5in">
+                    Use the inverse function to find the time when the population of bacteria is <m>13</m> million.
+                </p>
+            </li>
+        </ol>
+    </statement>
+
+</example>
+
+<p>
+    <term>Two Key Poperties:</term>
+</p>
+
+<ol>
+    <li>
+        <p>
+            <m>f(f^{-1}(y)) = </m><fillin characters="5" />
+        </p>
+        <p>
+            Meaning:
+        </p>
+    </li>
+    <li>
+        <p>
+            <m>f^{-1}(f(x)) = </m><fillin characters="5" />
+        </p>
+        <p>
+            Meaning:
+        </p>
+    </li>
+</ol>
+
+</page>
+<page>
+
+<paragraphs>
+    <title>Graphical Inversion</title>
+    <p> 
+    </p>
+<p>
+    Given the graph of <m>y = f(x)</m> below, find each of the indicated values:
+</p>
+<image>
+<prefigure label="InverseGraph" xmlns="https://prefigure.org">
+<diagram dimensions="(300,300)" margins="(100,5,100,5)">
+  <definition>f(x)=x</definition>
+  <definition>g(x)=x/2-1</definition>
+  <definition>h(x)=x^2-1</definition>
+  <coordinates bbox="(-4,-4,4,4)">
+    <grid-axes xlabel="x" ylabel="y"/>
+    <graph function="f" domain="(-4,-2)"/>
+    <graph function="g" domain="(-2,0)"/>
+    <graph function="h" domain="(0,4)"/>
+    <label anchor="(2,2)" alignment="east">
+      <m>f(x)</m>
+    </label> 
+  </coordinates>
+</diagram>
+</prefigure>
+</image> 
+<ol>
+    <li>
+        <p workspace=".5in">
+            <m>f^{-1}(-1)</m>
+        </p>
+    </li>
+    <li>
+        <p workspace=".5in">
+            <m>f^{-1}(0)</m>
+        </p>
+    </li>
+    <li>
+        <p workspace=".5in">
+            <m>f^{-1}(3)</m>
+        </p>
+    </li>
+    <li>
+        <p workspace=".5in">
+            <m>f^{-1}(-2)</m>
+        </p>
+    </li>
+    <li>
+        <p workspace=".5in">
+            <m>f^{-1}\left(f\left(\frac{1}{2}\right)\right)</m>
+        </p>
+    </li>
+    <li>
+        <p workspace=".5in">
+            <m>f(f^{-1}(-0.005))</m>
+        </p>
+    </li>
+</ol>
+
+</paragraphs>
+
+</page>
+<page>
+
+<paragraphs>
+    <title>Finding Inverse Functions and Checking It's Right</title>
+<p>
+    
+</p>
+<p>
+    For each of the following functions, find the formula for the inverse function. Then check your work by checking that the function and the inverse you found undo one another.
+</p>
+<ol>
+    <li>
+        <p workspace="3.5in">
+           <m>y = f(x) = \sqrt[3]{\frac{1}{x} -4}</m>
+        </p>
+    </li>
+    <li>
+        <p workspace="3.5in">
+            <m>y = g(x) = \frac{2x+1}{3x-2}</m>
+        </p>
+    </li>
+</ol>
+
+</paragraphs>   
+
+
+
+</page>
+
+        
+
+</handout>
