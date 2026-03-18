@@ -2,123 +2,166 @@
 
     <!-- When creating a new activity, make a copy of this file with appropriate name -->
         <handout margin="1in" bottom="1.25cm" xml:id="Week11Wed">
-            <title>day Week n - Topics</title>
+            <title>Wednesday Week 11 - Combinations of Functions</title>
 <page>
         <objectives>
           <ul>
             <li>
                 <p>
-                    One
+                    Work with combinations of functions.
                 </p>
             </li>
             <li>
                 <p>
-                    Two
+                    Explore how relationships between functions give rise to features on the graphs of combinations.
                 </p>
             </li>
           </ul>
         </objectives>
             <introduction>
                 <p>
-                    What you're doing.
+                    Another, seemingly simpler, way of creating new functions from old ones is to <em>combine</em> using the operations of arithmetic: addition, subtraction, multiplication, and division. While these constructions are simple, the way these combinations behave based on how functions relate to one another is important in many situations.
                 </p>
             </introduction>
 
-<example>
-    <statement><title>Warm-up Question</title>
-        <p workspace="3in">
-            If you're doing one
-        </p>
-    </statement>
-
-</example>
-
-<example>
-    <statement>
+<paragraphs>
+    <title>Combinations from a Table</title>
+    <p></p>
     <p>
-    Task to show something.
+        Finding the outputs of sums, differences, products, and quotients of functions is easy; just evaluate the individual components and do the arithmetic. To see this, fill in the last four rows of the following table.
     </p>
-    </statement>
-</example>
+        <tabular>
+            <row header="yes" bottom="major">
+                <cell><m>x</m></cell> <cell><m>-1</m></cell> <cell><m>0</m></cell> <cell><m>1</m></cell> <cell><m>2</m></cell> <cell><m>3</m></cell> <cell><m>4</m></cell>
+            </row>
+            <row>
+                <cell><m>f(x)</m></cell> <cell><m>-4</m></cell> <cell><m>-1</m></cell> <cell><m>2</m></cell> <cell><m>5</m></cell> <cell><m>8</m></cell> <cell><m>11</m></cell>
+            </row>
+            <row>
+                <cell><m>g(x)</m></cell> <cell><m>4</m></cell> <cell><m>-1</m></cell> <cell><m>0</m></cell> <cell><m>-1</m></cell> <cell><m>4</m></cell> <cell><m>9</m></cell>
+            </row>
+            <row>
+                <cell><m>f(x)+g(x)</m></cell> <cell><m>\ \ </m></cell> <cell><m>\ \ </m></cell> <cell><m>\ \ </m></cell> <cell><m>\ \ </m></cell> <cell><m>\ \ </m></cell> <cell><m>\ \ </m></cell>
+            </row>
+            <row>
+                <cell><m>2f(x)</m></cell> <cell><m>\ \ </m></cell> <cell><m>\ \ </m></cell> <cell><m>\ \ </m></cell> <cell><m>\ \ </m></cell> <cell><m>\ \ </m></cell> <cell><m>\ \ </m></cell>
+            </row>
+            <row>
+                <cell><m>(g(x))^2</m></cell> <cell><m>\ \ </m></cell> <cell><m>\ \ </m></cell> <cell><m>\ \ </m></cell> <cell><m>\ \ </m></cell> <cell><m>\ \ </m></cell> <cell><m>\ \ </m></cell>
+            </row>
+            <row>
+                <cell><m>\frac{g(x)}{f(x)}</m></cell> <cell><m>\ \ </m></cell> <cell><m>\ \ </m></cell> <cell><m>\ \ </m></cell> <cell><m>\ \ </m></cell> <cell><m>\ \ </m></cell> <cell><m>\ \ </m></cell>
+            </row>
+        </tabular>
 
-</page>
-<page>
+</paragraphs>
 
-<definition>
-    <statement>
-        <p workspace="2in">
-           If you need to define something, it is...
-        </p>
-    </statement>
-</definition>
 <p>
-    Summary of something.
+    Some observations:
 </p>
 <ul>
     <li>
-        <p workspace="0.75in">
-            To evaluate <m>f(a)</m>...
+        <p>
+            The product of two functions is zero if and only if one of the factors is zero.
         </p>
     </li>
-        <li>
-        <p workspace="0.75in">
-            To solve <m>f(x) = b</m>...
+    <li>
+        <p>
+            The difference of two functions is zero if and only if the two functions are equal.
         </p>
     </li>
-        <li>
-        <p workspace="0.75in">
-            The domain of <m>f</m> is...
+    <li>
+        <p>
+            The quotient of two functions is zero if and only if when the numerator is zero and the denominator is not zero.
         </p>
     </li>
-        <li>
-        <p workspace="0.75in">
-            The range of <m>f</m> is...
+    <li>
+        <p>
+            The quotient of two functions is one if and only if the two functions are equal and not zero.
+        </p>
+    </li>
+    <li>
+        <p>
+            The sign of a product or quotient is determined by the sign of the factors and/or numerator and denominator.
         </p>
     </li>
 </ul>
-
-
-
-<example>
-    <statement>
-        <p>
-            Another thing
-        </p>
-    </statement>
-
-</example>
 
 </page>
 <page>
 
 <paragraphs>
-    <title>Problems</title>
+    <title>Graphing Problems</title>
+    <p></p>
+    Use the ideas from the previous page to give rough sketches (show the important features, possibly without exact <m>y</m>-values) of the following combinations.
+    <ol>
+        <li>
+            <p>
+                <m>f(x) = \sin(x) - \cos(x)</m>
+            </p>
+                <image>
+<prefigure label="trig-axes1" xmlns="https://prefigure.org">
+<diagram dimensions="(600,250)" margins="(30,5,30,5)">
+  <coordinates bbox="(-2*pi-.2, -6, 2*pi+.2, 6)">
+    <grid-axes xlabel="x"
+               h-pi-format="yes"
+               hticks="(-2*pi,pi/4,2*pi)"
+               hlabels="(-2*pi,pi/2,2*pi)" />
+  </coordinates>
+</diagram>  
+</prefigure>
+</image> 
+        </li>
+
+ <li>
+            <p>
+                <m>f(x) = \sec(x)\tan(x)</m>
+            </p>
+                <image>
+<prefigure label="trig-axes2" xmlns="https://prefigure.org">
+<diagram dimensions="(600,250)" margins="(30,5,30,5)">
+  <coordinates bbox="(-2*pi-.2, -6, 2*pi+.2, 6)">
+    <grid-axes xlabel="x"
+               h-pi-format="yes"
+               hticks="(-2*pi,pi/4,2*pi)"
+               hlabels="(-2*pi,pi/2,2*pi)" />
+  </coordinates>
+</diagram> 
+</prefigure>
+</image> 
+        </li>
+    </ol>
+</paragraphs>
+
+</page>
+<page>
+
+<paragraphs>
+    <title>Another Graph</title>
 <p>
     
 </p>
-<ol>
-    <li>
-        <p workspace="2in">
-           one
-        </p>
-    </li>
-    <li>
-        <p workspace="2in">
-            two
-        </p>
-    </li>
-    <li>
-        <p workspace="2in">
-            three
-        </p>
-    </li>
-    <li>
-        <p workspace="2in">
-            four
-        </p>
-    </li>
+<p>
+    Use the graphs of <m>y = x</m> and <m>y = \cos(x)</m> to sketch a graph of <m>f(x) = x\cos(x)</m>.
+</p>
 
-</ol>
+                <image>
+<prefigure label="xcosx" xmlns="https://prefigure.org">
+<diagram dimensions="(500,500)" margins="(30,5,30,5)">
+  <definition>g(x)=x</definition>
+  <definition>f(x)=cos(x)</definition>
+  <coordinates bbox="(-2*pi-.2, -2*pi-.2, 2*pi+.2, 2*pi+.2)">
+    <grid-axes xlabel="x"
+               h-pi-format="yes"
+               v-pi-format="yes"
+               hticks="(-2*pi,pi/4,2*pi)"
+               hlabels="(-2*pi,pi/2,2*pi)" />
+    <graph at="graph" function="f"/>
+    <graph at="graph" function="g"/>
+  </coordinates>
+</diagram> 
+</prefigure>
+</image> 
 
 </paragraphs>   
 
