@@ -8,12 +8,15 @@
           <ul>
             <li>
                 <p>
-                    One
+                    Use the factored form of a polynomial to determine its zeros.
                 </p>
             </li>
             <li>
                 <p>
-                    Two
+                    Graph polynomials, with reasonable accuracy, using the factored form.
+                </p>
+                <p>
+                    Determine polynomials from a graph using the factored form.
                 </p>
             </li>
           </ul>
@@ -24,105 +27,126 @@
                 </p>
             </introduction>
 
-<example>
-    <statement><title>Warm-up Question</title>
-        <p workspace="3in">
-            If you're doing one
-        </p>
-    </statement>
 
-</example>
+<definition><title>Factored Form of a Polynomial</title>
 
-<example>
+
     <statement>
-    <p>
-    Task to show something.
-    </p>
-    </statement>
-</example>
-
-</page>
-<page>
-
-<definition>
-    <statement>
-        <p workspace="2in">
-           If you need to define something, it is...
+        <p workspace="1.5in">
+           A polynomial <m>p</m> is <term>in factored form</term> if it is written in the form...
         </p>
     </statement>
 </definition>
-<p>
-    Summary of something.
+<p workspace="1in">
+    According to the zero factors theorem, the <m>x</m>-intercepts of a polynomial are determined by the factors as follows:
 </p>
-<ul>
-    <li>
-        <p workspace="0.75in">
-            To evaluate <m>f(a)</m>...
-        </p>
-    </li>
+
+<paragraphs>
+    <title>Finding Zeros</title>
+    <p>
+        Find the zeros of the following polynomials
+    </p>
+    
+    <ol>
         <li>
-        <p workspace="0.75in">
-            To solve <m>f(x) = b</m>...
-        </p>
-    </li>
+            <p workspace="1in">
+                <m>p(x) = 7(x-3)(x+3)(2x-7)</m>
+            </p>
+        </li>
         <li>
-        <p workspace="0.75in">
-            The domain of <m>f</m> is...
-        </p>
-    </li>
-        <li>
-        <p workspace="0.75in">
-            The range of <m>f</m> is...
-        </p>
-    </li>
-</ul>
+            <p workspace="1in">
+                <m>f(x) = x^3+7x^2+12x</m>
+            </p>
+        </li>
+    </ol>
+</paragraphs>
 
-
-
-<example>
-    <statement>
-        <p>
-            Another thing
-        </p>
-    </statement>
-
-</example>
 
 </page>
 <page>
 
 <paragraphs>
-    <title>Problems</title>
+    <title>Graphing Polynomials</title>
+<p></p>
 <p>
-    
+    To draw a reasonable graph of a polynomial, proceed as follows:
 </p>
 <ol>
     <li>
-        <p workspace="2in">
-           one
+        <p>
+            Determine the end behavior using the leading term. This will give you the rough shape.
         </p>
     </li>
     <li>
-        <p workspace="2in">
-            two
+        <p>
+           Determine the <m>y</m>-intercept using the constant coefficient and/or evaluating at <m>x=0</m>. 
         </p>
     </li>
     <li>
-        <p workspace="2in">
-            three
+        <p>
+            Determine the zeros from the factored form (this can be difficult to impossible, but you try).
         </p>
     </li>
     <li>
-        <p workspace="2in">
-            four
+        <p>
+            Determine the sign of the output for each part of the domain determined by the zeros (we'll do this in the first example below).
         </p>
     </li>
-
 </ol>
-
 </paragraphs>   
 
+<paragraphs>
+    <title>Graphing Examples:</title>
+    <ol>
+        <li>
+            <p workspace="2.5in">
+                Graph <m>p(x) = -\frac{1}{2}x(x+4)(x-5)^2</m>
+            </p>
+        </li>
+        <li>
+            <p workspace="2.5in">
+                Graph <m>q(x) = 5x^2(x-4)</m>
+            </p>
+        </li>
+    </ol>
+</paragraphs>
 
+
+
+</page>
+<page>
+<p>
+    Notice that when a factor is raised to an even power, the graph just touches the horizontal axis rather than corssing it.
+</p>    
+<paragraphs>
+    <title>Finding a Formula</title>
+    <p>
+        Now we can use these ideas to find formulas from graphs in a way similar to what we have done with some other familes of functions. 
+    </p>
+    <p>
+        Find a formula for function whose graph is shown below:
+    </p>
+        <image>
+<prefigure label="poly-factored" xmlns="https://prefigure.org">
+<diagram dimensions="(400,400)" margins="(100,5,100,5)">
+  <definition>f(x)=-0.25*(x+2)^2*(x-2)*(x-3)</definition>
+  <coordinates bbox="(-4,-7,4,7)">
+    <grid-axes xlabel="x" ylabel="y"/>
+    <graph function="f"/>
+    <point at="point" p="(-2,0)">
+    </point>
+    <point at="point" p="(-1,-3)" alignment="w">
+      <m>(-1,-3)</m>
+    </point>
+    <point at="point" p="(2,0)">
+    </point>
+        <point at="point" p="(3,0)">
+    </point>
+  </coordinates>
+</diagram>
+</prefigure>
+</image> 
+</paragraphs>
 
 </page>
 
