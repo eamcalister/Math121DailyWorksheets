@@ -83,7 +83,12 @@
     <xi:include href="./activities/Week11/WedWeek11_Combinations.ptx"/>
     <xi:include href="./activities/Week11/FriWeek11_PowerFunctions.ptx"/>
     </section>
-
+    
+    <section>
+    <title>Week 12</title>
+    <xi:include href="./activities/Week12/MonWeek12_IntroPolys.ptx"/>
+    <xi:include href="./activities/Week12/WedWeek12_PolyZeros.ptx"/>
+    </section>
 
 
     <!-- Add more xi:include files here to include them in the main course -->

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <!-- When creating a new activity, make a copy of this file with appropriate name -->
+        <handout margin="1in" bottom="1.25cm" xml:id="Week12Mon">
+            <title>Monday Week 12 - Introduction to Polynomials</title>
+<page>
+        <objectives>
+          <ul>
+            <li>
+                <p>
+                    Define polynomials and terminology associated to them.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Determine the long-run behavior of polynomials.
+                </p>
+            </li>
+          </ul>
+        </objectives>
+            <introduction>
+                <p>
+                    The next important family of functions we study is the family of polynomials. Polynomials are an important family of functions because they are easy for computers to handle and can be used to approximate transcendental functions (e.g. trigonometric functions). What makes them more complicated than all the previous familes we have studied is that they are not completely determined by a fixed number of parameters.
+                </p>
+            </introduction>
+
+<definition><title>Polynomial</title>
+    <statement>
+        <p workspace="1in">
+           A polynomial is a function of the form...
+        </p>
+    </statement>
+</definition>
+
+<paragraphs>
+    <title>Polynomial Terminology</title>
+    <p>
+        
+    </p>
+    <p>
+        <ul>
+            <li>
+                <p workspace="0.5in">
+                    <term>Degree of a Polynomial:</term>
+                </p>
+            </li>
+            <li>
+                <p workspace="0.5in">
+                    <term>Leading Coefficient/Leading Term:</term>
+                </p>
+            </li>
+            <li>
+                <p workspace="0.5in">
+                    <term>Constant Coefficient/Constant Term:</term>
+                </p>
+            </li>
+        </ul>
+    </p>
+</paragraphs>
+
+</page>
+<page>
+
+<paragraphs>
+    <title>Definition Problems</title>
+<p>
+    
+</p>
+<p>
+    For each of the following functions:
+    <ol>
+        <li>
+            <p>
+                Decide if the function is a polynomial.
+            </p>
+        </li>
+        <li>
+            <p>
+                If the function is a polynomial, find its degree, leading coefficient, and constant coefficient.
+            </p>
+        </li>
+    </ol>
+</p>
+<ol>
+    <li>
+        <p workspace="1.5in">
+           <m>y = 3x-1</m>
+        </p>
+    </li>
+    <li>
+        <p workspace="1.5in">
+            <m>f(x) = x^4 + 2x^{1/5}</m>
+        </p>
+    </li>
+    <li>
+        <p workspace="1.5in">
+            <m>g(x) = (x^2+8)(5x^3+2x)</m>
+        </p>
+    </li>
+    <li>
+        <p workspace="1.5in">
+            <m>h(x) = (3x^2 + 3)^3 + (x-2)^5</m>
+        </p>
+    </li>
+    <li>
+        <p workspace="1.5in">
+            <m>r(x) = (2x-3)^2(x+4)</m>
+        </p>
+    </li>
+
+</ol>
+
+</paragraphs>   
+
+
+
+</page>
+
+<page>
+<paragraphs>
+    <title>Long Run Behavior</title>
+
+<p workspace="1in">
+    The long run (as <m>x\to\pm\infty</m>) is determined by the leading term. That is...
+</p>    
+
+<p>
+    For each of the following functions, determine its long run behavior.
+</p>
+<ol>
+    <li>
+        <p workspace="1.5in">
+            <m>p(x) = 3x(1-2x^2)</m>
+        </p>
+    </li>
+    <li>
+        <p workspace="1.5in">
+            <m>q(x) = \frac{1}{1000}x^3 + x + 2</m>
+        </p>
+    </li>
+    <li>
+        <p workspace="1.5in">
+            <m>m(x) = (4x-7)(x-2)(3x-x^2)+17x^2</m>
+        </p>
+    </li>
+
+</ol>
+
+</paragraphs>    
+
+
+</page>
+
+        
+
+</handout>
