@@ -94,22 +94,26 @@
         <sidebyside>
     <image>
 <prefigure label="poseven" xmlns="https://prefigure.org">
-<diagram dimensions="(300,300)" margins="5">
-  <definition>f(x)=5*x^3/6-17*x/6</definition>
-  <coordinates bbox="(-4,-4,4,4)">
+<diagram dimensions="(300,300)" margins="10">
+  <definition>f(x)=x^2</definition>
+<definition>g(x)=x^4</definition>
+  <coordinates bbox="(-3,-3,3,3)">
     <grid-axes xlabel="x" ylabel="y"/>
     <graph function="f"/>
+    <graph function="g" stroke="green"/>
   </coordinates>
 </diagram>
 </prefigure>
 </image> 
     <image>
 <prefigure label="posodd" xmlns="https://prefigure.org">
-<diagram dimensions="(300,300)" margins="5">
-  <definition>f(x)=2 + (7*x)/6 - (29*x^2)/12 - x^3/6 + (5*x^4)/12</definition>
-  <coordinates bbox="(-4,-4,4,4)">
+<diagram dimensions="(300,300)" margins="10">
+  <definition>f(x)=x^3</definition>
+  <definition>g(x)=x^5</definition>
+  <coordinates bbox="(-3,-3,3,3)">
     <grid-axes xlabel="x" ylabel="y"/>
     <graph function="f"/>
+    <graph function="g" stroke="green"/>
   </coordinates>
 </diagram>
 </prefigure>
@@ -130,22 +134,26 @@
         <sidebyside>
     <image>
 <prefigure label="negeven" xmlns="https://prefigure.org">
-<diagram dimensions="(300,300)" margins="5">
-  <definition>f(x)=5*x^3/6-17*x/6</definition>
-  <coordinates bbox="(-4,-4,4,4)">
+<diagram dimensions="(300,300)" margins="10">
+  <definition>f(x)=x^(-2)</definition>
+    <definition>g(x)=x^(-4)</definition>
+  <coordinates bbox="(-3,-3,3,3)">
     <grid-axes xlabel="x" ylabel="y"/>
     <graph function="f"/>
+    <graph function="g" stroke="green"/>
   </coordinates>
 </diagram>
 </prefigure>
 </image> 
     <image>
 <prefigure label="neqodd" xmlns="https://prefigure.org">
-<diagram dimensions="(300,300)" margins="5">
-  <definition>f(x)=2 + (7*x)/6 - (29*x^2)/12 - x^3/6 + (5*x^4)/12</definition>
-  <coordinates bbox="(-4,-4,4,4)">
+<diagram dimensions="(300,300)" margins="10">
+  <definition>f(x)=x^(-3)</definition>
+    <definition>g(x)=x^(-5)</definition>
+  <coordinates bbox="(-3,-3,3,3)">
     <grid-axes xlabel="x" ylabel="y"/>
     <graph function="f"/>
+    <graph function="g" stroke="green"/>
   </coordinates>
 </diagram>
 </prefigure>
@@ -160,11 +168,17 @@
     </p>
     <image>
 <prefigure label="frac" xmlns="https://prefigure.org">
-<diagram dimensions="(300,300)" margins="(100,5,100,5)">
-  <definition>f(x)=5*x^3/6-17*x/6</definition>
-  <coordinates bbox="(-4,-4,4,4)">
+<diagram dimensions="(400,400)" margins="(100,5,100,5)">
+  <definition>f(x)=sqrt(x)</definition>
+  <definition>g(x)=exp(ln(x)/3)</definition>
+  <definition>h(x)=sqrt(sqrt(x))</definition>
+  <definition>k(x)=exp(ln(x)/5)</definition>
+  <coordinates bbox="(0,0,2,2)">
     <grid-axes xlabel="x" ylabel="y"/>
     <graph function="f"/>
+    <graph function="g" stroke="black"/>
+    <graph function="h" stroke="green"/>
+    <graph function="k" stroke="red"/>
   </coordinates>
 </diagram>
 </prefigure>
@@ -177,11 +191,59 @@
 
 <page>
     <paragraphs>
-        <title>Summary of End Behavior</title>
+        <title>Summary of Behavior Near Zero or <m>\pm\infty</m></title>
         <p></p>
         <p>
-            Describe how <m>f(x) = kx^p</m> behaves as <m>x\to\pm\infty</m> depending on the given combinations of <m>k</m> and <m>p</m>.
+            Describe how <m>f(x) = kx^p</m> behaves as <m>x\to\pm\infty</m>, <m>x\to 0^{+}</m>, or <m>x\to 0^{-}</m>, depending on the given combinations of <m>k</m> and <m>p</m> (sketch a graph for each).
         </p>
+        <ol>
+            <li>
+                <p>
+                    <m>k&gt; 0</m> and <m>p</m> is positive and even.
+                </p>
+                <p workspace="2in">
+                    As <m>x\to\pm \infty</m>, <m>y\to</m><fillin characters="5" />
+                </p>
+            </li>
+            <li>
+                <p>
+                    <m>k&gt; 0</m> and <m>p</m> is negative and even.
+                </p>
+                <p>
+                    As <m>x\to\pm \infty</m>, <m>y\to</m><fillin characters="5" />
+                </p>
+                <p workspace="2in">
+                    As <m>x\to\pm 0</m>, <m>y\to</m><fillin characters="5" />
+                </p>
+            </li>
+            <li>
+                <p>
+                    <m>k&gt; 0</m> and <m>p</m> is positive and odd.
+                </p>
+                <p>
+                    As <m>x\to \infty</m>, <m>y\to</m><fillin characters="5" />
+                </p>
+                <p workspace="2in">
+                    As <m>x\to -\infty</m>, <m>y\to</m><fillin characters="5" />
+                </p>
+            </li>
+            <li>
+                <p>
+                    <m>k&gt; 0</m> and <m>p</m> is negative and odd.
+                </p>
+                <p>
+                    As <m>x\to\pm \infty</m>, <m>y\to</m><fillin characters="5" />
+                </p>
+                <p>
+                    As <m>x\to 0^{+}</m>, <m>y\to</m><fillin characters="5" />
+                </p>
+                <p workspace="2in">
+                   As <m>x\to 0^{-}</m>, <m>y\to</m><fillin characters="5" />
+                </p>
+            </li>
+        </ol>
+
+
     </paragraphs>
 
 
