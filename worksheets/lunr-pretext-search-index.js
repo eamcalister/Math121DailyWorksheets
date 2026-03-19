@@ -1097,6 +1097,69 @@ var ptx_lunr_docs = [
   "number": "11.4",
   "title": "",
   "body": "  Decide if each of the following are power functions. For those that are power functions, identify the coefficient and exponent. Also, give a rough sketch of the graph if you can.                         "
+},
+{
+  "id": "Week12Mon",
+  "level": "1",
+  "url": "Week12Mon.html",
+  "type": "Handout",
+  "number": "12.1",
+  "title": "Monday Week 12 - Introduction to Polynomials",
+  "body": " Monday Week 12 - Introduction to Polynomials      Define polynomials and terminology associated to them.    Determine the long-run behavior of polynomials.      The next important family of functions we study is the family of polynomials. Polynomials are an important family of functions because they are easy for computers to handle and can be used to approximate transcendental functions (e.g. trigonometric functions). What makes them more complicated than all the previous familes we have studied is that they are not completely determined by a fixed number of parameters.   Polynomial   A polynomial is a function of the form...     Polynomial Terminology        Degree of a Polynomial:      Leading Coefficient\/Leading Term:      Constant Coefficient\/Constant Term:          Definition Problems    For each of the following functions:   Decide if the function is a polynomial.    If the function is a polynomial, find its degree, leading coefficient, and constant coefficient.                                    Long Run Behavior  The long run (as ) is determined by the leading term. That is...  For each of the following functions, determine its long run behavior.                     "
+},
+{
+  "id": "Week12Mon-2-1",
+  "level": "2",
+  "url": "Week12Mon.html#Week12Mon-2-1",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   Define polynomials and terminology associated to them.    Determine the long-run behavior of polynomials.    "
+},
+{
+  "id": "Week12Mon-2-3",
+  "level": "2",
+  "url": "Week12Mon.html#Week12Mon-2-3",
+  "type": "Definition",
+  "number": "12.1",
+  "title": "Polynomial.",
+  "body": "Polynomial   A polynomial is a function of the form...   "
+},
+{
+  "id": "Week12Mon-2-4-3",
+  "level": "2",
+  "url": "Week12Mon.html#Week12Mon-2-4-3",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Degree of a Polynomial: Leading Coefficient\/Leading Term: Constant Coefficient\/Constant Term: "
+},
+{
+  "id": "Week12Wed",
+  "level": "1",
+  "url": "Week12Wed.html",
+  "type": "Handout",
+  "number": "12.2",
+  "title": "Wednesday Week 12 - Zeros of Polynomials",
+  "body": " Wednesday Week 12 - Zeros of Polynomials      Use the factored form of a polynomial to determine its zeros.    Graph polynomials, with reasonable accuracy, using the factored form.  Determine polynomials from a graph using the factored form.      What you're doing.   Factored Form of a Polynomial   A polynomial is in factored form if it is written in the form...    According to the zero factors theorem, the -intercepts of a polynomial are determined by the factors as follows:   Finding Zeros  Find the zeros of the following polynomials                  Graphing Polynomials   To draw a reasonable graph of a polynomial, proceed as follows:    Determine the end behavior using the leading term. This will give you the rough shape.    Determine the -intercept using the constant coefficient and\/or evaluating at .    Determine the zeros from the factored form (this can be difficult to impossible, but you try).    Determine the sign of the output for each part of the domain determined by the zeros (we'll do this in the first example below).      Graphing Examples:    Graph     Graph        Notice that when a factor is raised to an even power, the graph just touches the horizontal axis rather than corssing it.   Finding a Formula  Now we can use these ideas to find formulas from graphs in a way similar to what we have done with some other familes of functions.  Find a formula for function whose graph is shown below:     f(x)=-0.25*(x+2)^2*(x-2)*(x-3)        (-1,-3)             "
+},
+{
+  "id": "Week12Wed-2-1",
+  "level": "2",
+  "url": "Week12Wed.html#Week12Wed-2-1",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   Use the factored form of a polynomial to determine its zeros.    Graph polynomials, with reasonable accuracy, using the factored form.  Determine polynomials from a graph using the factored form.    "
+},
+{
+  "id": "Week12Wed-2-3",
+  "level": "2",
+  "url": "Week12Wed.html#Week12Wed-2-3",
+  "type": "Definition",
+  "number": "12.2",
+  "title": "Factored Form of a Polynomial.",
+  "body": "Factored Form of a Polynomial   A polynomial is in factored form if it is written in the form...   "
 }
 ]
 
