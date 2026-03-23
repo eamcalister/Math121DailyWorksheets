@@ -20,7 +20,7 @@
         </objectives>
             <introduction>
                 <p>
-                    The <term>coordinates</term> of a point in the plane are a pair of numbers that describe its position. Typically we use <m>x</m> and <m>y</m>. These are called <term>recatgular</term> of <term>Cartesian</term> (after Rene Descartes) coordinates. An important application of trigonometry is to describe points in the plane using a distance from the origin and an angle from the positive <m>x</m>-axis. These new coordinates are called <term>polar</term> coordinates.
+                    The <term>coordinates</term> of a point in the plane are a pair of numbers that describe its position. Typically we use <m>x</m> and <m>y</m>. These are called <term>rectpretangular</term> of <term>Cartesian</term> (after Rene Descartes) coordinates. An important application of trigonometry is to describe points in the plane using a distance from the origin and an angle from the positive <m>x</m>-axis. These new coordinates are called <term>polar</term> coordinates.
                 </p>
             </introduction>
 
