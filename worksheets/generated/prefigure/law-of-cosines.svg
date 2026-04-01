@@ -1,136 +1,136 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="diagram" width="900" height="310" viewBox="0 0 900 310">
+<svg xmlns="http://www.w3.org/2000/svg" id="law-of-cosines-figure" width="900" height="310" viewBox="0 0 900 310">
   <defs>
-    <clipPath id="clipPath-0">
+    <clipPath id="law-of-cosines-clipPath-0">
       <rect x="300.0" y="5.0" width="300.0" height="300.0"/>
     </clipPath>
-    <clipPath id="clipPath-1">
+    <clipPath id="law-of-cosines-clipPath-1">
       <rect x="300.0" y="5.0" width="300.0" height="300.0"/>
     </clipPath>
   </defs>
-  <g id="g-0">
-    <path id="path-0" d="M 572.7 225.0 L 354.5 225.0 L 518.2 25.0 Z" stroke="black" stroke-width="2" fill="none" clip-path="url(#clipPath-1)"/>
+  <g id="law-of-cosines-group-0">
+    <path id="law-of-cosines-path-0" d="M 572.7 225.0 L 354.5 225.0 L 518.2 25.0 Z" stroke="black" stroke-width="2" fill="none" clip-path="url(#law-of-cosines-clipPath-1)"/>
   </g>
-  <g id="g-1">
+  <g id="law-of-cosines-g-0">
     <g transform="translate(385.7,208.2) translate(0.0,-13.2)">
-      <g id="g-4">
+      <g id="law-of-cosines-g-3">
         <svg xmlns:xlink="http://www.w3.org/1999/xlink" style="vertical-align: -0.400px" width="13.752px" height="13.160px" role="img" focusable="false" viewBox="0 -705 760 727" x="0.0" y="0.0">
           <defs>
-            <path id="MJX-2-TEX-I-1D436" d="M50 252Q50 367 117 473T286 641T490 704Q580 704 633 653Q642 643 648 636T656 626L657 623Q660 623 684 649Q691 655 699 663T715 679T725 690L740 705H746Q760 705 760 698Q760 694 728 561Q692 422 692 421Q690 416 687 415T669 413H653Q647 419 647 422Q647 423 648 429T650 449T651 481Q651 552 619 605T510 659Q484 659 454 652T382 628T299 572T226 479Q194 422 175 346T156 222Q156 108 232 58Q280 24 350 24Q441 24 512 92T606 240Q610 253 612 255T628 257Q648 257 648 248Q648 243 647 239Q618 132 523 55T319 -22Q206 -22 128 53T50 252Z"/>
+            <path id="law-of-cosines-MJX-2-TEX-I-1D436" d="M50 252Q50 367 117 473T286 641T490 704Q580 704 633 653Q642 643 648 636T656 626L657 623Q660 623 684 649Q691 655 699 663T715 679T725 690L740 705H746Q760 705 760 698Q760 694 728 561Q692 422 692 421Q690 416 687 415T669 413H653Q647 419 647 422Q647 423 648 429T650 449T651 481Q651 552 619 605T510 659Q484 659 454 652T382 628T299 572T226 479Q194 422 175 346T156 222Q156 108 232 58Q280 24 350 24Q441 24 512 92T606 240Q610 253 612 255T628 257Q648 257 648 248Q648 243 647 239Q618 132 523 55T319 -22Q206 -22 128 53T50 252Z"/>
           </defs>
           <g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)">
             <g data-mml-node="math">
               <g data-mml-node="mi" data-semantic-type="identifier" data-semantic-role="latinletter" data-semantic-font="italic" data-semantic-id="0" data-semantic-speech="">
-                <use data-c="1D436" xlink:href="#MJX-2-TEX-I-1D436"/>
+                <use data-c="1D436" xlink:href="#law-of-cosines-MJX-2-TEX-I-1D436"/>
               </g>
             </g>
           </g>
         </svg>
       </g>
     </g>
-    <path d="M 384.5 225.0 A 30.0 30.0 0 0 0 373.5 201.8" stroke="black" stroke-width="2" fill="none"/>
+    <path stroke="black" stroke-width="2" fill="none" d="M 373.5 201.8 L 373.7 202.0 L 374.0 202.1 L 374.2 202.3 L 374.4 202.5 L 374.6 202.6 L 374.7 202.8 L 374.9 203.0 L 375.1 203.2 L 375.3 203.4 L 375.5 203.6 L 375.7 203.7 L 375.9 203.9 L 376.1 204.1 L 376.3 204.3 L 376.4 204.5 L 376.6 204.7 L 376.8 204.9 L 377.0 205.1 L 377.2 205.3 L 377.3 205.5 L 377.5 205.7 L 377.7 205.9 L 377.8 206.1 L 378.0 206.3 L 378.2 206.5 L 378.3 206.7 L 378.5 206.9 L 378.7 207.2 L 378.8 207.4 L 379.0 207.6 L 379.1 207.8 L 379.3 208.0 L 379.4 208.2 L 379.6 208.5 L 379.7 208.7 L 379.9 208.9 L 380.0 209.1 L 380.1 209.4 L 380.3 209.6 L 380.4 209.8 L 380.5 210.0 L 380.7 210.3 L 380.8 210.5 L 380.9 210.7 L 381.1 211.0 L 381.2 211.2 L 381.3 211.4 L 381.4 211.7 L 381.5 211.9 L 381.7 212.2 L 381.8 212.4 L 381.9 212.6 L 382.0 212.9 L 382.1 213.1 L 382.2 213.4 L 382.3 213.6 L 382.4 213.9 L 382.5 214.1 L 382.6 214.4 L 382.7 214.6 L 382.8 214.8 L 382.9 215.1 L 383.0 215.4 L 383.0 215.6 L 383.1 215.9 L 383.2 216.1 L 383.3 216.4 L 383.4 216.6 L 383.4 216.9 L 383.5 217.1 L 383.6 217.4 L 383.6 217.6 L 383.7 217.9 L 383.8 218.2 L 383.8 218.4 L 383.9 218.7 L 383.9 218.9 L 384.0 219.2 L 384.0 219.5 L 384.1 219.7 L 384.1 220.0 L 384.2 220.2 L 384.2 220.5 L 384.2 220.8 L 384.3 221.0 L 384.3 221.3 L 384.3 221.6 L 384.4 221.8 L 384.4 222.1 L 384.4 222.3 L 384.5 222.6 L 384.5 222.9 L 384.5 223.1 L 384.5 223.4 L 384.5 223.7 L 384.5 223.9 L 384.5 224.2 L 384.5 224.5 L 384.5 224.7 L 384.5 225.0"/>
   </g>
-  <g id="g-2">
+  <g id="law-of-cosines-g-1">
     <g transform="translate(511.9,58.3) translate(-6.9,-0.0)">
-      <g id="g-5">
+      <g id="law-of-cosines-g-4">
         <svg xmlns:xlink="http://www.w3.org/1999/xlink" style="vertical-align: 0.000px" width="13.736px" height="12.360px" role="img" focusable="false" viewBox="0 -683 759 683" x="0.0" y="0.0">
           <defs>
-            <path id="MJX-3-TEX-I-1D435" d="M231 637Q204 637 199 638T194 649Q194 676 205 682Q206 683 335 683Q594 683 608 681Q671 671 713 636T756 544Q756 480 698 429T565 360L555 357Q619 348 660 311T702 219Q702 146 630 78T453 1Q446 0 242 0Q42 0 39 2Q35 5 35 10Q35 17 37 24Q42 43 47 45Q51 46 62 46H68Q95 46 128 49Q142 52 147 61Q150 65 219 339T288 628Q288 635 231 637ZM649 544Q649 574 634 600T585 634Q578 636 493 637Q473 637 451 637T416 636H403Q388 635 384 626Q382 622 352 506Q352 503 351 500L320 374H401Q482 374 494 376Q554 386 601 434T649 544ZM595 229Q595 273 572 302T512 336Q506 337 429 337Q311 337 310 336Q310 334 293 263T258 122L240 52Q240 48 252 48T333 46Q422 46 429 47Q491 54 543 105T595 229Z"/>
+            <path id="law-of-cosines-MJX-3-TEX-I-1D435" d="M231 637Q204 637 199 638T194 649Q194 676 205 682Q206 683 335 683Q594 683 608 681Q671 671 713 636T756 544Q756 480 698 429T565 360L555 357Q619 348 660 311T702 219Q702 146 630 78T453 1Q446 0 242 0Q42 0 39 2Q35 5 35 10Q35 17 37 24Q42 43 47 45Q51 46 62 46H68Q95 46 128 49Q142 52 147 61Q150 65 219 339T288 628Q288 635 231 637ZM649 544Q649 574 634 600T585 634Q578 636 493 637Q473 637 451 637T416 636H403Q388 635 384 626Q382 622 352 506Q352 503 351 500L320 374H401Q482 374 494 376Q554 386 601 434T649 544ZM595 229Q595 273 572 302T512 336Q506 337 429 337Q311 337 310 336Q310 334 293 263T258 122L240 52Q240 48 252 48T333 46Q422 46 429 47Q491 54 543 105T595 229Z"/>
           </defs>
           <g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)">
             <g data-mml-node="math">
               <g data-mml-node="mi" data-semantic-type="identifier" data-semantic-role="latinletter" data-semantic-font="italic" data-semantic-id="0" data-semantic-speech="">
-                <use data-c="1D435" xlink:href="#MJX-3-TEX-I-1D435"/>
+                <use data-c="1D435" xlink:href="#law-of-cosines-MJX-3-TEX-I-1D435"/>
               </g>
             </g>
           </g>
         </svg>
       </g>
     </g>
-    <path d="M 499.2 48.2 A 30.0 30.0 0 0 0 526.1 53.9" stroke="black" stroke-width="2" fill="none"/>
+    <path stroke="black" stroke-width="2" fill="none" d="M 526.1 53.9 L 525.8 54.0 L 525.5 54.1 L 525.2 54.2 L 525.0 54.2 L 524.7 54.3 L 524.4 54.3 L 524.1 54.4 L 523.9 54.5 L 523.6 54.5 L 523.3 54.6 L 523.0 54.6 L 522.7 54.7 L 522.4 54.7 L 522.2 54.7 L 521.9 54.8 L 521.6 54.8 L 521.3 54.8 L 521.0 54.9 L 520.7 54.9 L 520.5 54.9 L 520.2 54.9 L 519.9 55.0 L 519.6 55.0 L 519.3 55.0 L 519.0 55.0 L 518.7 55.0 L 518.5 55.0 L 518.2 55.0 L 517.9 55.0 L 517.6 55.0 L 517.3 55.0 L 517.0 55.0 L 516.7 55.0 L 516.5 55.0 L 516.2 54.9 L 515.9 54.9 L 515.6 54.9 L 515.3 54.9 L 515.0 54.8 L 514.8 54.8 L 514.5 54.8 L 514.2 54.7 L 513.9 54.7 L 513.6 54.7 L 513.3 54.6 L 513.1 54.6 L 512.8 54.5 L 512.5 54.5 L 512.2 54.4 L 511.9 54.3 L 511.7 54.3 L 511.4 54.2 L 511.1 54.2 L 510.8 54.1 L 510.5 54.0 L 510.3 53.9 L 510.0 53.9 L 509.7 53.8 L 509.4 53.7 L 509.2 53.6 L 508.9 53.5 L 508.6 53.4 L 508.4 53.3 L 508.1 53.3 L 507.8 53.2 L 507.6 53.1 L 507.3 53.0 L 507.0 52.8 L 506.8 52.7 L 506.5 52.6 L 506.2 52.5 L 506.0 52.4 L 505.7 52.3 L 505.5 52.2 L 505.2 52.0 L 504.9 51.9 L 504.7 51.8 L 504.4 51.7 L 504.2 51.5 L 503.9 51.4 L 503.7 51.3 L 503.4 51.1 L 503.2 51.0 L 502.9 50.8 L 502.7 50.7 L 502.4 50.5 L 502.2 50.4 L 502.0 50.2 L 501.7 50.1 L 501.5 49.9 L 501.2 49.8 L 501.0 49.6 L 500.8 49.4 L 500.5 49.3 L 500.3 49.1 L 500.1 48.9 L 499.9 48.8 L 499.6 48.6 L 499.4 48.4 L 499.2 48.2"/>
   </g>
-  <g id="g-3">
+  <g id="law-of-cosines-g-2">
     <g transform="translate(544.9,202.8) translate(-13.6,-13.0)">
-      <g id="g-6">
+      <g id="law-of-cosines-g-5">
         <svg xmlns:xlink="http://www.w3.org/1999/xlink" style="vertical-align: 0.000px" width="13.576px" height="12.960px" role="img" focusable="false" viewBox="0 -716 750 716" x="0.0" y="0.0">
           <defs>
-            <path id="MJX-4-TEX-I-1D434" d="M208 74Q208 50 254 46Q272 46 272 35Q272 34 270 22Q267 8 264 4T251 0Q249 0 239 0T205 1T141 2Q70 2 50 0H42Q35 7 35 11Q37 38 48 46H62Q132 49 164 96Q170 102 345 401T523 704Q530 716 547 716H555H572Q578 707 578 706L606 383Q634 60 636 57Q641 46 701 46Q726 46 726 36Q726 34 723 22Q720 7 718 4T704 0Q701 0 690 0T651 1T578 2Q484 2 455 0H443Q437 6 437 9T439 27Q443 40 445 43L449 46H469Q523 49 533 63L521 213H283L249 155Q208 86 208 74ZM516 260Q516 271 504 416T490 562L463 519Q447 492 400 412L310 260L413 259Q516 259 516 260Z"/>
+            <path id="law-of-cosines-MJX-4-TEX-I-1D434" d="M208 74Q208 50 254 46Q272 46 272 35Q272 34 270 22Q267 8 264 4T251 0Q249 0 239 0T205 1T141 2Q70 2 50 0H42Q35 7 35 11Q37 38 48 46H62Q132 49 164 96Q170 102 345 401T523 704Q530 716 547 716H555H572Q578 707 578 706L606 383Q634 60 636 57Q641 46 701 46Q726 46 726 36Q726 34 723 22Q720 7 718 4T704 0Q701 0 690 0T651 1T578 2Q484 2 455 0H443Q437 6 437 9T439 27Q443 40 445 43L449 46H469Q523 49 533 63L521 213H283L249 155Q208 86 208 74ZM516 260Q516 271 504 416T490 562L463 519Q447 492 400 412L310 260L413 259Q516 259 516 260Z"/>
           </defs>
           <g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)">
             <g data-mml-node="math">
               <g data-mml-node="mi" data-semantic-type="identifier" data-semantic-role="latinletter" data-semantic-font="italic" data-semantic-id="0" data-semantic-speech="">
-                <use data-c="1D434" xlink:href="#MJX-4-TEX-I-1D434"/>
+                <use data-c="1D434" xlink:href="#law-of-cosines-MJX-4-TEX-I-1D434"/>
               </g>
             </g>
           </g>
         </svg>
       </g>
     </g>
-    <path d="M 564.8 196.1 A 30.0 30.0 0 0 0 542.7 225.0" stroke="black" stroke-width="2" fill="none"/>
+    <path stroke="black" stroke-width="2" fill="none" d="M 542.7 225.0 L 542.7 224.6 L 542.7 224.2 L 542.8 223.8 L 542.8 223.4 L 542.8 223.0 L 542.8 222.7 L 542.9 222.3 L 542.9 221.9 L 542.9 221.5 L 543.0 221.1 L 543.0 220.7 L 543.1 220.3 L 543.2 219.9 L 543.2 219.6 L 543.3 219.2 L 543.4 218.8 L 543.5 218.4 L 543.6 218.0 L 543.6 217.6 L 543.7 217.3 L 543.8 216.9 L 544.0 216.5 L 544.1 216.1 L 544.2 215.8 L 544.3 215.4 L 544.4 215.0 L 544.6 214.7 L 544.7 214.3 L 544.8 213.9 L 545.0 213.6 L 545.1 213.2 L 545.3 212.8 L 545.5 212.5 L 545.6 212.1 L 545.8 211.8 L 546.0 211.4 L 546.2 211.1 L 546.3 210.7 L 546.5 210.4 L 546.7 210.0 L 546.9 209.7 L 547.1 209.4 L 547.3 209.0 L 547.5 208.7 L 547.7 208.4 L 548.0 208.1 L 548.2 207.7 L 548.4 207.4 L 548.7 207.1 L 548.9 206.8 L 549.1 206.5 L 549.4 206.2 L 549.6 205.9 L 549.9 205.6 L 550.1 205.3 L 550.4 205.0 L 550.6 204.7 L 550.9 204.4 L 551.2 204.1 L 551.5 203.8 L 551.7 203.6 L 552.0 203.3 L 552.3 203.0 L 552.6 202.8 L 552.9 202.5 L 553.2 202.2 L 553.5 202.0 L 553.8 201.7 L 554.1 201.5 L 554.4 201.3 L 554.7 201.0 L 555.0 200.8 L 555.3 200.6 L 555.7 200.3 L 556.0 200.1 L 556.3 199.9 L 556.6 199.7 L 557.0 199.5 L 557.3 199.3 L 557.6 199.1 L 558.0 198.9 L 558.3 198.7 L 558.7 198.5 L 559.0 198.3 L 559.4 198.1 L 559.7 198.0 L 560.1 197.8 L 560.4 197.6 L 560.8 197.5 L 561.1 197.3 L 561.5 197.2 L 561.9 197.0 L 562.2 196.9 L 562.6 196.8 L 563.0 196.6 L 563.3 196.5 L 563.7 196.4 L 564.1 196.3 L 564.5 196.2 L 564.8 196.1"/>
   </g>
-  <g id="label-3" transform="translate(426.7,105.0) translate(0.0,-4.1)">
-    <g id="g-7">
+  <g id="law-of-cosines-label-3" transform="translate(426.7,105.0) translate(0.0,-4.1)">
+    <g id="law-of-cosines-g-6">
       <svg xmlns:xlink="http://www.w3.org/1999/xlink" style="vertical-align: -0.184px" width="9.576px" height="8.160px" role="img" focusable="false" viewBox="0 -441 529 451" x="0.0" y="0.0">
         <defs>
-          <path id="MJX-5-TEX-I-1D44E" d="M33 157Q33 258 109 349T280 441Q331 441 370 392Q386 422 416 422Q429 422 439 414T449 394Q449 381 412 234T374 68Q374 43 381 35T402 26Q411 27 422 35Q443 55 463 131Q469 151 473 152Q475 153 483 153H487Q506 153 506 144Q506 138 501 117T481 63T449 13Q436 0 417 -8Q409 -10 393 -10Q359 -10 336 5T306 36L300 51Q299 52 296 50Q294 48 292 46Q233 -10 172 -10Q117 -10 75 30T33 157ZM351 328Q351 334 346 350T323 385T277 405Q242 405 210 374T160 293Q131 214 119 129Q119 126 119 118T118 106Q118 61 136 44T179 26Q217 26 254 59T298 110Q300 114 325 217T351 328Z"/>
+          <path id="law-of-cosines-MJX-5-TEX-I-1D44E" d="M33 157Q33 258 109 349T280 441Q331 441 370 392Q386 422 416 422Q429 422 439 414T449 394Q449 381 412 234T374 68Q374 43 381 35T402 26Q411 27 422 35Q443 55 463 131Q469 151 473 152Q475 153 483 153H487Q506 153 506 144Q506 138 501 117T481 63T449 13Q436 0 417 -8Q409 -10 393 -10Q359 -10 336 5T306 36L300 51Q299 52 296 50Q294 48 292 46Q233 -10 172 -10Q117 -10 75 30T33 157ZM351 328Q351 334 346 350T323 385T277 405Q242 405 210 374T160 293Q131 214 119 129Q119 126 119 118T118 106Q118 61 136 44T179 26Q217 26 254 59T298 110Q300 114 325 217T351 328Z"/>
         </defs>
         <g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)">
           <g data-mml-node="math">
             <g data-mml-node="mi" data-semantic-type="identifier" data-semantic-role="latinletter" data-semantic-font="italic" data-semantic-id="0" data-semantic-speech="">
-              <use data-c="1D44E" xlink:href="#MJX-5-TEX-I-1D44E"/>
+              <use data-c="1D44E" xlink:href="#law-of-cosines-MJX-5-TEX-I-1D44E"/>
             </g>
           </g>
         </g>
       </svg>
     </g>
   </g>
-  <g id="label-4" transform="translate(463.6,229.0) translate(-3.9,-0.0)">
-    <g id="g-8">
+  <g id="law-of-cosines-label-4" transform="translate(463.6,229.0) translate(-3.9,-0.0)">
+    <g id="law-of-cosines-g-7">
       <svg xmlns:xlink="http://www.w3.org/1999/xlink" style="vertical-align: -0.200px" width="7.768px" height="12.760px" role="img" focusable="false" viewBox="0 -694 429 705" x="0.0" y="0.0">
         <defs>
-          <path id="MJX-6-TEX-I-1D44F" d="M73 647Q73 657 77 670T89 683Q90 683 161 688T234 694Q246 694 246 685T212 542Q204 508 195 472T180 418L176 399Q176 396 182 402Q231 442 283 442Q345 442 383 396T422 280Q422 169 343 79T173 -11Q123 -11 82 27T40 150V159Q40 180 48 217T97 414Q147 611 147 623T109 637Q104 637 101 637H96Q86 637 83 637T76 640T73 647ZM336 325V331Q336 405 275 405Q258 405 240 397T207 376T181 352T163 330L157 322L136 236Q114 150 114 114Q114 66 138 42Q154 26 178 26Q211 26 245 58Q270 81 285 114T318 219Q336 291 336 325Z"/>
+          <path id="law-of-cosines-MJX-6-TEX-I-1D44F" d="M73 647Q73 657 77 670T89 683Q90 683 161 688T234 694Q246 694 246 685T212 542Q204 508 195 472T180 418L176 399Q176 396 182 402Q231 442 283 442Q345 442 383 396T422 280Q422 169 343 79T173 -11Q123 -11 82 27T40 150V159Q40 180 48 217T97 414Q147 611 147 623T109 637Q104 637 101 637H96Q86 637 83 637T76 640T73 647ZM336 325V331Q336 405 275 405Q258 405 240 397T207 376T181 352T163 330L157 322L136 236Q114 150 114 114Q114 66 138 42Q154 26 178 26Q211 26 245 58Q270 81 285 114T318 219Q336 291 336 325Z"/>
         </defs>
         <g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)">
           <g data-mml-node="math">
             <g data-mml-node="mi" data-semantic-type="identifier" data-semantic-role="latinletter" data-semantic-font="italic" data-semantic-id="0" data-semantic-speech="">
-              <use data-c="1D44F" xlink:href="#MJX-6-TEX-I-1D44F"/>
+              <use data-c="1D44F" xlink:href="#law-of-cosines-MJX-6-TEX-I-1D44F"/>
             </g>
           </g>
         </g>
       </svg>
     </g>
   </g>
-  <g id="label-5" transform="translate(549.5,125.0) translate(0.0,-4.1)">
-    <g id="g-9">
+  <g id="law-of-cosines-label-5" transform="translate(549.5,125.0) translate(0.0,-4.1)">
+    <g id="law-of-cosines-g-8">
       <svg xmlns:xlink="http://www.w3.org/1999/xlink" style="vertical-align: -0.200px" width="7.840px" height="8.200px" role="img" focusable="false" viewBox="0 -442 433 453" x="0.0" y="0.0">
         <defs>
-          <path id="MJX-7-TEX-I-1D450" d="M34 159Q34 268 120 355T306 442Q362 442 394 418T427 355Q427 326 408 306T360 285Q341 285 330 295T319 325T330 359T352 380T366 386H367Q367 388 361 392T340 400T306 404Q276 404 249 390Q228 381 206 359Q162 315 142 235T121 119Q121 73 147 50Q169 26 205 26H209Q321 26 394 111Q403 121 406 121Q410 121 419 112T429 98T420 83T391 55T346 25T282 0T202 -11Q127 -11 81 37T34 159Z"/>
+          <path id="law-of-cosines-MJX-7-TEX-I-1D450" d="M34 159Q34 268 120 355T306 442Q362 442 394 418T427 355Q427 326 408 306T360 285Q341 285 330 295T319 325T330 359T352 380T366 386H367Q367 388 361 392T340 400T306 404Q276 404 249 390Q228 381 206 359Q162 315 142 235T121 119Q121 73 147 50Q169 26 205 26H209Q321 26 394 111Q403 121 406 121Q410 121 419 112T429 98T420 83T391 55T346 25T282 0T202 -11Q127 -11 81 37T34 159Z"/>
         </defs>
         <g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)">
           <g data-mml-node="math">
             <g data-mml-node="mi" data-semantic-type="identifier" data-semantic-role="latinletter" data-semantic-font="italic" data-semantic-id="0" data-semantic-speech="">
-              <use data-c="1D450" xlink:href="#MJX-7-TEX-I-1D450"/>
+              <use data-c="1D450" xlink:href="#law-of-cosines-MJX-7-TEX-I-1D450"/>
             </g>
           </g>
         </g>
       </svg>
     </g>
   </g>
-  <g id="label-6" transform="translate(514.2,125.0) translate(-10.4,-6.4)">
-    <g id="g-10">
+  <g id="law-of-cosines-label-6" transform="translate(514.2,125.0) translate(-10.4,-6.4)">
+    <g id="law-of-cosines-g-9">
       <svg xmlns:xlink="http://www.w3.org/1999/xlink" style="vertical-align: -0.200px" width="10.424px" height="12.760px" role="img" focusable="false" viewBox="0 -694 576 705" x="0.0" y="0.0">
         <defs>
-          <path id="MJX-8-TEX-I-210E" d="M137 683Q138 683 209 688T282 694Q294 694 294 685Q294 674 258 534Q220 386 220 383Q220 381 227 388Q288 442 357 442Q411 442 444 415T478 336Q478 285 440 178T402 50Q403 36 407 31T422 26Q450 26 474 56T513 138Q516 149 519 151T535 153Q555 153 555 145Q555 144 551 130Q535 71 500 33Q466 -10 419 -10H414Q367 -10 346 17T325 74Q325 90 361 192T398 345Q398 404 354 404H349Q266 404 205 306L198 293L164 158Q132 28 127 16Q114 -11 83 -11Q69 -11 59 -2T48 16Q48 30 121 320L195 616Q195 629 188 632T149 637H128Q122 643 122 645T124 664Q129 683 137 683Z"/>
+          <path id="law-of-cosines-MJX-8-TEX-I-210E" d="M137 683Q138 683 209 688T282 694Q294 694 294 685Q294 674 258 534Q220 386 220 383Q220 381 227 388Q288 442 357 442Q411 442 444 415T478 336Q478 285 440 178T402 50Q403 36 407 31T422 26Q450 26 474 56T513 138Q516 149 519 151T535 153Q555 153 555 145Q555 144 551 130Q535 71 500 33Q466 -10 419 -10H414Q367 -10 346 17T325 74Q325 90 361 192T398 345Q398 404 354 404H349Q266 404 205 306L198 293L164 158Q132 28 127 16Q114 -11 83 -11Q69 -11 59 -2T48 16Q48 30 121 320L195 616Q195 629 188 632T149 637H128Q122 643 122 645T124 664Q129 683 137 683Z"/>
         </defs>
         <g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)">
           <g data-mml-node="math">
             <g data-mml-node="mi" data-semantic-type="identifier" data-semantic-role="latinletter" data-semantic-font="italic" data-semantic-id="0" data-semantic-speech="">
-              <use data-c="210E" xlink:href="#MJX-8-TEX-I-210E"/>
+              <use data-c="210E" xlink:href="#law-of-cosines-MJX-8-TEX-I-210E"/>
             </g>
           </g>
         </g>
       </svg>
     </g>
   </g>
-  <line id="line-0" x1="518.2" y1="25.0" x2="518.2" y2="225.0" stroke="black" stroke-width="2" stroke-dasharray="5 5 5" fill="none"/>
-  <path id="path-4" d="M 518.2 205.0 L 498.2 205.0 L 498.2 225.0" stroke="black" stroke-width="2" fill="none"/>
+  <line id="law-of-cosines-line-0" x1="518.2" y1="25.0" x2="518.2" y2="225.0" stroke="black" stroke-width="2" stroke-dasharray="5 5 5" fill="none"/>
+  <path id="law-of-cosines-path-4" stroke="black" stroke-width="2" fill="none" d="M 518.2 205.0 L 498.2 205.0 L 498.2 225.0"/>
 </svg>
