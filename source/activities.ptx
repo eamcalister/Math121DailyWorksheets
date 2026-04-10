@@ -90,6 +90,11 @@
     <xi:include href="./activities/Week12/WedWeek12_PolyZeros.ptx"/>
     </section>
 
+    <section>
+    <title>Week 13</title>
+    <xi:include href="./activities/Week13/MonWeek13_IntroRational.ptx"/>
+    </section>
+
 
     <!-- Add more xi:include files here to include them in the main course -->
   </article>

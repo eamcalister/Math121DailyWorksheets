@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <!-- When creating a new activity, make a copy of this file with appropriate name -->
+        <handout margin="1in" bottom="1.25cm" xml:id="Week13Mon">
+            <title>Monday Week 13 - Introduction to Polynomials</title>
+<page>
+        <objectives>
+          <ul>
+            <li>
+                <p>
+                    Define rational functions and determine if given functions satisfy the definition.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Determine the long-run behavior of rational functions.
+                </p>
+            </li>
+          </ul>
+        </objectives>
+            <introduction>
+                <p>
+                    The last family of functions we study is the family of rational functions. These functions can have very interesting behavior and will be a perfect way to introduce a fundamental concept in Calculus, <em>limits</em>. 
+                </p>
+            </introduction>
+
+<definition><title>Rational Function</title>
+    <statement>
+        <p workspace="1in">
+           A <term>rational function</term> is a function of the form...
+        </p>
+    </statement>
+</definition>
+
+
+<paragraphs>
+    <title>Definition Problems</title>
+<p>
+    
+</p>
+<p>
+    For each of the following functions:
+    <ol>
+        <li>
+            <p>
+                Decide if the function is a rational function.
+            </p>
+        </li>
+        <li>
+            <p>
+                If the given function is not already in explicit rational form, do algebra to express it as a single fraction in the form <m>\frac{p(x)}{q(x)}</m>
+            </p>
+        </li>
+    </ol>
+</p>
+<ol>
+    <li>
+        <p workspace="1in">
+           <m>f(x) = \frac{3x^2-1}{4x^6 - 2x +4}</m>
+        </p>
+    </li>
+    <li>
+        <p workspace="1in">
+            <m>g(x) = \frac{1}{x-1} + \frac{2}{x-3} - 3</m>
+        </p>
+    </li>
+    <li>
+        <p workspace="1in">
+            <m>h(x) = \frac{x^2 - 3}{\sqrt{9x^4 + x^2 + 1}}</m>
+        </p>
+    </li>
+    <li>
+        <p workspace="1in">
+            <m>k(x) = \frac{e^x}{e^{2x} + 1}</m>
+        </p>
+    </li>
+
+</ol>
+
+</paragraphs>   
+
+
+
+</page>
+
+<page>
+
+<example>
+    <statement>
+        <p workspace="2in">
+            Determine the long-run behavior (as <m>x\to\pm\infty</m>) of the function
+            <md>
+                f(x) = \frac{(1-x)(2+3x)}{2x^2 + 1}.
+            </md>
+        </p>
+    </statement>
+</example>
+
+<p>
+    <em>Trick:</em> Factor out the highest power of <m>x</m> in the numerator and denominator so that you can see the long run behavior.
+</p>
+
+<paragraphs>
+    <title>More Long-Run Behavior</title>
+<p>
+    Find the long-run behavior of the following functions: 
+</p>   
+<ol>
+    <li>
+        <p workspace="1in">
+            <m>
+                g(x) = \frac{-3x^3 + x + 2}{2x^2 + 1}
+            </m>
+        </p>
+    </li>
+    <li>
+        <p workspace="1in">
+            <m>
+                h(x) = \frac{-3x^3 + x + 2}{2x^4 + 1}
+            </m>
+        </p>
+    </li>
+</ol>
+
+
+</paragraphs>    
+
+
+</page>
+
+<page>
+<p workspace="1.5in">
+    <em>Short Cuts with Degrees:</em>
+</p>
+
+<paragraphs>
+    <title>Graph Matching</title>
+    <p>
+        Match each of the following formulas to its graph. Be sure you can explain your answers.
+    </p>
+
+</page>
+
+        
+
+</handout>
