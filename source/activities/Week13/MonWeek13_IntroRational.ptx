@@ -2,7 +2,7 @@
 
     <!-- When creating a new activity, make a copy of this file with appropriate name -->
         <handout margin="1in" bottom="1.25cm" xml:id="Week13Mon">
-            <title>Monday Week 13 - Introduction to Polynomials</title>
+            <title>Monday Week 13 - Introduction to Rational Functions</title>
 <page>
         <objectives>
           <ul>
@@ -137,9 +137,67 @@
     <title>Graph Matching</title>
     <p>
         Match each of the following formulas to its graph. Be sure you can explain your answers.
+    <md>
+        y = -\frac{3x^2+1}{x^2+1},\ \ y = \frac{(x-1)}{(x+3)(x-2)},\ \ y = \frac{x^3-1}{x^2+1},\ \ y= \frac{3x-4}{x-1} 
+    </md>
+    
     </p>
 
+<sidebyside>
+    <image>
+<prefigure  label="rat1" xmlns="https://prefigure.org">
+<diagram dimensions="(300,300)" margins="(50,50,50,50)">
+  <definition>f(x)=(x-1)/((x+3)*(x-2))</definition>
+  <definition>g(x)=(x-1)/((x+3)*(x-2))</definition>
+  <definition>h(x)=(x-1)/((x+3)*(x-2))</definition>
+  <coordinates bbox="(-15,-3,15,3)">
+    <grid-axes xlabel="x" ylabel="y"/>
+    <graph function="f" domain="(-15,-2.99)"/>
+    <graph function="g" domain="(-3.01,1.99)"/>
+    <graph function="h" domain="(2.01,15)"/>
+  </coordinates>
+</diagram>
+</prefigure>
+</image> 
+    <image>
+<prefigure  label="rat2" xmlns="https://prefigure.org">
+<diagram dimensions="(300,300)" margins="(50,50,50,50)">
+  <definition>f(x)=(3*x-4)/(x-1)</definition>
+  <coordinates bbox="(-10,-7,10,7)">
+    <grid-axes xlabel="x" ylabel="y"/>
+    <graph function="f"/>
+  </coordinates>
+</diagram>
+</prefigure>
+</image> 
+</sidebyside>
 
+        <sidebyside>
+    <image>
+<prefigure  label="rat3"  xmlns="https://prefigure.org">
+<diagram dimensions="(300,300)" margins="(50,50,50,50)">
+  <definition>f(x)=-(3*x^2+1)/(x^2+1)</definition>
+  <coordinates bbox="(-10,-3,10,3)">
+    <grid-axes xlabel="x" ylabel="y"/>
+    <graph function="f"/>
+  </coordinates>
+</diagram>
+</prefigure>
+</image> 
+    <image>
+<prefigure  label="rat4"  xmlns="https://prefigure.org">
+<diagram dimensions="(300,300)" margins="(50,50,50,50)">
+  <definition>f(x)=(x^3-1)/(x^2+1)</definition>
+  <coordinates bbox="(-4,-4,4,4)">
+    <grid-axes xlabel="x" ylabel="y"/>
+    <graph function="f"/>
+  </coordinates>
+</diagram>
+</prefigure>
+</image> 
+    </sidebyside>
+
+</paragraphs>
 
 </page>
 
