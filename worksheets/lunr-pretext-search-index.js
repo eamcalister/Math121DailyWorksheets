@@ -1141,7 +1141,7 @@ var ptx_lunr_docs = [
   "type": "Handout",
   "number": "12.2",
   "title": "Wednesday Week 12 - Zeros of Polynomials",
-  "body": " Wednesday Week 12 - Zeros of Polynomials      Use the factored form of a polynomial to determine its zeros.    Graph polynomials, with reasonable accuracy, using the factored form.  Determine polynomials from a graph using the factored form.      What you're doing.   Factored Form of a Polynomial   A polynomial is in factored form if it is written in the form...    According to the zero factors theorem, the -intercepts of a polynomial are determined by the factors as follows:   Finding Zeros  Find the zeros of the following polynomials                  Graphing Polynomials   To draw a reasonable graph of a polynomial, proceed as follows:    Determine the end behavior using the leading term. This will give you the rough shape.    Determine the -intercept using the constant coefficient and\/or evaluating at .    Determine the zeros from the factored form (this can be difficult to impossible, but you try).    Determine the sign of the output for each part of the domain determined by the zeros (we'll do this in the first example below).      Graphing Examples:    Graph     Graph        Notice that when a factor is raised to an even power, the graph just touches the horizontal axis rather than corssing it.   Finding a Formula  Now we can use these ideas to find formulas from graphs in a way similar to what we have done with some other familes of functions.  Find a formula for function whose graph is shown below:     f(x)=-0.25*(x+2)^2*(x-2)*(x-3)        (-1,-3)             "
+  "body": " Wednesday Week 12 - Zeros of Polynomials      Use the factored form of a polynomial to determine its zeros.    Graph polynomials, with reasonable accuracy, using the factored form.  Determine polynomials from a graph using the factored form.     Factored Form of a Polynomial   A polynomial is in factored form if it is written in the form...    According to the zero factors theorem, the -intercepts of a polynomial are determined by the factors as follows:   Finding Zeros  Find the zeros of the following polynomials                  Graphing Polynomials   To draw a reasonable graph of a polynomial, proceed as follows:    Determine the end behavior using the leading term. This will give you the rough shape.    Determine the -intercept using the constant coefficient and\/or evaluating at .    Determine the zeros from the factored form (this can be difficult to impossible, but you try).    Determine the sign of the output for each part of the domain determined by the zeros (we'll do this in the first example below).      Graphing Examples:    Graph     Graph        Notice that when a factor is raised to an even power, the graph just touches the horizontal axis rather than corssing it.   Finding a Formula  Now we can use these ideas to find formulas from graphs in a way similar to what we have done with some other familes of functions.  Find a formula for function whose graph is shown below:     f(x)=-0.25*(x+2)^2*(x-2)*(x-3)        (-1,-3)             "
 },
 {
   "id": "Week12Wed-2-1",
@@ -1153,13 +1153,157 @@ var ptx_lunr_docs = [
   "body": "   Use the factored form of a polynomial to determine its zeros.    Graph polynomials, with reasonable accuracy, using the factored form.  Determine polynomials from a graph using the factored form.    "
 },
 {
-  "id": "Week12Wed-2-3",
+  "id": "Week12Wed-2-2",
   "level": "2",
-  "url": "Week12Wed.html#Week12Wed-2-3",
+  "url": "Week12Wed.html#Week12Wed-2-2",
   "type": "Definition",
   "number": "12.2",
   "title": "Factored Form of a Polynomial.",
   "body": "Factored Form of a Polynomial   A polynomial is in factored form if it is written in the form...   "
+},
+{
+  "id": "Week13Mon",
+  "level": "1",
+  "url": "Week13Mon.html",
+  "type": "Handout",
+  "number": "13.1",
+  "title": "Monday Week 13 - Introduction to Rational Functions",
+  "body": " Monday Week 13 - Introduction to Rational Functions      Define rational functions and determine if given functions satisfy the definition.    Determine the long-run behavior of rational functions.      The last family of functions we study is the family of rational functions. These functions can have very interesting behavior and will be a perfect way to introduce a fundamental concept in Calculus, limits .   Rational Function   A rational function is a function of the form...     Definition Problems    For each of the following functions:   Decide if the function is a rational function.    If the given function is not already in explicit rational form, do algebra to express it as a single fraction in the form                                 Determine the long-run behavior (as ) of the function      Trick: Factor out the highest power of in the numerator and denominator so that you can see the long run behavior.   More Long-Run Behavior  Find the long-run behavior of the following functions:                  Short Cuts with Degrees:    Graph Matching  Match each of the following formulas to its graph. Be sure you can explain your answers.       f(x)=(x-1)\/((x+3)*(x-2))  g(x)=(x-1)\/((x+3)*(x-2))  h(x)=(x-1)\/((x+3)*(x-2))              f(x)=(3*x-4)\/(x-1)              f(x)=-(3*x^2+1)\/(x^2+1)            f(x)=(x^3-1)\/(x^2+1)            "
+},
+{
+  "id": "Week13Mon-2-1",
+  "level": "2",
+  "url": "Week13Mon.html#Week13Mon-2-1",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   Define rational functions and determine if given functions satisfy the definition.    Determine the long-run behavior of rational functions.    "
+},
+{
+  "id": "Week13Mon-2-3",
+  "level": "2",
+  "url": "Week13Mon.html#Week13Mon-2-3",
+  "type": "Definition",
+  "number": "13.1",
+  "title": "Rational Function.",
+  "body": "Rational Function   A rational function is a function of the form...   "
+},
+{
+  "id": "Week13Mon-3-1",
+  "level": "2",
+  "url": "Week13Mon.html#Week13Mon-3-1",
+  "type": "Example",
+  "number": "13.2",
+  "title": "",
+  "body": "  Determine the long-run behavior (as ) of the function    "
+},
+{
+  "id": "Week13Wed",
+  "level": "1",
+  "url": "Week13Wed.html",
+  "type": "Handout",
+  "number": "13.2",
+  "title": "Wednesday Week 13 - Local Behavior of Rational Functions",
+  "body": " Wednesday Week 13 - Local Behavior of Rational Functions      Determine the zeros and -intercepts of a rational function.    Graph rational functions, with reasonable accuracy, using the factored forms of numerators and denominators.  Determine the formula for a rational function from a graph.      Zeros and Vertical Asymptotes of Rational Functions  Consider a rational function     To find the zeros of ...    To find the vertical asymptotes of ...     Note: If the numerator and denominator of a rational function are simultaneously zero, there may be a vertical asymptote or a hole in the graph.    Graphing Rational Functions   To draw a reasonable graph of a rational function, proceed as follows:    Determine the end behavior using the degrees of the numerator and denominator.    Determine the -intercept using the constant coefficient and\/or evaluating at .    Determine the zeros and vertical asymptotes.    Determine the sign of the output for each part of the domain determined by the zeros and vertical asymptotes (similar to how we did it with polynomials).        Graphing Examples:    Graph     Graph         Finding a Formula  Now we can use these ideas to find formulas from graphs in a way similar to what we have done with some other familes of functions.  Find a formula for function whose graph is shown below:     f(x)=2*(x+3)*(x-1)\/((x+2)^2)  g(x)=2  h(x,y) = x        (-3,0)    (0,-1.5)    (1,0)         "
+},
+{
+  "id": "Week13Wed-2-1",
+  "level": "2",
+  "url": "Week13Wed.html#Week13Wed-2-1",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   Determine the zeros and -intercepts of a rational function.    Graph rational functions, with reasonable accuracy, using the factored forms of numerators and denominators.  Determine the formula for a rational function from a graph.    "
+},
+{
+  "id": "Week13Fro",
+  "level": "1",
+  "url": "Week13Fro.html",
+  "type": "Handout",
+  "number": "13.3",
+  "title": "Friday Week 13 - Comparing Families of Functions",
+  "body": " Friday Week 13 - Comparing Families of Functions      Review the families of functions we know.    Compare methods of finding formulas for linear, exponential, and power functions.    Give rules of long run domination for power, exponential, and logarithmic function families.      We have studied many familes of functions in this class. Now it is time to review them and in doing so, compare them.    Warm-up Question  For each of the following familes, write down the general algebraic form of a member of the given family and sketch a (small and rough) generic graph.     Linear      Quadratic      Exponential      Logarithms      Sinusoidal      Power      Polynomial      Rational         Formulas in Two-Parameter Families  Find a formula for a function of the given type whose graph passes through the points and .    Assume is a linear function.    Assume is a power function.    Assume is an exponential function.    Which of these functions is larger in the long run, as ?    Domination Rules  The following are true (and are fully justified in Calculus).   Exponential functions with growth factor greater than one dominate all power functions and polynomials as .    Power functions with positive exponent dominate all logarithms as .         Function Identification from Data  Data from four functions are in the following tables. One function is linear, one is logarithmic, and the other two are power functions (one cubic and one quadratic). Find a formula for each function, and explain how you made your choices.                                                     "
+},
+{
+  "id": "Week13Fro-2-1",
+  "level": "2",
+  "url": "Week13Fro.html#Week13Fro-2-1",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   Review the families of functions we know.    Compare methods of finding formulas for linear, exponential, and power functions.    Give rules of long run domination for power, exponential, and logarithmic function families.    "
+},
+{
+  "id": "Week13Fro-2-3-3-1-1",
+  "level": "2",
+  "url": "Week13Fro.html#Week13Fro-2-3-3-1-1",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Linear "
+},
+{
+  "id": "Week13Fro-2-3-3-2-1",
+  "level": "2",
+  "url": "Week13Fro.html#Week13Fro-2-3-3-2-1",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Quadratic "
+},
+{
+  "id": "Week13Fro-2-3-3-3-1",
+  "level": "2",
+  "url": "Week13Fro.html#Week13Fro-2-3-3-3-1",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Exponential "
+},
+{
+  "id": "Week13Fro-2-3-3-4-1",
+  "level": "2",
+  "url": "Week13Fro.html#Week13Fro-2-3-3-4-1",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Logarithms "
+},
+{
+  "id": "Week13Fro-2-3-3-5-1",
+  "level": "2",
+  "url": "Week13Fro.html#Week13Fro-2-3-3-5-1",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Sinusoidal "
+},
+{
+  "id": "Week13Fro-2-3-3-6-1",
+  "level": "2",
+  "url": "Week13Fro.html#Week13Fro-2-3-3-6-1",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Power "
+},
+{
+  "id": "Week13Fro-2-3-3-7-1",
+  "level": "2",
+  "url": "Week13Fro.html#Week13Fro-2-3-3-7-1",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Polynomial "
+},
+{
+  "id": "Week13Fro-2-3-3-8-1",
+  "level": "2",
+  "url": "Week13Fro.html#Week13Fro-2-3-3-8-1",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Rational "
 }
 ]
 
