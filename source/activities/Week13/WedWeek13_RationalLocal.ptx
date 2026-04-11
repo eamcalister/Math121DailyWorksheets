@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <!-- When creating a new activity, make a copy of this file with appropriate name -->
+        <handout margin="1in" bottom="1.25cm" xml:id="Week13Wed">
+            <title>Wednesday Week 13 - Local Behavior of Rational Functions</title>
+<page>
+        <objectives>
+          <ul>
+            <li>
+                <p>
+                    Determine the zeros and <m>x</m>-intercepts of a rational function.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Graph rational functions, with reasonable accuracy, using the factored forms of numerators and denominators.
+                </p>
+                <p>
+                    Determine the formula for a rational function from a graph.
+                </p>
+            </li>
+          </ul>
+        </objectives>
+
+
+<paragraphs>
+    <title>Zeros and Vertical Asymptotes of Rational Functions</title>
+    <p>
+      Consider a rational function 
+      <md>
+      r(x) = \frac{p(x)}{q(x)}  
+      </md>
+    </p>
+    <ul>
+        <li>
+            <p workspace="0.5in">
+                To find the zeros of <m>r</m>...
+            </p>
+        </li>
+        <li>
+            <p workspace="0.5in">
+                To find the vertical asymptotes of <m>r</m>...
+            </p>
+        </li>
+    </ul>
+    <p>
+        <em>Note:</em> If the numerator and denominator of a rational function are simultaneously zero, there may be a vertical asymptote or a hole in the graph.
+    </p>
+</paragraphs>
+
+<paragraphs>
+    <title>Graphing Rational Functions</title>
+<p></p>
+<p>
+    To draw a reasonable graph of a rational function, proceed as follows:
+</p>
+<ol>
+    <li>
+        <p>
+            Determine the end behavior using the degrees of the numerator and denominator.
+        </p>
+    </li>
+    <li>
+        <p>
+           Determine the <m>y</m>-intercept using the constant coefficient and/or evaluating at <m>x=0</m>. 
+        </p>
+    </li>
+    <li>
+        <p>
+            Determine the zeros and vertical asymptotes.
+        </p>
+    </li>
+    <li>
+        <p>
+            Determine the sign of the output for each part of the domain determined by the zeros  and vertical asymptotes (similar to how we did it with polynomials).
+        </p>
+    </li>
+</ol>
+</paragraphs>   
+
+</page>
+<page>
+
+<paragraphs>
+    <title>Graphing Examples:</title>
+    <ol>
+        <li>
+            <p workspace="3.5in">
+                Graph <m>f(x) = \frac{(x+4)(x+6)}{(x-1)^2}</m>
+            </p>
+        </li>
+        <li>
+            <p workspace="3.5in">
+                Graph <m>g(x) = \frac{1}{x-3} + \frac{1}{x-5}</m>
+            </p>
+        </li>
+    </ol>
+</paragraphs>
+
+
+
+</page>
+<page>
+
+<paragraphs>
+    <title>Finding a Formula</title>
+    <p>
+        Now we can use these ideas to find formulas from graphs in a way similar to what we have done with some other familes of functions. 
+    </p>
+    <p>
+        Find a formula for function whose graph is shown below:
+    </p>
+        <image>
+<prefigure label="rational-formula" xmlns="https://prefigure.org">
+<diagram dimensions="(400,400)" margins="(100,5,100,5)">
+  <definition>f(x)=2*(x+3)*(x-1)/((x+2)^2)</definition>
+  <definition>g(x)=2</definition>
+    <definition>h(x,y) = x </definition>
+  <coordinates bbox="(-8,-8,8,8)">
+    <grid-axes xlabel="x" ylabel="y" spacings="(-8,1,8),(-8,1,8)"/>
+    <graph function="f"/>
+    <graph function="g" stroke="red"/>
+    <implicit-curve function="h" k="-2" dash="5,5" stroke="red" />
+    <point at="point" p="(-3,0)" alignment="nw">
+      <m>(-3,0)</m>
+    </point>
+    <point at="point" p="(0,-1.5)" alignment="e">
+      <m>(0,-1.5)</m>
+    </point>
+    <point at="point" p="(1,0)" alignment="n">
+            <m>(1,0)</m>
+    </point>
+  </coordinates>
+</diagram>
+</prefigure>
+</image> 
+</paragraphs>
+
+</page>
+
+        
+
+</handout>
