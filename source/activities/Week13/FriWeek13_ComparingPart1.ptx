@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <!-- When creating a new activity, make a copy of this file with appropriate name -->
+        <handout margin="1in" bottom="1.25cm" xml:id="Week13Fro">
+            <title>Friday Week 13 - Comparing Families of Functions</title>
+<page>
+        <objectives>
+          <ul>
+            <li>
+                <p>
+                    Review the families of functions we know.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Compare methods of finding formulas for linear, exponential, and power functions.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Give rules of long run domination for power, exponential, and logarithmic function families.
+                </p>
+            </li>
+          </ul>
+        </objectives>
+            <introduction>
+                <p>
+                    We have studied many familes of functions in this class. Now it is time to review them and in doing so, compare them.
+                </p>
+            </introduction>
+
+<paragraphs>
+    <title>Warm-up Question</title>
+        <p>
+            For each of the following familes, write down the general algebraic form of a member of the given family and sketch a (small and rough) generic graph.
+        </p>
+        <ul>
+            <li>
+                <p workspace="0.5in">
+                    <term>Linear</term>
+                </p>
+            </li>
+            <li>
+                <p workspace="0.5in">
+                    <term>Quadratic</term>
+                </p>
+            </li>
+            <li>
+                <p workspace="0.5in">
+                    <term>Exponential</term>
+                </p>
+            </li>
+            <li>
+                <p workspace="0.5in">
+                    <term>Logarithms</term>
+                </p>
+            </li>
+            <li>
+                <p workspace="0.5in">
+                    <term>Sinusoidal</term>
+                </p>
+            </li>
+            <li>
+                <p workspace="0.5in">
+                    <term>Power</term>
+                </p>
+            </li>
+            <li>
+                <p workspace="0.5in">
+                    <term>Polynomial</term>
+                </p>
+            </li>
+            <li>
+                <p workspace="0.5in">
+                    <term>Rational</term>
+                </p>
+            </li>
+        
+        </ul>
+
+    </paragraphs>
+
+</page>
+
+<page>
+
+<paragraphs>
+    <title>Formulas in Two-Parameter Families</title>
+<p>
+    Find a formula for a function of the given type whose graph passes through the points <m>(1,18)</m> and <m>(3,1458)</m>.
+</p>
+<ol>
+    <li>
+        <p workspace="2in">
+           Assume <m>f</m> is a linear function.
+        </p>
+    </li>
+    <li>
+        <p workspace="2in">
+            Assume <m>f</m> is a power function.
+        </p>
+    </li>
+    <li>
+        <p workspace="2in">
+            Assume <m>f</m> is an exponential function.
+        </p>
+    </li>
+</ol>
+<p>
+    Which of these functions is larger in the long run, as <m>x\to \infty</m>?
+</p>
+
+</paragraphs>   
+
+<paragraphs>
+    <title>Domination Rules</title>
+    <p>
+        The following are true (and are fully justified in Calculus).
+        <ul>
+            <li>
+                <p>
+                    Exponential functions with growth factor greater than one dominate all power functions and polynomials as <m>x\to\infty</m>.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Power functions with positive exponent dominate all logarithms as <m>x\to\infty</m>. 
+                </p>
+            </li>
+        </ul>
+    </p>
+
+</paragraphs>
+
+
+</page>
+
+<page>
+<paragraphs>
+    <title>Function Identification from Data</title>
+    <p>
+        Data from four functions are in the following tables. One function is linear, one is logarithmic, and the other two are power functions (one cubic and one quadratic). Find a formula for each function, and explain how you made your choices.
+    </p>
+
+    <tabular>
+        <row bottom = "major">
+            <cell> <m>x</m> </cell><cell><m>1.8</m></cell><cell><m>2.2</m></cell><cell><m>2.6</m></cell><cell><m>3.0</m></cell><cell><m>3.4</m></cell>
+        </row>
+        <row>
+            <cell><m>j(x)</m></cell><cell><m>1.75</m></cell><cell><m>3.19</m></cell><cell><m>5.27</m></cell><cell><m>8.10</m></cell><cell><m>11.79</m></cell>
+        </row>
+    </tabular>
+    <p workspace="1in">
+    </p>
+    
+    <tabular>
+        <row bottom = "major">
+            <cell> <m>x</m> </cell><cell><m>2.8</m></cell><cell><m>3.0</m></cell><cell><m>3.2</m></cell><cell><m>3.4</m></cell><cell><m>3.6</m></cell>
+        </row>
+        <row>
+            <cell><m>k(x)</m> </cell><cell><m>0.36</m></cell><cell><m>0.60</m></cell><cell><m>0.84</m></cell><cell><m>1.08</m></cell><cell><m>1.32</m></cell>
+        </row>
+    </tabular>
+    <p workspace="1in">
+    </p>
+    
+    <tabular>
+        <row bottom = "major">
+            <cell> <m>x</m></cell><cell><m>0.2</m></cell><cell><m>0.6</m></cell><cell><m>1.0</m></cell><cell><m>1.4</m></cell><cell><m>1.8</m></cell>
+        </row>
+        <row>
+            <cell><m>m(x)</m> </cell><cell><m>-0.699</m></cell><cell><m>-0.222</m></cell><cell><m>0</m></cell><cell><m>0.146</m></cell><cell><m>0.255</m></cell>
+        </row>
+    </tabular>
+    <p workspace="1in">
+    </p>
+    
+    <tabular>
+        <row bottom = "major">
+            <cell> <m>x</m></cell><cell><m>-4</m></cell><cell><m>-2</m></cell><cell><m>0</m></cell><cell><m>2</m></cell><cell><m>4</m></cell>
+        </row>
+        <row>
+            <cell><m>z(x)</m> </cell><cell><m>6.4</m></cell><cell><m>1.6</m></cell><cell><m>0</m></cell><cell><m>1.6</m></cell><cell><m>6.4</m></cell>
+        </row>
+    </tabular>
+    <p workspace="1in">
+    </p>
+</paragraphs>
+
+
+</page>
+
+        
+
+</handout>
