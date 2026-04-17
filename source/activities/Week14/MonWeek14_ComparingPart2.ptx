@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <!-- When creating a new activity, make a copy of this file with appropriate name -->
+        <handout margin="1in" bottom="1.25cm" xml:id="Week14Mon">
+            <title>Monday Week 14 - Comparing Function Families Part II</title>
+<page>
+        <objectives>
+          <ul>
+            <li>
+                <p>
+                    Summarize end behavior of families of functions we have studied.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Examine the concept of domination between different function types.
+                </p>
+            </li>
+          </ul>
+        </objectives>
+
+<example>
+    <statement><title>Warm-up Question</title>
+        <p>
+            For each of the following families of functions, give conditions under which <m>\lim\limits_{x\to\infty} f(x) = +\infty</m>.
+        </p>
+                <ul>
+            <li>
+                <p workspace="0.5in">
+                    <term>Linear</term>
+                </p>
+            </li>
+            <li>
+                <p workspace="0.5in">
+                    <term>Quadratic</term>
+                </p>
+            </li>
+            <li>
+                <p workspace="0.5in">
+                    <term>Exponential</term>
+                </p>
+            </li>
+            <li>
+                <p workspace="0.5in">
+                    <term>Power</term>
+                </p>
+            </li>
+            <li>
+                <p workspace="0.5in">
+                    <term>Polynomial</term>
+                </p>
+            </li>
+            <li>
+                <p workspace="0.5in">
+                    <term>Rational</term>
+                </p>
+            </li>
+        
+        </ul>
+    </statement>
+
+</example>
+
+</page>
+<page>
+<paragraphs>
+    <title>Function Domination</title>
+    <p> 
+    Which function dominates (has larger <m>y</m>-values) as <m>x\to\infty</m>. To answer, find a value of <m>x</m> for which the dominant function is larger and make an argument that it will remain larger after that <m>x</m>-value.
+    </p>
+    <ol>
+        <li>
+            <p workspace="2in">
+               <m>y = 100x^3</m> and <m>y = x^4</m> 
+            </p>
+        </li>
+        <li>
+            <p workspace="2in">
+               <m>y = 2^x</m> and <m>y = x^2</m> 
+            </p>
+        </li>
+        <li>
+            <p workspace="2in">
+               <m>y = 0.1x</m> and <m>y = \log(x)</m> 
+            </p>
+        </li>
+    </ol>
+</paragraphs>
+
+</page>
+<page>
+<paragraphs>
+    <title>Summary of Domination Rules</title>
+    <p>
+        The following are true (and are fully justified in Calculus).
+        <ul>
+            <li>
+                <p>
+                    Exponential functions with growth factor greater than one dominate all power functions and polynomials as <m>x\to\infty</m>.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Power functions with positive exponent dominate all logarithms as <m>x\to\infty</m>. 
+                </p>
+            </li>
+        </ul>
+    </p>
+
+</paragraphs>
+
+<paragraphs>
+    <title>Long-Run Behavior and Domination</title>
+<p>
+    
+</p>
+<ol>
+    <li>
+        <p workspace="1.5in">
+           <m>f(x) = \frac{5-t^2}{(7+\sqrt{t})t^4}</m>
+        </p>
+    </li>
+    <li>
+        <p workspace="1.5in">
+            <m>g(x) = \frac{2^x + 3}{x^2 + 30}</m>
+        </p>
+    </li>
+    <li>
+        <p workspace="1.5in">
+            <m>h(x) = \frac{\ln(x)}{3x-7}</m>
+        </p>
+    </li>
+
+</ol>
+
+</paragraphs>   
+
+
+
+</page>
+
+        
+
+</handout>

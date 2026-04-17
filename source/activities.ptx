@@ -97,6 +97,11 @@
     <xi:include href="./activities/Week13/FriWeek13_ComparingPart1.ptx"/>
     </section>
 
+    <section>
+    <title>Week 14</title>
+    <xi:include href="./activities/Week14/MonWeek14_ComparingPart2.ptx"/>
+    </section>
+
 
     <!-- Add more xi:include files here to include them in the main course -->
   </article>
