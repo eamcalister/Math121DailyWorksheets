@@ -27,7 +27,7 @@
                 <p>
                     One of the fundamental problems in Calculus is to determine the limit as <m>x\to\infty</m> of a function of the form
                     <md>
-                        f(x) = \frac{p(x)}{q(x)}),
+                        f(x) = \frac{p(x)}{q(x)},
                     </md>
                     where either
                     <ul>
@@ -63,8 +63,11 @@
             </p>
         </li>
     </ol>
-    We illustrate the second idea in the following examples.
 </paragraphs>
+
+<example>
+    
+</example>
 
 </page>
 <page>
@@ -75,7 +78,7 @@
 
     <statement>
         <p>
-            find the following limits with algebra.
+            Find the following limits with algebra.
         </p>
         <ol>
             <li>
