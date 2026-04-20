@@ -1304,6 +1304,33 @@ var ptx_lunr_docs = [
   "number": "",
   "title": "",
   "body": "Rational "
+},
+{
+  "id": "Week14Mon",
+  "level": "1",
+  "url": "Week14Mon.html",
+  "type": "Handout",
+  "number": "14.1",
+  "title": "Monday Week 14 - Comparing Function Families Part II",
+  "body": " Monday Week 14 - Comparing Function Families Part II      Summarize end behavior of families of functions we have studied.    Examine the concept of domination between different function types.      Warm-up Question  For each of the following families of functions, give conditions under which .     Linear      Quadratic      Exponential      Power      Polynomial      Rational          Function Domination  Which function dominates (has larger -values) as . To answer, find a value of for which the dominant function is larger and make an argument that it will remain larger after that -value.     and      and      and         Summary of Domination Rules  The following are true (and are fully justified in Calculus).   Exponential functions with growth factor greater than one dominate all power functions and polynomials as .    Power functions with positive exponent dominate all logarithms as .       Long-Run Behavior and Domination                       "
+},
+{
+  "id": "Week14Mon-2-1",
+  "level": "2",
+  "url": "Week14Mon.html#Week14Mon-2-1",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   Summarize end behavior of families of functions we have studied.    Examine the concept of domination between different function types.    "
+},
+{
+  "id": "Week14Mon-2-2",
+  "level": "2",
+  "url": "Week14Mon.html#Week14Mon-2-2",
+  "type": "Example",
+  "number": "14.1",
+  "title": "",
+  "body": " Warm-up Question  For each of the following families of functions, give conditions under which .     Linear      Quadratic      Exponential      Power      Polynomial      Rational      "
 }
 ]
 
