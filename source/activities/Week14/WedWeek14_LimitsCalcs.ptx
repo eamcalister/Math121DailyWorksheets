@@ -66,6 +66,13 @@
 </paragraphs>
 
 <example>
+    <p>
+        Find
+        <md>
+            \lim_{x\to 1} \frac{x^2-1}{x^2+4x-5}
+        </md>
+        
+    </p>
     
 </example>
 
