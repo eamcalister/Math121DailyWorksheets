@@ -1331,6 +1331,42 @@ var ptx_lunr_docs = [
   "number": "14.1",
   "title": "",
   "body": " Warm-up Question  For each of the following families of functions, give conditions under which .     Linear      Quadratic      Exponential      Power      Polynomial      Rational      "
+},
+{
+  "id": "Week14Wed",
+  "level": "1",
+  "url": "Week14Wed.html",
+  "type": "Handout",
+  "number": "14.2",
+  "title": "Wednesday Week 14 - Limit Calculations and Applications",
+  "body": " Wednesday Week 14 - Limit Calculations and Applications      Understand function domination formally in terms of limits.    Calculate limits at infinity using algebra and numerical reasoning.    See how limits are used in justifying a familiar formula.      One of the fundamental problems in Calculus is to determine the limit as of a function of the form where either    and , or     and .   The first situation answers which of the numerator or denominator dominates. The second situation has other applications (see below). (We also work with limits as approaches finite values.)    Strategy for Approching Limits  In order to evaluate limits, proceed as follows:    Attempt to just substitute the limit value of into the expression and see if it makes sense. If it does, this is the limit (unless the function is intentionally broken).    Do algebra to manipulate the expression into an equivalent expression for which plugging in makes sense.      Find      Algebraic Limit Calculations   Find the following limits with algebra.        Hint: Factor out the highest power in the numerator and denominator.                   A Familiar Formula Using a Limit  Inscribe a regular -gon inside a circle of radius . Using trigonometry, we can find the area as a function of . If we let (maybe using technology), we should get the area inside a circle of radius . Let's do it!    "
+},
+{
+  "id": "Week14Wed-2-1",
+  "level": "2",
+  "url": "Week14Wed.html#Week14Wed-2-1",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   Understand function domination formally in terms of limits.    Calculate limits at infinity using algebra and numerical reasoning.    See how limits are used in justifying a familiar formula.    "
+},
+{
+  "id": "Week14Wed-2-4",
+  "level": "2",
+  "url": "Week14Wed.html#Week14Wed-2-4",
+  "type": "Example",
+  "number": "14.2",
+  "title": "",
+  "body": " Find   "
+},
+{
+  "id": "Week14Wed-3-1",
+  "level": "2",
+  "url": "Week14Wed.html#Week14Wed-3-1",
+  "type": "Example",
+  "number": "14.3",
+  "title": "Algebraic Limit Calculations.",
+  "body": "Algebraic Limit Calculations   Find the following limits with algebra.        Hint: Factor out the highest power in the numerator and denominator.               "
 }
 ]
 
