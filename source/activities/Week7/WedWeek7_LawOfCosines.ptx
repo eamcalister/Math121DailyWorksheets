@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
     <!-- When creating a new activity, make a copy of this file with appropriate name -->
-        <handout margin="1in" bottom="1.25cm" xml:id="Week7Fri">
+        <handout margin="1in" bottom="1.25cm" xml:id="Week7Wed">
             <title>Wednesday Week 7 - The Law of Cosines</title>
 <page>
         <objectives>
@@ -13,7 +13,7 @@
             </li>
             <li>
                 <p>
-                    USe the Law of Cosines to determine dimensions of triangles.
+                    Use the Law of Cosines to determine dimensions of triangles.
                 </p>
             </li>
           </ul>
