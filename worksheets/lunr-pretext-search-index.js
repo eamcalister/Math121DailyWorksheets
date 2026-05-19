@@ -559,13 +559,40 @@ var ptx_lunr_docs = [
   "body": "  Sketch the graph of the function ,   "
 },
 {
+  "id": "Week6Mon",
+  "level": "1",
+  "url": "Week6Mon.html",
+  "type": "Handout",
+  "number": "6.1",
+  "title": "Monday Week 6 - The Tangent Function",
+  "body": " Monday Week 6 - The Tangent Function      Define the tangent function in terms of the sine and cosine functions.    Find outputs of at special angles.    Find outputs of sine, cosine, and tangent give the output of one of them and a quadrant.      The third basic trigonometric function is the tangent function. Today we will define it and make use of its relationship with the sine and cosine functions.    The Tangent Function   Given an angle , the tangent of is defined as...  Geometrically, we can interpret the tangent of an angle as follows:     Outputs at the Special Angles  Use your knowledge of the outputs of sine and cosine to fill in the following table.                                        How will the sign of the tangent function change depending on the quadrant its input is in?      The Graph of  In the axes below: sketch a graph of              Formula for Transformation of  Use graphical transformations of the graph of to find a formula for the function whose graph is shown below.     f(x)=5*tan(4*x)+10             Relations with Sine and Cosine  Using the relationships between the sine, cosine, and tangent functions, when we are given the value of one of the three functions and a quadrant, we can find the other two.    Suppose is an angle in quadrant II with . Find the values of and .    Suppose is an angle in quadrant I with . Find the values of and .      "
+},
+{
+  "id": "Week6Mon-2-1",
+  "level": "2",
+  "url": "Week6Mon.html#Week6Mon-2-1",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   Define the tangent function in terms of the sine and cosine functions.    Find outputs of at special angles.    Find outputs of sine, cosine, and tangent give the output of one of them and a quadrant.    "
+},
+{
+  "id": "Week6Mon-2-3",
+  "level": "2",
+  "url": "Week6Mon.html#Week6Mon-2-3",
+  "type": "Definition",
+  "number": "6.1",
+  "title": "The Tangent Function.",
+  "body": " The Tangent Function   Given an angle , the tangent of is defined as...  Geometrically, we can interpret the tangent of an angle as follows:   "
+},
+{
   "id": "Week6Wed",
   "level": "1",
   "url": "Week6Wed.html",
   "type": "Handout",
-  "number": "6.1",
-  "title": "Wednesday Week 6 - The Tangent Function",
-  "body": " Wednesday Week 6 - The Tangent Function      Define the tangent function in terms of the sine and cosine functions.    Find outputs of at special angles.    Find outputs of sine, cosine, and tangent give the output of one of them and a quadrant.      The third basic trigonometric function is the tangent function. Today we will define it and make use of its relationship with the sine and cosine functions.    The Tangent Function   Given an angle , the tangent of is defined as...  Geometrically, we can interpret the tangent of an angle as follows:     Outputs at the Special Angles  Use your knowledge of the outputs of sine and cosine to fill in the following table.                                        How will the sign of the tangent function change depending on the quadrant its input is in?      The Graph of  In the axes below: sketch a graph of              Formula for Transformation of  Use graphical transformations of the graph of to find a formula for the function whose graph is shown below.     f(x)=5*tan(4*x)+10             Relations with Sine and Cosine  Using the relationships between the sine, cosine, and tangent functions, when we are given the value of one of the three functions and a quadrant, we can find the other two.    Suppose is an angle in quadrant II with . Find the values of and .    Suppose is an angle in quadrant I with . Find the values of and .      "
+  "number": "6.2",
+  "title": "Wednesday Week 6 - The Six Trigonometric Functions",
+  "body": " Wednesday Week 6 - The Six Trigonometric Functions      Define the reciprocal trigonometric functions and evaluate them at special angles.    Recognize the graphs of the reciprocal trigonometric functions.    Introduce and use the Pythoagorean Identity (this is important!)      We're now familiar with the sine, cosine, and tangent functions. There are three more trigonometric functions that are occasionally useful. These are the reciprocal trigonometric functions.     Given an angle in the unit circle, we make the following definitions:                      Warning: These functions are not the same as , , and . Those are inverse functions.   Evaluating the Reciprocal Functions  Find the indicated values:                                      Graphs of Secant, Cosecant, and Cotangent  The graphs below are those of the secant, cosecant, and cotangent functions. Which one is which?     f(x)=1\/(sin(x))            f(x)=1\/(tan(x))            f(x)=1\/(cos(x))                 The Pythagorean Identity   If is any angle, then    Explanation:      Uses of the Pythagorean Identity     We can derive a similar identity for the secant and tangent functions.    We can find values of any trigonometric functions given the value of one and a quadrant using these identities. For instance, suppose is in quadrant I and . Find the values of the other five trigonometric functions.     "
 },
 {
   "id": "Week6Wed-2-1",
@@ -574,48 +601,21 @@ var ptx_lunr_docs = [
   "type": "Objectives",
   "number": "",
   "title": "",
-  "body": "   Define the tangent function in terms of the sine and cosine functions.    Find outputs of at special angles.    Find outputs of sine, cosine, and tangent give the output of one of them and a quadrant.    "
+  "body": "   Define the reciprocal trigonometric functions and evaluate them at special angles.    Recognize the graphs of the reciprocal trigonometric functions.    Introduce and use the Pythoagorean Identity (this is important!)    "
 },
 {
   "id": "Week6Wed-2-3",
   "level": "2",
   "url": "Week6Wed.html#Week6Wed-2-3",
   "type": "Definition",
-  "number": "6.1",
-  "title": "The Tangent Function.",
-  "body": " The Tangent Function   Given an angle , the tangent of is defined as...  Geometrically, we can interpret the tangent of an angle as follows:   "
-},
-{
-  "id": "Week6Fri",
-  "level": "1",
-  "url": "Week6Fri.html",
-  "type": "Handout",
-  "number": "7.1",
-  "title": "<s class=\"stale\">Friday Week 6<\/s> Monday Week 7 - The Six Trigonometric Functions",
-  "body": " Friday Week 6 Monday Week 7 - The Six Trigonometric Functions      Define the reciprocal trigonometric functions and evaluate them at special angles.    Recognize the graphs of the reciprocal trigonometric functions.    Introduce and use the Pythoagorean Identity (this is important!)      We're now familiar with the sine, cosine, and tangent functions. There are three more trigonometric functions that are occasionally useful. These are the reciprocal trigonometric functions.     Given an angle in the unit circle, we make the following definitions:                      Warning: These functions are not the same as , , and . Those are inverse functions.   Evaluating the Reciprocal Functions  Find the indicated values:                                      Graphs of Secant, Cosecant, and Cotangent  The graphs below are those of the secant, cosecant, and cotangent functions. Which one is which?     f(x)=1\/(sin(x))            f(x)=1\/(tan(x))            f(x)=1\/(cos(x))                 The Pythagorean Identity   If is any angle, then    Explanation:      Uses of the Pythagorean Identity     We can derive a similar identity for the secant and tangent functions.    We can find values of any trigonometric functions given the value of one and a quadrant using these identities. For instance, suppose is in quadrant I and . Find the values of the other five trigonometric functions.     "
-},
-{
-  "id": "Week6Fri-2-1",
-  "level": "2",
-  "url": "Week6Fri.html#Week6Fri-2-1",
-  "type": "Objectives",
-  "number": "",
-  "title": "",
-  "body": "   Define the reciprocal trigonometric functions and evaluate them at special angles.    Recognize the graphs of the reciprocal trigonometric functions.    Introduce and use the Pythoagorean Identity (this is important!)    "
-},
-{
-  "id": "Week6Fri-2-3",
-  "level": "2",
-  "url": "Week6Fri.html#Week6Fri-2-3",
-  "type": "Definition",
-  "number": "7.1",
+  "number": "6.2",
   "title": "",
   "body": "  Given an angle in the unit circle, we make the following definitions:                    "
 },
 {
-  "id": "Week6Fri-2-4",
+  "id": "Week6Wed-2-4",
   "level": "2",
-  "url": "Week6Fri.html#Week6Fri-2-4",
+  "url": "Week6Wed.html#Week6Wed-2-4",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -624,20 +624,38 @@ var ptx_lunr_docs = [
 {
   "id": "pythagorean-id",
   "level": "2",
-  "url": "Week6Fri.html#pythagorean-id",
+  "url": "Week6Wed.html#pythagorean-id",
   "type": "Fact",
-  "number": "7.2",
+  "number": "6.3",
   "title": "The Pythagorean Identity.",
   "body": " The Pythagorean Identity   If is any angle, then    Explanation:    "
+},
+{
+  "id": "Week6Fri",
+  "level": "1",
+  "url": "Week6Fri.html",
+  "type": "Handout",
+  "number": "6.3",
+  "title": "Friday Week 6 - Using Inverse Trigonometric Functions",
+  "body": " Friday Week 6 - Using Inverse Trigonometric Functions      Formally define , , and .    Use inverse trigonometric to find solutions to equations involving trigonometric functions    Use graphs and\/or the unit circle to find additional solutions to equations involving trigonometric functions.      The Inverse Trigonometric Functions     is...   Unit circle visualization:  Using the graph of :      is...   Unit circle visualization:  Using the graph of :      is...   Unit circle visualization:  Using the graph of :         Alternative Notations      Practice with Definitions  For each of the following, find the indicated value:                     Solving Equations (One Solution)  For each of the following equations, find one solution using an inverse trigonometric function.                  Finding Additional Solutions  Once you have found one solution to a trigonometric equation, you can find additional solutions using the unit circle or the graph of a trigonometric function.    Find all solutions to with .    Find all solutions to with .      "
+},
+{
+  "id": "Week6Fri-2-1",
+  "level": "2",
+  "url": "Week6Fri.html#Week6Fri-2-1",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "   Formally define , , and .    Use inverse trigonometric to find solutions to equations involving trigonometric functions    Use graphs and\/or the unit circle to find additional solutions to equations involving trigonometric functions.    "
 },
 {
   "id": "Week7Mon",
   "level": "1",
   "url": "Week7Mon.html",
   "type": "Handout",
-  "number": "7.2",
-  "title": "<s class=\"stale\">Monday<\/s> Wednesday Week 7 - Using Inverse Trigonometric Functions",
-  "body": " Monday Wednesday Week 7 - Using Inverse Trigonometric Functions      Formally define , , and .    Use inverse trigonometric to find solutions to equations involving trigonometric functions    Use graphs and\/or the unit circle to find additional solutions to equations involving trigonometric functions.      The Inverse Trigonometric Functions     is...   Unit circle visualization:  Using the graph of :      is...   Unit circle visualization:  Using the graph of :      is...   Unit circle visualization:  Using the graph of :         Alternative Notations      Practice with Definitions  For each of the following, find the indicated value:                     Solving Equations (One Solution)  For each of the following equations, find one solution using an inverse trigonometric function.                  Finding Additional Solutions  Once you have found one solution to a trigonometric equation, you can find additional solutions using the unit circle or the graph of a trigonometric function.    Find all solutions to with .    Find all solutions to with .      "
+  "number": "7.1",
+  "title": "Monday Week 7 - Right Triangle Trigonometry",
+  "body": " Monday Week 7 - Right Triangle Trigonometry      Define the trigonometric functions in terms of a right triangle using ratios of side lengths.    Solve applied problems using right triangle trigonometry.      So far, we have been using the definitions of sine, cosine, and tangent in terms of positions on the unit circle (as , , and , respectively.). By embedding triangles in circles, we can deduce the standard definitions in terms of a right triangle. Then we can solve triangle problems.     Consider the right triangle shown below:      points=((6,0),(0,0),(6,5))    \\theta    h    a    o       With sides labled as in the figure, we have the following definitions of , , and :     A Basic Triangle Problem  Using the triangle given below, find each of the insicated values.       points=((10,0),(0,0),(10,5))    \\theta    10    5    \\phi                                  Applications of Right Triangle Trigonometry    A ft tall tower is to be anchored by cables that make a angle with the ground. How long must the cables be and how far from the base of the tower must they be placed?     A surveyor must measure the distance between two banks of a straight river. She sights a tree at the point on the opposite bank of the river and drives a stake into the ground (at point ) directly across from the tree. The she walks meters upstream and places a stake at the point . She measures then angle and finds that is it . What is the width of the river?      points=((5,0),(0,0),(5,8.6))      58^{\\circ}    50    d              "
 },
 {
   "id": "Week7Mon-2-1",
@@ -646,16 +664,25 @@ var ptx_lunr_docs = [
   "type": "Objectives",
   "number": "",
   "title": "",
-  "body": "   Formally define , , and .    Use inverse trigonometric to find solutions to equations involving trigonometric functions    Use graphs and\/or the unit circle to find additional solutions to equations involving trigonometric functions.    "
+  "body": "   Define the trigonometric functions in terms of a right triangle using ratios of side lengths.    Solve applied problems using right triangle trigonometry.    "
+},
+{
+  "id": "Week7Mon-2-3",
+  "level": "2",
+  "url": "Week7Mon.html#Week7Mon-2-3",
+  "type": "Definition",
+  "number": "7.1",
+  "title": "",
+  "body": "  Consider the right triangle shown below:      points=((6,0),(0,0),(6,5))    \\theta    h    a    o       With sides labled as in the figure, we have the following definitions of , , and :   "
 },
 {
   "id": "Week7Wed",
   "level": "1",
   "url": "Week7Wed.html",
   "type": "Handout",
-  "number": "7.3",
-  "title": "<s class=\"stale\">Wednesday<\/s> Friday Week 7 - Right Triangle Trigonometry",
-  "body": " Wednesday Friday Week 7 - Right Triangle Trigonometry      Define the trigonometric functions in terms of a right triangle using ratios of side lengths.    Solve applied problems using right triangle trigonometry.      So far, we have been using the definitions of sine, cosine, and tangent in terms of positions on the unit circle (as , , and , respectively.). By embedding triangles in circles, we can deduce the standard definitions in terms of a right triangle. Then we can solve triangle problems.     Consider the right triangle shown below:      points=((6,0),(0,0),(6,5))    \\theta    h    a    o       With sides labled as in the figure, we have the following definitions of , , and :     A Basic Triangle Problem  Using the triangle given below, find each of the insicated values.       points=((10,0),(0,0),(10,5))    \\theta    10    5    \\phi                                  Applications of Right Triangle Trigonometry    A ft tall tower is to be anchored by cables that make a angle with the ground. How long must the cables be and how far from the base of the tower must they be placed?     A surveyor must measure the distance between two banks of a straight river. She sights a tree at the point on the opposite bank of the river and drives a stake into the ground (at point ) directly across from the tree. The she walks meters upstream and places a stake at the point . She measures then angle and finds that is it . What is the width of the river?      points=((5,0),(0,0),(5,8.6))      58^{\\circ}    50    d              "
+  "number": "7.2",
+  "title": "Wednesday Week 7 - The Law of Cosines",
+  "body": " Wednesday Week 7 - The Law of Cosines      Derive the Law of Cosines.    Use the Law of Cosines to determine dimensions of triangles.      The Law of Cosines is the first of two tools we use when working with non-right triangles (the second being the Law of Sines). The best way to think of the Law of Cosines is as the Pythagorean Theorem with a correction term because the triangle is not a right triangle.    Deriving the Law of Cosines  Consider the labeled triangle below:      points=((8,0),(0,0),(6,5))    C    B    A    a    b    c    h           Goal: Figure out (or ) if we know , , and .  Thus, we have The Law of Cosines:       Two Standard Uses of the Law of Cosines    The first standard use of the Law of Cosines is to find the dimensions of a triangle when two sides are given along with the angle between them (a side-angle-side triple).       points=((5,0),(0,0),(6,5))    32^{\\circ}    11    8    ?       Find the remaining side in the given triangle.     A second use is to determine the angles of a triangle when all the sides are known.       points=((6.5,0),(0,0),(6,5))    12    10    7       Find the angles in the given triangle.         Applied Practice  A triangular park is bordered on the south by a mile stretch of highway and on the northwest by a mile stretch of railroad track, where is the measure of the acute angle between the highway and the railroad tracks. As part of a community improvement project, the city want to fence the third side of the park and seed the park with grass.    How much fence is needed for the third side of the park?    What is the degree measure of the angle at the southeat corner of the park?    For how much total area will they need grass seed?      "
 },
 {
   "id": "Week7Wed-2-1",
@@ -664,25 +691,25 @@ var ptx_lunr_docs = [
   "type": "Objectives",
   "number": "",
   "title": "",
-  "body": "   Define the trigonometric functions in terms of a right triangle using ratios of side lengths.    Solve applied problems using right triangle trigonometry.    "
+  "body": "   Derive the Law of Cosines.    Use the Law of Cosines to determine dimensions of triangles.    "
 },
 {
-  "id": "Week7Wed-2-3",
+  "id": "Week7Wed-2-3-5",
   "level": "2",
-  "url": "Week7Wed.html#Week7Wed-2-3",
-  "type": "Definition",
-  "number": "7.3",
+  "url": "Week7Wed.html#Week7Wed-2-3-5",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
   "title": "",
-  "body": "  Consider the right triangle shown below:      points=((6,0),(0,0),(6,5))    \\theta    h    a    o       With sides labled as in the figure, we have the following definitions of , , and :   "
+  "body": "The Law of Cosines: "
 },
 {
   "id": "Week7Fri",
   "level": "1",
   "url": "Week7Fri.html",
   "type": "Handout",
-  "number": "8.1",
-  "title": "<s class=\"stale\">Friday Week 7<\/s> Monday Week 8 - The Law of Cosines",
-  "body": " Friday Week 7 Monday Week 8 - The Law of Cosines      Derive the Law of Cosines.    USe the Law of Cosines to determine dimensions of triangles.      The Law of Cosines is the first of two tools we use when working with non-right triangles (the second being the Law of Sines). The best way to think of the Law of Cosines is as the Pythagorean Theorem with a correction term because the triangle is not a right triangle.    Deriving the Law of Cosines  Consider the labeled triangle below:      points=((8,0),(0,0),(6,5))    C    B    A    a    b    c    h           Goal: Figure out (or ) if we know , , and .  Thus, we have The Law of Cosines:       Two Standard Uses of the Law of Cosines    The first standard use of the Law of Cosines is to find the dimensions of a triangle when two sides are given along with the angle between them (a side-angle-side triple).       points=((5,0),(0,0),(6,5))    32^{\\circ}    11    8    ?       Find the remaining side in the given triangle.     A second use is to determine the angles of a triangle when all the sides are known.       points=((6.5,0),(0,0),(6,5))    12    10    7       Find the angles in the given triangle.         Applied Practice  A triangular park is bordered on the south by a mile stretch of highway and on the northwest by a mile stretch of railroad track, where is the measure of the acute angle between the highway and the railroad tracks. As part of a community improvement project, the city want to fence the third side of the park and seed the park with grass.    How much fence is needed for the third side of the park?    What is the degree measure of the angle at the southeat corner of the park?    For how much total area will they need grass seed?      "
+  "number": "7.3",
+  "title": "Friday Week 7 - The Law of Sines",
+  "body": " Friday Week 7 - The Law of Sines      Derive the Law of Sines.    Use the Law of Sines to determine dimensions of triangles when possible.      The Law of Sines is the second of two tools we use when working with non-right triangles (the first being the Law of Cosines). The Law of Sines says that in a given triangle the ratio of the sine of an angle to the side opposite that angle is constant.    Deriving the Law of Sines  Consider the labeled triangle below (the same one from the Law of Cosines):      points=((8,0),(0,0),(6,5))    C    B    A    a    b    c    h           Observation: We can write as and as . What does that get us?  Thus, we have The Law of Sines:       Standard Use of the Law of Sines  The Law of Sines is useful when you know one angle, the side length opposite that angle, and one additional measurement.       points=((5,0),(-2,0),(9,4))    ?    20^{\\circ}    ?    6    5    ?       Find the unknown dimensions of this triangle.       The Ambiguous Case  Use the Law of Sines to determine the angle in the upper right of the given triangle.       points=((5,0),(-2,0),(9,4))    25^{\\circ}    ?    7    10          How can you tell when there are multiple possibilities? (There was only one possibility for each angle in the last problem.)    "
 },
 {
   "id": "Week7Fri-2-1",
@@ -691,7 +718,7 @@ var ptx_lunr_docs = [
   "type": "Objectives",
   "number": "",
   "title": "",
-  "body": "   Derive the Law of Cosines.    USe the Law of Cosines to determine dimensions of triangles.    "
+  "body": "   Derive the Law of Sines.    Use the Law of Sines to determine dimensions of triangles when possible.    "
 },
 {
   "id": "Week7Fri-2-3-5",
@@ -700,14 +727,14 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "The Law of Cosines: "
+  "body": "The Law of Sines: "
 },
 {
   "id": "Week8Wed",
   "level": "1",
   "url": "Week8Wed.html",
   "type": "Handout",
-  "number": "8.2",
+  "number": "8.1",
   "title": "Wednesday Week 8 - Solving Trigonometric Equations",
   "body": " Wednesday Week 8 - Solving Trigonometric Equations      Find solutions to trigonometric equations using inverse trigonometric functions.    Find additional solutions in an indicated interval using the unit circle or a graph.      Strategy for finding all solutions on an indicated domain  Given an equation involving trigonometric functions, there are usually multiple solutions. To find them all on a given domain, the following is a good approach:    Find at least one solution by doing algebra and using an inverse trigonometric function.    Use a graph or the unit circle to find solutions in the indicated domain.    When the equation involves trigonometric functions with only ``outside'' transformations applied, you can usually use the unit circle.    When the equation involves trigonometric functions with ``inside'' transformations applied, it is often more useful to use a graph.        Warm-up Question  Find all solutions with to the equation        Problems  Find all solutions to the given equation on the indicated domain.     with .     with .     with .      "
 },
