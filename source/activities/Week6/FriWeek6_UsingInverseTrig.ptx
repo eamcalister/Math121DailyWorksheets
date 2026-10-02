@@ -49,7 +49,7 @@
                     Unit circle visualization:
                 </p>
                 <p workspace="1.5in">
-                    Using the graph of <m>y = \cos(\theta)</m>:
+                    Using the graph of <m>x = \cos(\theta)</m>:
                 </p>
             </sidebyside>
         </li>
@@ -62,7 +62,7 @@
                     Unit circle visualization:
                 </p>
                 <p workspace="1.5in">
-                    Using the graph of <m>y = \tan(\theta)</m>:
+                    Using the graph of <m>m = \tan(\theta)</m>:
                 </p>
             </sidebyside>
         </li>

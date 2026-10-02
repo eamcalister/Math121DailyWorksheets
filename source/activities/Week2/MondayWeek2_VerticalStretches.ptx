@@ -125,7 +125,7 @@ To summarize:
 <page>
 
 <paragraphs xml:id="complex_point_tracking">
-    <title>Problem</title>
+    <title>Point Tracking Problem</title>
     <p>
     Suppose <m>(6,9)</m> is a point on the graph of <m>g(x)</m>. For each of the following transformations of <m>g(x)</m>, decide the coordinates of the transformed version of this point.
     </p>

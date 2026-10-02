@@ -132,7 +132,7 @@
 <paragraphs>
     <title>Complex Transformation Description Problem</title>
 <p>
-    In <xref ref="complex_point_tracking">a previous problem</xref>, we tracked through where a point ends up by essentially evaluating and solving. Now, let's revisit that problem and describe the transformations to track the point. Again, suppose <m>(6,9)</m> is a point on the graph of <m>g(x)</m>. For each of the following transformations of <m>g(x)</m>, give the transformations performed, in the correct order, and give the corresponding point on the transformed graph.
+    In <xref ref="complex_point_tracking" text="title">a previous problem</xref>, we tracked through where a point ends up by essentially evaluating and solving. Now, let's revisit that problem and describe the transformations to track the point. Again, suppose <m>(6,9)</m> is a point on the graph of <m>g(x)</m>. For each of the following transformations of <m>g(x)</m>, give the transformations performed, in the correct order, and give the corresponding point on the transformed graph.
 </p>
 <ol>
     <li>
