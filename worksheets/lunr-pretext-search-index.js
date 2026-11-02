@@ -1031,9 +1031,9 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "Week11Mon.html",
   "type": "Handout",
-  "number": "11.1",
-  "title": "Monday Week 11 - Inverse Functions",
-  "body": " Monday Week 11 - Inverse Functions      Recall the definition of an inverse function.    Find formulas for inverse functions.    Check that two functions are inverses of one another.      A topic related to composition of functions is inverse functions. Today we'll study these in some detail.   Inverse Function   Given a function (we can call this the \"forward\" function), the inverse function is the function such that...  Note: It is a good practice to keep the input variable name as the output variable of the inverse and vice versa. However, sometimes we write because we're in the habit of making the input variable .    A Practical Example  Let be the population, in millions, of bacteria in a dish after hours.    Find a formula for the inverse function and give its practical meaning with units.    Use the inverse function to find the time when the population of bacteria is million.       Two Key Poperties:        Meaning:       Meaning:       Graphical Inversion    Given the graph of below, find each of the indicated values:     f(x)=x  g(x)=x\/2-1  h(x)=x^2-1        f(x)                                           Finding Inverse Functions and Checking It's Right    For each of the following functions, find the formula for the inverse function. Then check your work by checking that the function and the inverse you found undo one another.                "
+  "number": "11",
+  "title": "<s class=\"stale\">Monday<\/s>Wednesday Week 11 - Inverse Functions",
+  "body": " Monday Wednesday Week 11 - Inverse Functions      Recall the definition of an inverse function.    Find formulas for inverse functions.    Check that two functions are inverses of one another.      A topic related to composition of functions is inverse functions. Today we'll study these in some detail.   Inverse Function   Given a function (we can call this the \"forward\" function), the inverse function is the function such that...  Note: It is a good practice to keep the input variable name as the output variable of the inverse and vice versa. However, sometimes we write because we're in the habit of making the input variable .    A Practical Example  Let be the population, in millions, of bacteria in a dish after hours.    Find a formula for the inverse function and give its practical meaning with units.    Use the inverse function to find the time when the population of bacteria is million.       Two Key Poperties:        Meaning:       Meaning:       Graphical Inversion    Given the graph of below, find each of the indicated values:     f(x)=x  g(x)=x\/2-1  h(x)=x^2-1        f(x)                                           Finding Inverse Functions and Checking It's Right    For each of the following functions, find the formula for the inverse function. Then check your work by checking that the function and the inverse you found undo one another.                "
 },
 {
   "id": "Week11Mon-2-1",
@@ -1072,29 +1072,11 @@ var ptx_lunr_docs = [
   "body": "Two Key Poperties: "
 },
 {
-  "id": "Week11Wed",
-  "level": "1",
-  "url": "Week11Wed.html",
-  "type": "Handout",
-  "number": "11.2",
-  "title": "Wednesday Week 11 - Combinations of Functions",
-  "body": " Wednesday Week 11 - Combinations of Functions      Work with combinations of functions.    Explore how relationships between functions give rise to features on the graphs of combinations.      Another, seemingly simpler, way of creating new functions from old ones is to combine using the operations of arithmetic: addition, subtraction, multiplication, and division. While these constructions are simple, the way these combinations behave based on how functions relate to one another is important in many situations.    Combinations from a Table   Finding the outputs of sums, differences, products, and quotients of functions is easy; just evaluate the individual components and do the arithmetic. To see this, fill in the last four rows of the following table.                                                                    Some observations:    The product of two functions is zero if and only if one of the factors is zero.    The difference of two functions is zero if and only if the two functions are equal.    The quotient of two functions is zero if and only if when the numerator is zero and the denominator is not zero.    The quotient of two functions is one if and only if the two functions are equal and not zero.    The sign of a product or quotient is determined by the sign of the factors and\/or numerator and denominator.       Graphing Problems  Use the ideas from the previous page to give rough sketches (show the important features, possibly without exact -values) of the following combinations.                                    Another Graph    Use the graphs of and to sketch a graph of .     g(x)=x  f(x)=cos(x)            "
-},
-{
-  "id": "Week11Wed-2-1",
-  "level": "2",
-  "url": "Week11Wed.html#Week11Wed-2-1",
-  "type": "Objectives",
-  "number": "",
-  "title": "",
-  "body": "   Work with combinations of functions.    Explore how relationships between functions give rise to features on the graphs of combinations.    "
-},
-{
   "id": "Week11Fri",
   "level": "1",
   "url": "Week11Fri.html",
   "type": "Handout",
-  "number": "11.3",
+  "number": "11",
   "title": "Friday Week 11 - Power Functions",
   "body": " Friday Week 11 - Power Functions      Define and recognize power functions.    Find formulas for power functions from points on the graph.    Identify general graph features based on the coefficient and exponent in power functions.      Power functions are one more basic class of functions that involves two parameters. They are relatively simple to work with algebraically, but in contrast to other families, they can display a multitude of graphical behaviors.   Power Function   A power function is one of the form...      Decide if each of the following are power functions. For those that are power functions, identify the coefficient and exponent. Also, give a rough sketch of the graph if you can.                             Finding Formulas    Find a formula for a power function such that and .    Graphs of Positive Integer Powers  Match the following functions to its graph: , , , .      f(x)=x^2  g(x)=x^4             f(x)=x^3  g(x)=x^5               Graphs of Negative Integer Powers  Match the following functions to its graph: , , , .      f(x)=x^(-2)  g(x)=x^(-4)             f(x)=x^(-3)  g(x)=x^(-5)             Graphs of Positive Fractional Powers  Match the following functions to its graph: , , , .     f(x)=sqrt(x)  g(x)=exp(ln(x)\/3)  h(x)=sqrt(sqrt(x))  k(x)=exp(ln(x)\/5)                Summary of Behavior Near Zero or   Describe how behaves as , , or , depending on the given combinations of and (sketch a graph for each).     and is positive and even.  As ,      and is negative and even.  As ,   As ,      and is positive and odd.  As ,   As ,      and is negative and odd.  As ,   As ,   As ,       "
 },
