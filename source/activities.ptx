@@ -80,8 +80,11 @@
 
     <section>
     <title>Week 11</title>
+    <p>
+      <em>Note: Combinations of functions removed for Wednesday due to flood cancellation on Monday.</em>
+    </p>
     <xi:include href="./activities/Week11/MonWeek11_InverseFunctions.ptx"/>
-    <xi:include href="./activities/Week11/WedWeek11_Combinations.ptx"/>
+    <!--xi:include href="./activities/Week11/WedWeek11_Combinations.ptx"/-->
     <xi:include href="./activities/Week11/FriWeek11_PowerFunctions.ptx"/>
     </section>
     
